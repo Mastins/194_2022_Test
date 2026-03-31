@@ -1,0 +1,5208 @@
+{
+  "questions": [
+    {
+      "Quest_ID": 1,
+      "Question": "Nařízení vlády č. 194/2022 Sb. stanovuje požadavky na odbornou způsobilost",
+      "Answer_1": "fyzických osob, které vykonávají obsluhu elektrických zařízení",
+      "Answer_2": "fyzických osob, které vykonávají práci na elektrických zařízeních",
+      "Answer_3": "pracovníků, kteří se zabývají prodejem elektrických zařízení",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 1,
+      "Question": "vyprostit postiženého z dosahu proudu 62",
+      "Answer_1": "zajistit průchodnost dýchacích cest",
+      "Answer_2": "uložit postiženého na měkkou podložku",
+      "Answer_3": "zaklonit postiženému hlavu",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 2,
+      "Question": "Nařízení vlády č. 194/2022 Sb. stanovuje požadavky na odbornou způsobilost",
+      "Answer_1": "osob, které se zabývají projektováním vyhrazených elektrických zařízení",
+      "Answer_2": "pracovníků, kteří pracují v oboru normalizace",
+      "Answer_3": "osob, které se zabývají řízením činností na vyhrazených elektrických zařízeních",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 3,
+      "Question": "Nařízení vlády č. 194/2022 Sb. stanovuje požadavky na odbornou způsobilost a dále stanoví",
+      "Answer_1": "platové třídy pracovníků v návaznosti na získanou kvalifikaci",
+      "Answer_2": "postup při provádění zkoušky odborné způsobilosti a způsob jejího vyhodnocení",
+      "Answer_3": "povinnosti předsedy zkušební komise",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 4,
+      "Question": "Odborná způsobilost není vyžadována pro",
+      "Answer_1": "obsluhu elektrického zařízení malého napětí",
+      "Answer_2": "opravy elektrického zařízení nízkého napětí",
+      "Answer_3": "obsluhu elektrického zařízení nízkého napětí",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 5,
+      "Question": "Osoby školené (seznámené) jsou podle § 19 zákona č. 250/2021 Sb.",
+      "Answer_1": "osoby znalé",
+      "Answer_2": "osoby, které nejsou znalé ani poučené, ale byly pro činnost zaškoleny",
+      "Answer_3": "osoby poučené 6",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 6,
+      "Question": "Školení osob školených (seznámených) podle § 19 zákona č. 250/2021 Sb.",
+      "Answer_1": "může provádět pouze revizní technik",
+      "Answer_2": "není nikde předepsáno",
+      "Answer_3": "se provádí v souladu se zákoníkem práce",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 7,
+      "Question": "§ 4 nařízení vlády č. 194/2022 Sb. stanovuje požadavky pro získání kvalifikace",
+      "Answer_1": "osob školených",
+      "Answer_2": "osob poučených",
+      "Answer_3": "osob znalých",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 8,
+      "Question": "Osoby poučené musí být organizací v rozsahu své činnosti také",
+      "Answer_1": "školeny o právních a ostatních předpisech k zajištění bezpečnosti a ochrany zdraví při práci",
+      "Answer_2": "vybaveny platnými českými technickými normami",
+      "Answer_3": "seznámeny s postupy poskytnutí první pomoci při úrazech el. proudem",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 9,
+      "Question": "Osoby poučené musí být organizací v rozsahu své činnosti také",
+      "Answer_1": "školeny v oblasti příčin rizik na elektrických zařízeních",
+      "Answer_2": "upozorněny na možné ohrožení elektrickými zařízeními",
+      "Answer_3": "vždy vybaveny izolačními rukavicemi",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 10,
+      "Question": "Pro účely proškolení osob poučených (§ 4 nařízení vlády č. 194/2022 Sb.) se stanoví obsah a časový rozsah poučení",
+      "Answer_1": "podle tabulky uvedené v zákoníku práce",
+      "Answer_2": "s ohledem na charakter a rozsah činnosti, kterou mají osoby poučené vykonávat",
+      "Answer_3": "s ohledem na počet školených pracovníků",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 11,
+      "Question": "Organizace je povinna zajistit ověřování znalostí osob poučených",
+      "Answer_1": "vždy za čtyři roky",
+      "Answer_2": "pouze jedenkrát, opakované ověřování znalostí není nutné",
+      "Answer_3": "ve lhůtách, které určí osoba, která provedla ověření znalostí, ne delších než 3 roky 7",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 12,
+      "Question": "Zápis o poučení a ověření znalostí osob poučených",
+      "Answer_1": "vyhotoví osoba znalá, která poučení a ověření provedla",
+      "Answer_2": "podepisuje pouze osoba, která poučení provedla",
+      "Answer_3": "musí podepsat osoba poučená i osoba, která poučení a ověření znalostí provedla",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 13,
+      "Question": "Poučení a ověření znalostí osob poučených pro práce na elektrických zařízeních provádí pověřená osoba, a to",
+      "Answer_1": "osoba znalá",
+      "Answer_2": "osoba poučená",
+      "Answer_3": "osoba školená (seznámená)",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 14,
+      "Question": "Kvalifikaci podle § 6 „elektrotechnik“ může získat po úspěšném složení předepsané zkoušky",
+      "Answer_1": "osoba, který dokončila alespoň půl roku z vysokoškolského studia oboru elektro",
+      "Answer_2": "osoba, která má odbornou kvalifikaci (dokončené vzdělání) v oboru elektro",
+      "Answer_3": "osoba, která má praxi stanovenou místním provozním bezpečnostním předpisem",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 15,
+      "Question": "Zaškolení a zkoušky osob s kvalifikací „elektrotechnik“",
+      "Answer_1": "si musí zajišťovat každý zaměstnanec sám",
+      "Answer_2": "je povinna zajistit organizace, pro kterou „elektrotechnik“ vykonává činnosti",
+      "Answer_3": "je povinen zajistit hlavní energetik organizace",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 16,
+      "Question": "Obsah a délku zaškolení pro osoby s kvalifikací „elektrotechnik“ stanoví organizace s ohledem na charakter a rozsah činnosti, kterou mají osoby vykonávat. Dále je organizace povinna",
+      "Answer_1": "zajistit nejméně jednou za pět let přezkoušení",
+      "Answer_2": "zajistit každý rok přezkoušení",
+      "Answer_3": "zajistit nejméně jednou za tři roky přezkoušení 8",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 17,
+      "Question": "Přezkoušení osob s kvalifikací „elektrotechnik“ provede",
+      "Answer_1": "tříčlenná zkušební komise, jejímž předsedou musí být revizní technik",
+      "Answer_2": "externí právnická nebo podnikající fyzická osoba, která má v předmětu podnikání zajišťování školení a zkoušení nebo ověřování znalostí",
+      "Answer_3": "revizní technik samostatně, komise není nutná",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 18,
+      "Question": "Předseda zkušební komise",
+      "Answer_1": "nesmí pořídit o průběhu a obsahu zkoušky protokol",
+      "Answer_2": "pořizuje o průběhu a obsahu zkoušky protokol",
+      "Answer_3": "nemusí pořizovat žádný protokol o zkoušce",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 19,
+      "Question": "Osoby znalé jsou osoby, které splňují kvalifikaci podle těchto paragrafů nařízení vlády č. 194/2022 Sb.",
+      "Answer_1": "§ 6 („elektrotechnik“), § 7 („vedoucí elektrotechnik“), § 8 („revizní technik“)",
+      "Answer_2": "§ 4 (osoba poučená)",
+      "Answer_3": "§ 3",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 20,
+      "Question": "„Vedoucí elektrotechnik“ (§ 7) musí před získáním této kvalifikace dokončit praxi na elektrických zařízeních",
+      "Answer_1": "bez ohledu na napětí minimálně 6 měsíců",
+      "Answer_2": "do 1 000 V, bez nebezpečí výbuchu min. 2 roky, s výbuchem min. 3 roky",
+      "Answer_3": "nad 1 000 V, v objektech s nebezpečím výbuchu minimálně v délce 4 roky",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 21,
+      "Question": "Přezkoušení osob s kvalifikací „vedoucí elektrotechnik“ provede",
+      "Answer_1": "nejméně čtyřčlenná zkušební komise",
+      "Answer_2": "dvoučlenná zkušební komise, jejímž předsedou musí být revizní technik",
+      "Answer_3": "tříčlenná zkušební komise, jejímž předsedou musí být revizní technik 9",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 22,
+      "Question": "O úspěšném složení zkoušky obdrží přezkoušená osoba s kvalifikací „elektrotechnik“ nebo „vedoucí elektrotechnik“",
+      "Answer_1": "doklad o úspěšném složení zkoušky",
+      "Answer_2": "osvědčení o úspěšném složení zkoušky",
+      "Answer_3": "certifikát o úspěšném složení zkoušky",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 23,
+      "Question": "Doklad o úspěšném složení zkoušky osob s kvalifikací „elektrotechnik“ nebo „vedoucí elektrotechnik“ má platnost",
+      "Answer_1": "1 rok ode dne vydání",
+      "Answer_2": "3 roky ode dne vydání",
+      "Answer_3": "5 roků ode dne vydání",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 24,
+      "Question": "Pokud doklad o úspěšném složení zkoušky osoby s kvalifikací „elektrotechnik“ nebo „vedoucí elektrotechnik“ pozbude platnost, považuje se osoba za",
+      "Answer_1": "osobu znalou",
+      "Answer_2": "osobu poučenou",
+      "Answer_3": "osobu školenou (seznámenou)",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 25,
+      "Question": "Předseda zkušební komise zajistí uchování protokolu o zkoušce",
+      "Answer_1": "po dobu nejméně 6 let, nejdéle však 7 let",
+      "Answer_2": "pouze do příštího přezkoušení",
+      "Answer_3": "po dobu nejméně 10 roků",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 26,
+      "Question": "Kvalifikací „elektrotechnik“ je označována",
+      "Answer_1": "osoba znalá pro řízení činnosti dodavatelským způsobem",
+      "Answer_2": "osoba znalá pro samostatnou činnost",
+      "Answer_3": "osoba znalá pro řízení činnosti 10",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 27,
+      "Question": "Kvalifikací „vedoucí elektrotechnik“ je označována",
+      "Answer_1": "osoba poučená",
+      "Answer_2": "osoba znalá pro samostatnou činnost",
+      "Answer_3": "osoba znalá pro řízení činnosti",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 28,
+      "Question": "Osoba s kvalifikací „vedoucí elektrotechnik“ může provádět",
+      "Answer_1": "řízení činností a řízení provozu vyhrazených elektrických zařízení",
+      "Answer_2": "projektování vyhrazených elektrických zařízení, které není předmětem autorizace",
+      "Answer_3": "revize vyhrazených elektrických zařízení",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 29,
+      "Question": "Aby mohl být výsledek písemné části zkoušky vyhodnocen stupněm „vyhověl“, musí mít zkoušený",
+      "Answer_1": "minimálně 70% správných odpovědí",
+      "Answer_2": "minimálně 80% správných odpovědí",
+      "Answer_3": "všechny odpovědi správně",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 30,
+      "Question": "Aby mohl být výsledek ústní části zkoušky vyhodnocen stupněm „vyhověl“, musí mít zkoušený",
+      "Answer_1": "minimálně 50% správných odpovědí",
+      "Answer_2": "minimálně 70% správných odpovědí",
+      "Answer_3": "minimálně 80% správných odpovědí",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 31,
+      "Question": "Zkoušky a přezkoušení revizních techniků provádí",
+      "Answer_1": "oblastní inspektorát práce",
+      "Answer_2": "tříčlenná zkušební komise",
+      "Answer_3": "pověřená organizace (Technická inspekce České republiky = TIČR) 11",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 32,
+      "Question": "Projektování vyhrazených elektrických zařízení, které není předmětem autorizace, může provádět",
+      "Answer_1": "vedoucí elektrotechnik",
+      "Answer_2": "elektrotechnik",
+      "Answer_3": "osoba poučená",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 33,
+      "Question": "Učitelé, kteří používají při výuce na školách elektrická zařízení pod napětím, jsou v používání zařízení zaškoleni a jejich znalost je nejméně jednou za tři roky ověřována, se považují pro tuto činnost za",
+      "Answer_1": "osoby poučené",
+      "Answer_2": "osoby s kvalifikací „elektrotechnik“",
+      "Answer_3": "osoby s kvalifikací „vedoucí elektrotechnik“",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 34,
+      "Question": "Pracovníci výzkumných a vývojových ústavů, kteří mají vysokoškolské vzdělání, v rámci výuky složili zkoušky z elektrotechniky, elektroniky nebo fyziky, složili zkoušku v předepsaném rozsahu a vykonávají experimentální práci na vymezených vědeckých nebo vývojových pracovištích se považují v rámci těchto pracovišť za",
+      "Answer_1": "osoby s kvalifikací „elektrotechnik“",
+      "Answer_2": "osoby s kvalifikací „vedoucí elektrotechnik“",
+      "Answer_3": "osoby s kvalifikací „revizní technik“",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 35,
+      "Question": "Absolventi přírodovědecké fakulty vysoké školy v oboru fyziky, kteří pracují jako asistenti laboratoří škol všech stupňů a jejichž znalost je nejméně jednou za tři roky ověřována, se považují na svých pracovištích",
+      "Answer_1": "osoby s kvalifikací „elektrotechnik“",
+      "Answer_2": "osoby s kvalifikací „vedoucí elektrotechnik“",
+      "Answer_3": "osoby s kvalifikací „revizní technik“",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 36,
+      "Question": "Ověřování znalostí bezpečnostních předpisů souvisejících s činností učitelů, kteří používají při výuce na školách elektrická zařízení pod napětím provede",
+      "Answer_1": "dvoučlenná zkušební komise",
+      "Answer_2": "tříčlenná zkušební komise, jejímž předsedou musí být revizní technik",
+      "Answer_3": "revizní technik samostatně, komise není nutná 12",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 37,
+      "Question": "Osoba poučená může (pokud je to v souladu s místními provozními bezpečnostními předpisy) provádět",
+      "Answer_1": "práci podle pokynů na elektrických zařízení do 1 kV pod napětím",
+      "Answer_2": "práci s dohledem na elektrických zařízení do 1 kV pod napětím",
+      "Answer_3": "samostatnou obsluhu elektrických zařízení bez omezení napětí",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 38,
+      "Question": "Osoba poučená může (pokud je to v souladu s místními provozními bezpečnostními předpisy) provádět",
+      "Answer_1": "práci podle pokynů na elektrických zařízení vysokého napětí bez napětí",
+      "Answer_2": "práci s dohledem na elektrických zařízení vysokého napětí bez napětí",
+      "Answer_3": "práci s dohledem na elektrických zařízení vysokého napětí pod napětím",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 39,
+      "Question": "Ověření znalostí zkouškou pro práce na elektrickém zařízení provozovatele přenosové a distribuční soustavy může provést",
+      "Answer_1": "revizní technik samostatně (komise není nutná)",
+      "Answer_2": "tříčlenná zkušební komise, jejímž předsedou musí být vždy revizní technik",
+      "Answer_3": "tříčlenná zkušební komise, jejímž předsedou může být odpovědná osoba příslušného provozovatele, s kvalifikací minimálně „vedoucí elektrotechnik“",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 40,
+      "Question": "Osoby samostatně výdělečně činné",
+      "Answer_1": "potřebují doklad o odborné způsobilosti pouze při žádosti o živnost, pak už ne",
+      "Answer_2": "si musí zajistit zkoušky odborné způsobilosti samy pro sebe",
+      "Answer_3": "pro sebe nepotřebují zkoušky odborné způsobilosti",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 41,
+      "Question": "Doklad o úspěšném složení zkoušky odborné způsobilosti",
+      "Answer_1": "se již nevystavuje",
+      "Answer_2": "vystavuje vždy dodatečně až zaměstnavatel, po předložení protokolu o zkoušce",
+      "Answer_3": "vystavuje předseda zkušební komise 13",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 42,
+      "Question": "Rozsah odborné způsobilosti se stanovuje podle",
+      "Answer_1": "věku uchazeče",
+      "Answer_2": "rozsahu napětí - buď do 1 kV AC a 1,5 kV DC, nebo bez omezení napětí",
+      "Answer_3": "druhu - buď v objektech bez nebezpečí výbuchu, nebo s nebezpečím výbuchu",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 43,
+      "Question": "Minimální praxi pro osobu s kvalifikací „elektrotechnik“ stanoví",
+      "Answer_1": "odpovědná osoba v souladu s místním provozním bezpečnostním předpisem",
+      "Answer_2": "tabulka v příloze nařízení vlády č. 194/2022 Sb.",
+      "Answer_3": "vždy pouze předseda zkušební komise",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 44,
+      "Question": "Pokud osoba s kvalifikací „elektrotechnik“ nemá žádnou praxi",
+      "Answer_1": "nemůže tuto kvalifikaci získat",
+      "Answer_2": "musí po dobu nejméně 1 roku pracovat s dohledem osoby znalé, která má praxi minimálně 2 roky",
+      "Answer_3": "nesmí provádět práce pod napětím",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 45,
+      "Question": "Podle nařízení vlády č. 194/2022 Sb. jsou za osoby znalé považovány tyto osoby",
+      "Answer_1": "„elektrotechnik“ = osoba znalá pro samostatnou činnost",
+      "Answer_2": "„vedoucí elektrotechnik“ = osoba znalá pro řízení činnosti",
+      "Answer_3": "revizní technik",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 46,
+      "Question": "Ústní pohovor při zkoušce z odborné způsobilosti k výkonu činností v elektrotechnice má být zaměřen",
+      "Answer_1": "na znalosti základů elektrotechniky v rozsahu středoškolského vzdělání",
+      "Answer_2": "na výsledky testu a případně na chyby učiněné v testu",
+      "Answer_3": "na odbornou problematiku podle rozsahu a zaměření zkoušené osoby 14",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 47,
+      "Question": "Osoba s kvalifikací „vedoucí elektrotechnik“ může vykonávat",
+      "Answer_1": "veškeré činnosti, které může vykonávat „elektrotechnik“",
+      "Answer_2": "řízení činností, řízení provozu a projektování vyhrazených elektrických zařízení, které není předmětem autorizace",
+      "Answer_3": "revize elektrických zařízení",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 48,
+      "Question": "Výsledek zkoušky z odborné způsobilosti k výkonu činností v elektrotechnice se hodnotí stupněm",
+      "Answer_1": "uspěl nebo neuspěl",
+      "Answer_2": "vyhověl nebo nevyhověl",
+      "Answer_3": "splnil nebo nesplnil",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 49,
+      "Question": "Při nevyhovujícím výsledku zkoušky z odborné způsobilosti k výkonu činností v elektrotechnice může být zkouška opakována",
+      "Answer_1": "nejdříve za 12 měsíců od neúspěšného vykonání zkoušky",
+      "Answer_2": "nejdříve za 6 měsíců od neúspěšného vykonání zkoušky",
+      "Answer_3": "nejdříve za 15 dní od neúspěšného vykonání zkoušky",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 50,
+      "Question": "Před zahájením zkoušky musí žadatel předložit předsedovi komise",
+      "Answer_1": "doklad o odborné nebo profesní kvalifikaci a doklad prokazující délku praxe",
+      "Answer_2": "kopii dokladu o vzdělání, která nemusí být úředně ověřena",
+      "Answer_3": "čestné prohlášení, že má odborné vzdělání odpovídající požadované kvalifikaci",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 51,
+      "Question": "Před zahájením zkoušky musí žadatel předložit předsedovi komise",
+      "Answer_1": "doklad o zdravotní způsobilosti",
+      "Answer_2": "potvrzení zaměstnavatele o délce praxe, nebo čestné prohlášení o praxi",
+      "Answer_3": "výpis z trestního rejstříku 15",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 52,
+      "Question": "Zábrana se používá k zamezení přiblížení se k elektrickému zařízení nebo k části instalace, která představuje elektrické nebezpečí.",
+      "Answer_1": "Zábrana nemusí mít izolaci.",
+      "Answer_2": "Zábrana může mít izolaci.",
+      "Answer_3": "Zábrana vždy musí být z izolantu.",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 53,
+      "Question": "Osoby vykonávající práci na elektrickém zařízení musejí",
+      "Answer_1": "používat izolační rukavice po celou dobu práce, a to i při práci bez napětí",
+      "Answer_2": "nosit výhradně pracovní oděv modré barvy",
+      "Answer_3": "nosit oděv vhodný pro místo a podmínky, kde pracují",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 54,
+      "Question": "O každé elektrické instalaci musí být k dispozici",
+      "Answer_1": "aktuální výkresová dokumentace",
+      "Answer_2": "záznamy o stavu zařízení",
+      "Answer_3": "záruční list, a to i po ukončení záruční doby",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 55,
+      "Question": "Laici smějí u svítidel s ochranou před dotykem minimálně IP 2X nebo IP XXB v rozvodu nn provádět ve vypnutém stavu tyto činnosti:",
+      "Answer_1": "vyměňovat světelné zdroje (žárovky, zářivky)",
+      "Answer_2": "vyměňovat celá svítidla",
+      "Answer_3": "vyměňovat startéry zářivek Poznámka PŠIS: Podle této normy je laik osoba, která není ani znalá, ani poučená",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 56,
+      "Question": "Při zkouškách za použití vnějšího zdroje napájení musí být zajištěno, že",
+      "Answer_1": "k zařízení nemají přístup pracovníci poučení ani pracovníci znalí",
+      "Answer_2": "elektrická instalace je odpojena od všech možných běžných zdrojů napájení",
+      "Answer_3": "místa odpojení mají odpovídající izolační vlastnosti 16",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 57,
+      "Question": "Při práci na elektrických soustavách s rizikem indukce z jiných soustav",
+      "Answer_1": "se musí zřídit uzemnění v takových vzdálenostech, aby to omezilo potenciál mezi vodiči a zemí na bezpečnou hodnotu",
+      "Answer_2": "se nesmí pracovat vůbec",
+      "Answer_3": "se musí zřídit ekvipotenciální propojení na pracovišti, aby se zabránilo možnostem, že pracovníci se ocitnou v indukční smyčce",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 58,
+      "Question": "Při práci na neizolovaných vodičích el. sítě, u kterých je nebezpečí zásahu bleskem, se musí práce přerušit",
+      "Answer_1": "pokud se blýská",
+      "Answer_2": "pokud je slyšet hřmění",
+      "Answer_3": "pokud teplota vzduchu překročí 25o C",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 59,
+      "Question": "Osoba s odpovídajícím vzděláním, znalostmi a zkušenostmi, které jí umožňují vyhodnotit rizika a vyvarovat se ohrožení, která může elektřina způsobit, je",
+      "Answer_1": "laik",
+      "Answer_2": "osoba poučená",
+      "Answer_3": "osoba znalá",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 60,
+      "Question": "Odpojení pro práci bez napětí mohou vykonat",
+      "Answer_1": "osoby znalé",
+      "Answer_2": "osoby poučené",
+      "Answer_3": "osoby seznámené",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 61,
+      "Question": "Osoba přiměřeně poučená osobou znalou, aby byla schopna podle pokynů rozeznat rizika a vyvarovat se ohrožení, která může elektřina způsobit, je",
+      "Answer_1": "osoba znalá",
+      "Answer_2": "laik",
+      "Answer_3": "osoba poučená 17",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 62,
+      "Question": "Opětovné připojení po práci bez napětí mohou vykonat",
+      "Answer_1": "osoby znalé",
+      "Answer_2": "osoby poučené",
+      "Answer_3": "osoby seznámené",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 63,
+      "Question": "Nové elektrické instalace musí být zkontrolovány",
+      "Answer_1": "nejpozději do 1 roku od uvedení do provozu",
+      "Answer_2": "nejpozději do 5 dnů od uvedení do provozu",
+      "Answer_3": "před jejich uvedením do provozu",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 64,
+      "Question": "Elektrické instalace musejí být znovu zkontrolovány vždy",
+      "Answer_1": "po provedení opravy",
+      "Answer_2": "po provedení úpravy",
+      "Answer_3": "po rozšíření existujících instalací",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 65,
+      "Question": "Aby bylo po opravě zaručeno, že jsou opravené části instalace způsobilé pro opětovné zapojení,",
+      "Answer_1": "musí být vždy provedena opakovaná revize elektrického zařízení",
+      "Answer_2": "musí být provedeny příslušné funkční a ověřovací zkoušky",
+      "Answer_3": "musí být zařízení označeno nápisem \"Pozor, toto zařízení je po opravě!\"",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 66,
+      "Question": "Stav elektrické instalace po údržbě musí být stanoveným způsobem oznámen",
+      "Answer_1": "řídícímu provozu",
+      "Answer_2": "vedení organizace",
+      "Answer_3": "bezpečnostnímu technikovi",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 67,
+      "Question": "Před zahájením práce na elektrické instalaci",
+      "Answer_1": "musí být vždy instalace odpojena od napájení",
+      "Answer_2": "musí být provedeno posouzení elektrických rizik a stanoven pracovní postup",
+      "Answer_3": "musí být na pracovišti přítomna osoba odpovědná za elektrické zařízení 18",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 68,
+      "Question": "U instalací nízkého napětí, pokud je pojistka uložena v přístroji, který chrání osobu před přímým dotykem a možností účinku zkratu, může její výměnu vykonat",
+      "Answer_1": "laik bez ověření napětí",
+      "Answer_2": "osoba poučená, ale až po ověření vypnutého stavu",
+      "Answer_3": "pouze osoba znalá",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 69,
+      "Question": "Kryt je část, která zajišťuje",
+      "Answer_1": "ochranu zařízení před určitými vnějšími vlivy",
+      "Answer_2": "ochranu před přímým dotykem ze všech směrů",
+      "Answer_3": "ochranu pouze před působením vody",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 70,
+      "Question": "Všechny osoby pracující na elektrickém zařízení musí být poučeny",
+      "Answer_1": "o obsluze vysokozdvižných vozíků",
+      "Answer_2": "o bezpečnostních požadavcích",
+      "Answer_3": "o místních bezpečnostních pravidlech a podnikových instrukcích",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 71,
+      "Question": "Nízké napětí normálně není vyšší než",
+      "Answer_1": "AC 230 V nebo DC 400 V",
+      "Answer_2": "DC 1 000 V nebo AC 1 500 V",
+      "Answer_3": "AC 1 000 V nebo DC 1 500 V",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 72,
+      "Question": "Kdo zodpovídá za každou pracovní činnost?",
+      "Answer_1": "Vedoucí práce.",
+      "Answer_2": "Osoba odpovědná za elektrické zařízení.",
+      "Answer_3": "Pokud je pracovní činnost rozdělena, může být nezbytné jmenovat osobu, která bude odpovědná za bezpečnost každé dílčí části, přičemž za všechny části",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 73,
+      "Question": "Z osob určených pro práci na elektrické instalaci nebo v její blízkosti, musí být dostatečný počet osob proškolen tak, aby byl schopen poskytnout první pomoc",
+      "Answer_1": "při poleptání kyselinou nebo louhem",
+      "Answer_2": "při úrazu elektrickým proudem",
+      "Answer_3": "při popálení",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 74,
+      "Question": "Doporučuje se, aby pokyny pro poskytování první pomoci byly",
+      "Answer_1": "vyvěšeny přímo na pracovišti (na plakátech nebo tabulkách)",
+      "Answer_2": "vydány pracovníkům formou letáků nebo dalších bezpečnostních dokumentů",
+      "Answer_3": "dostupné v elektronické podobě",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 75,
+      "Question": "Pracovní postup na provedení složité pracovní činnosti",
+      "Answer_1": "nemusí být zpracován písemně",
+      "Answer_2": "má být zpracován osobou poučenou písemně",
+      "Answer_3": "musí být zpracován osobou znalou písemně",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 76,
+      "Question": "Správce instalace, řídící provozu a vedoucí práce",
+      "Answer_1": "musí být tatáž osoba",
+      "Answer_2": "nesmí být tatáž osoba",
+      "Answer_3": "může být tatáž osoba",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 77,
+      "Question": "Osoba znalá může stanovit postup, jak musí být práce prováděna bezpečně:",
+      "Answer_1": "pro pracovní činnost, která není považována za složitou",
+      "Answer_2": "v případě, že práci na vn pod napětím bude provádět laik",
+      "Answer_3": "při běžné údržbě, která je prováděna podle písemně odsouhlasených postupů",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 78,
+      "Question": "Správce instalace (osoba odpovědná za el. zařízení) musí být určen",
+      "Answer_1": "pro každou instalaci",
+      "Answer_2": "pouze pro elektrické instalace vyrobené a zprovozněné před rokem 1997",
+      "Answer_3": "pouze pro elektrické instalace vn 20",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 79,
+      "Question": "Jestliže jsou na pracovišti osoby hovořící různými jazyky",
+      "Answer_1": "vedoucí práce musí vždy hovořit česky",
+      "Answer_2": "musí být na pracovišti tlumočník, který je současně vedoucím práce",
+      "Answer_3": "musí být předem stanoven dohodnutý jazyk, kterému příslušné osoby rozumějí",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 80,
+      "Question": "Ústní předávání informací (osobně, telefonem, radiostanicí)",
+      "Answer_1": "je dovoleno, ale příjemce musí informaci zopakovat zpět odesílateli, který musí potvrdit, že byla správně přijata a pochopena",
+      "Answer_2": "je povoleno pouze v situaci krajní nouze",
+      "Answer_3": "je zakázáno",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 81,
+      "Question": "Opětovné obnovení napájení elektrické instalace po ukončení práce",
+      "Answer_1": "může být povoleno signály",
+      "Answer_2": "nesmí být povoleno signály nebo po předem dohodnutém časovém intervalu",
+      "Answer_3": "může být provedeno až po písemném souhlasu majitele zařízení",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 82,
+      "Question": "Hořlavé materiály, které jsou uloženy v blízkosti elektrických instalací",
+      "Answer_1": "musí být umístěny mimo dosah jakéhokoliv zdroje zápalu",
+      "Answer_2": "musí být co nejdříve odstraněny",
+      "Answer_3": "musí být umístěny ve vzdálenosti minimálně 5 m od elektrické instalace",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 83,
+      "Question": "Nářadí a zařízení se musí používat v souladu s instrukcemi nebo s návodem, který poskytl výrobce nebo dodavatel. Tyto instrukce nebo návod",
+      "Answer_1": "nemusí být v jazyce země, kde se používají",
+      "Answer_2": "musí být v jazyce země, kde se používají",
+      "Answer_3": "vždy musí být v angličtině",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 84,
+      "Question": "Veškeré nářadí a ochranné prostředky pro práci na elektrickém zařízení musí být",
+      "Answer_1": "uloženy v uzamčené skříňce",
+      "Answer_2": "uloženy u vedoucího práce",
+      "Answer_3": "udržované ve stavu vhodném pro toto použití 21",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 85,
+      "Question": "Provozní činnost na elektrických instalacích v případě nouze je dovolena",
+      "Answer_1": "laikům nebo osobám poučeným",
+      "Answer_2": "pouze osobám znalým",
+      "Answer_3": "osobám znalým nebo osobám poučeným",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 86,
+      "Question": "Měření fyzikálních veličin v elektrických instalacích mohou samostatně provádět",
+      "Answer_1": "pouze osoby znalé",
+      "Answer_2": "osoby znalé nebo osoby poučené",
+      "Answer_3": "osoby poučené i laici",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 87,
+      "Question": "Laici mohou provádět měření v elektrických instalacích",
+      "Answer_1": "pouze podle pokynů osoby znalé",
+      "Answer_2": "pouze s dohledem osoby znalé",
+      "Answer_3": "pouze pod dozorem osoby znalé Poznámka PŠIS: Podle této normy je laik osoba, která není ani znalá, ani poučená.",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 88,
+      "Question": "Výměna pojistek by měla být prováděna",
+      "Answer_1": "přednostně bez napětí",
+      "Answer_2": "vždy s použitím izolačních rukavic",
+      "Answer_3": "vždy pouze pod napětím",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 89,
+      "Question": "Pro ověření beznapěťového stavu se používají zkoušečky",
+      "Answer_1": "Zkoušečky musí být ověřeny až po použití.",
+      "Answer_2": "Zkoušečky musí být ověřeny těsně před použitím a pokud je to možné i po něm.",
+      "Answer_3": "Zkoušečky se musí ověřovat jednou za týden.",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 90,
+      "Question": "V blízkosti přístupových a únikových cest nesmí být umístěny",
+      "Answer_1": "předměty zabraňující v přístupu",
+      "Answer_2": "hořlavé materiály",
+      "Answer_3": "svítidla nouzového osvětlení 22",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 91,
+      "Question": "Když silný vítr zabraňuje používat pracovníkovi nářadí s dostatečnou přesností",
+      "Answer_1": "smí pracovat pouze s dohledem",
+      "Answer_2": "práce by měla být přerušena",
+      "Answer_3": "není to důvod k přerušení práce",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 92,
+      "Question": "Když extrémně nízká teplota snižuje trvanlivost používaných materiálů",
+      "Answer_1": "není to důvod k přerušení práce",
+      "Answer_2": "smí pracovat pouze s dohledem",
+      "Answer_3": "práce by měla být přerušena",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 93,
+      "Question": "Pokud má pracovník pochybnosti o bezpečném pokračování v práci",
+      "Answer_1": "je povinen práci zastavit a vyžádat si vysvětlení",
+      "Answer_2": "je povinen práci dokončit a pak si vyžádat vysvětlení",
+      "Answer_3": "nesmí práci zastavit, dokud k tomu nedostane pokyn",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 94,
+      "Question": "Při práci pod dozorem",
+      "Answer_1": "nemusí být osoba vykonávající dozor přítomna na pracovišti",
+      "Answer_2": "může osoba vykonávající dozor současně vykonávat jakoukoliv jinou práci",
+      "Answer_3": "nesmí osoba vykonávající dozor současně vykonávat žádnou jinou práci",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 95,
+      "Question": "Pokud jsou na elektrické instalaci vykonávány údržbové práce",
+      "Answer_1": "musí být vždy celé zařízení odpojeno od napájení",
+      "Answer_2": "musí být přesně stanovena část instalace, na které se činnost provádí",
+      "Answer_3": "musí být určena osoba odpovědná za údržbu (vedoucí práce)",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 96,
+      "Question": "Při práci pod napětím",
+      "Answer_1": "musí být zajištěna stabilní pracovní poloha, která pracující osobě umožňuje mít obě ruce volné",
+      "Answer_2": "musí být vždy přítomni alespoň tři pracovníci",
+      "Answer_3": "musí mít pracující osoba vhodné osobní ochranné prostředky a nemá mít na sobě žádné vodivé předměty",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 97,
+      "Question": "Práce, při které se pracující osoba dotýká živých částí nebo zasahuje částmi těla nebo nářadím do ochranného prostoru, se nazývá",
+      "Answer_1": "práce pod napětím",
+      "Answer_2": "práce v blízkosti",
+      "Answer_3": "práce zakázaná (Nápověda: Ochranný prostor je prostor, který obklopuje živé části",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 98,
+      "Question": "Některé zvláštní práce na živých částech musí být prováděny podle zvláštních pracovních postupů. Mezi tyto práce patří například",
+      "Answer_1": "čištění izolátorů",
+      "Answer_2": "výměna izolátorů",
+      "Answer_3": "odstranění námrazy na izolátorech",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 99,
+      "Question": "Zóna přiblížení je oblast, která obklopuje",
+      "Answer_1": "živou část",
+      "Answer_2": "ochranný prostor až do vzdálenosti D od živé části V",
+      "Answer_3": "pracující osobu",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 100,
+      "Question": "Práce na elektrické instalaci má být přerušena",
+      "Answer_1": "při husté mlze",
+      "Answer_2": "za silného větru",
+      "Answer_3": "v noci",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 101,
+      "Question": "Mlha se považuje za hustou zejména tehdy, pokud",
+      "Answer_1": "není vidět dále než 25 m",
+      "Answer_2": "není vidět předměty, které jsou ve vzdálenosti větší než 20 m",
+      "Answer_3": "vedoucí práce nevidí osoby a živé části, na kterých, nebo v blízkosti kterých se má pracovat",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 102,
+      "Question": "Pokud některá pracující osoba uvidí blesk a uslyší hřmění, musí se zastavit práce",
+      "Answer_1": "na vodičích nadzemního vedení",
+      "Answer_2": "na zařízení rozvodny spojených s vodiči venkovního vedení",
+      "Answer_3": "na všech elektrických instalacích, včetně všech instalací uvnitř budov",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 103,
+      "Question": "Pro rozvoj a udržení schopností osob znalých a poučených pro práci pod napětím musí být stanoveno zvláštní školení. Náplní musí být nejen teoretické znalosti ale i praktická cvičení. Stupeň způsobilosti má být potvrzen osvědčením pro práci pod napětím. To se týká",
+      "Answer_1": "osob znalých a poučených pro práci pod napětím",
+      "Answer_2": "pouze osob znalých pro práci pod napětím",
+      "Answer_3": "pouze vedoucího práce",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 104,
+      "Question": "Je-li na základě předpisu požadováno osvědčení práci pod napětím, je vhodné tyto certifikáty přezkoumávat",
+      "Answer_1": "nejméně jednou za 5 roků",
+      "Answer_2": "nejméně jednou za rok",
+      "Answer_3": "po uplynutí 3 roků",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 105,
+      "Question": "Napětí se považuje za vysoké (vn), pokud je vyšší než",
+      "Answer_1": "DC 1 000 V",
+      "Answer_2": "AC 1 000 V",
+      "Answer_3": "DC 1 500 V",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 106,
+      "Question": "U instalací vysokého napětí může výměnu pojistek v souladu s odpovídajícími pracovními postupy vykonat",
+      "Answer_1": "osoba znalá",
+      "Answer_2": "osoba poučená",
+      "Answer_3": "laik 25",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 107,
+      "Question": "Jestliže je pracoviště při práci na zařízení vn tak rozsáhlé, že nedovoluje vedoucímu práce zajistit odpovídající supervizi nad pracovní činností,",
+      "Answer_1": "musí práci ukončit",
+      "Answer_2": "musí pověřit další osobu, která mu bude asistovat",
+      "Answer_3": "musí práci každou hodinu na 10 minut přerušit",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 108,
+      "Question": "Při práci na instalacích vn se musí uzemnit a zkratovat",
+      "Answer_1": "všechny části",
+      "Answer_2": "pouze živé části",
+      "Answer_3": "pouze neživé části",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 109,
+      "Question": "Uzemňovací a zkratovací zařízení musí být spojeno",
+      "Answer_1": "nejprve s vodiči vypnuté instalace a pak s uzemňovací soustavou",
+      "Answer_2": "nejprve s uzemňovací soustavou a pak se všemi uzemňovanými součástmi",
+      "Answer_3": "současně s uzemňovací soustavou i se všemi vodiči vypnuté instalace",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 110,
+      "Question": "Uzemnění a zkratování vypnutých částí instalace vn musí být provedeno",
+      "Answer_1": "co nejdále od pracoviště",
+      "Answer_2": "na pracovišti (pokud to není na pracovišti možné, tak na dohled z pracoviště)",
+      "Answer_3": "maximálně 1,5 m od pracoviště",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 111,
+      "Question": "Uzemňovací a zkratovací zařízení se musí dimenzovat tak, aby odolalo",
+      "Answer_1": "dvojnásobku zkratového proudu v tom místě, ve kterém je instalováno",
+      "Answer_2": "jmenovitému proudu v tom místě, ve kterém je instalováno",
+      "Answer_3": "zkratovému proudu v tom místě, ve kterém je instalováno 26",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 112,
+      "Question": "Odstranit zkratovací zařízení po dobu provádění prací na zařízení vn je",
+      "Answer_1": "povoleno kdykoliv",
+      "Answer_2": "povoleno z důvodu měření nebo zkoušení, musí však být přijata taková opatření, aby bylo zabráněno možnosti zranění",
+      "Answer_3": "zakázáno",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 113,
+      "Question": "Pokud jsou k uzemnění a zkratování elektrické instalace použity dálkově ovládané uzemňovače",
+      "Answer_1": "musí být poloha uzemňovače spolehlivě signalizována",
+      "Answer_2": "považuje se zařízení za nezajištěné",
+      "Answer_3": "musí být použit dvojnásobný počet zkratovacích zařízení než obvykle",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 114,
+      "Question": "Nebezpečí v blízkosti živých částí pod napětím se odstraňuje použitím zábran, přepážek, krytů nebo izolačním zakrytím. Jestliže tato opatření nemohou být provedena, musí být ochrana zajištěna dodržením bezpečné vzdálenosti od živých částí větší než D . Při jmenovitém napětí 6 kV je tato vzdálenost L",
+      "Answer_1": "3 cm",
+      "Answer_2": "9 cm",
+      "Answer_3": "25 cm",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 115,
+      "Question": "Nebezpečí v blízkosti živých částí pod napětím se odstraňuje použitím zábran, přepážek, krytů nebo izolačním zakrytím. Jestliže tato opatření nemohou být provedena, musí být ochrana zajištěna dodržením bezpečné vzdálenosti od živých částí větší než D . Tato vzdálenost při jmenovitém napětí 22 kV L",
+      "Answer_1": "je v normě stanovena na 9 cm",
+      "Answer_2": "je v normě stanovena na 12 cm",
+      "Answer_3": "není v normě uvedena a je nutno stanovit jí interpolací z okolních hodnot",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 116,
+      "Question": "Nebezpečí v blízkosti živých částí pod napětím se odstraňuje použitím zábran, přepážek, krytů nebo izolačním zakrytím. Jestliže tato opatření nemohou být provedena, musí být ochrana zajištěna dodržením bezpečné vzdálenosti od živých částí větší než D . Tato vzdálenost při jmenovitém napětí 35 kV L",
+      "Answer_1": "je v normě stanovena na 22 cm",
+      "Answer_2": "není v normě uvedena a je nutno stanovit jí interpolací z okolních hodnot",
+      "Answer_3": "je v normě stanovena na 32 cm 27",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 117,
+      "Question": "Nebezpečí v blízkosti živých částí pod napětím se odstraňuje použitím zábran, přepážek, krytů nebo izolačním zakrytím. Jestliže tato opatření nemohou být provedena, musí být ochrana zajištěna dodržením bezpečné vzdálenosti od živých částí větší než D . Tato vzdálenost při jmenovitém napětí 400 kV L",
+      "Answer_1": "je v normě stanovena na 190 cm",
+      "Answer_2": "není v normě uvedena a je nutno stanovit jí interpolací z okolních hodnot",
+      "Answer_3": "je v normě stanovena na 250 cm",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 118,
+      "Question": "K zábranám se může pracující přiblížit při práci nebo obsluze",
+      "Answer_1": "na vzdálenost 20 cm",
+      "Answer_2": "až na dotyk, avšak pouze u zařízení do 400 V",
+      "Answer_3": "až na dotyk",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 119,
+      "Question": "Zóna přiblížení je oblast obklopující ochranný prostor. Vnější hranice zóny přiblížení je ve vzdálenosti D od živé části. Při jmenovitém napětí V soustavy 6 kV je tato vzdálenost",
+      "Answer_1": "100 cm",
+      "Answer_2": "112 cm",
+      "Answer_3": "126 cm",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 120,
+      "Question": "Zóna přiblížení je oblast obklopující ochranný prostor. Vnější hranice zóny přiblížení je ve vzdálenosti D od živé části. Tato vzdálenost při V jmenovitém napětí soustavy 22 kV",
+      "Answer_1": "je v normě stanovena na 122 cm",
+      "Answer_2": "je v normě stanovena na 115 cm",
+      "Answer_3": "není v normě uvedena a je nutno stanovit jí interpolací z okolních hodnot",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 121,
+      "Question": "Jako malé napětí (ELV) označujeme napětí, jehož hodnota nepřevyšuje",
+      "Answer_1": "AC 50 V nebo DC 120 V",
+      "Answer_2": "DC 50 V nebo AC 120 V",
+      "Answer_3": "AC 1000 V nebo DC 1500 V 28",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 122,
+      "Question": "Jako nízké napětí označujeme napětí, jehož hodnota nepřevyšuje",
+      "Answer_1": "AC 1 kV nebo DC 1,5 kV",
+      "Answer_2": "DC 1 kV nebo AC 1,5 kV",
+      "Answer_3": "DC 1 kV nebo AC 1 kV",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 123,
+      "Question": "Jako vysoké napětí označujeme napětí, jehož hodnota je vyšší než",
+      "Answer_1": "DC 1 kV nebo AC 1,5 kV",
+      "Answer_2": "AC 1 kV nebo DC 1,5 kV",
+      "Answer_3": "AC 1 kV nebo DC 1 kV",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 124,
+      "Question": "Při zajišťování pracoviště pomocí zkratovací soupravy se předem připravená zkratovací zařízení po ověření beznapěťového stavu nejdříve připojí k uzemňovací soupravě a následně se připojí k uzemňovaným součástem. Toto musí být provedeno",
+      "Answer_1": "nejpozději do 45 minut po ověření beznapěťového stavu",
+      "Answer_2": "před ověřením beznapěťového stavu",
+      "Answer_3": "ihned po ověření beznapěťového stavu",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 125,
+      "Question": "Při práci pod napětím se pracovníci",
+      "Answer_1": "dotýkají holých živých částí pouze nářadím",
+      "Answer_2": "dotýkají holých živých částí částmi těla nebo nářadím",
+      "Answer_3": "nedotýkají holých živých částí 29",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 126,
+      "Question": "Základním pravidlem ochrany před úrazem elektrickým proudem je to, že:",
+      "Answer_1": "nebezpečné živé části nesmějí být za normálních podmínek přístupné",
+      "Answer_2": "přístupné vodivé části nesmějí být nebezpečné ani za podmínek jedné poruchy",
+      "Answer_3": "veškerá zařízení musí být napájena pouze ze zdroje bezpečného napětí",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 127,
+      "Question": "Ochranné opatření „automatické odpojení od zdroje“",
+      "Answer_1": "je dovoleno pouze pro osoby znalé",
+      "Answer_2": "je dovoleno obecně",
+      "Answer_3": "je dovoleno pouze pro osoby znalé s vyšší kvalifikací",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 128,
+      "Question": "Klasifikace vnějších vlivů a způsob volby a provedení elektrické instalace s ohledem na vnější vlivy se provádí podle",
+      "Answer_1": "ČSN 33 1500",
+      "Answer_2": "ČSN 33 2000-3",
+      "Answer_3": "ČSN 33 2000-5-51 ed. 3",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 129,
+      "Question": "Úraz elektrickým proudem může být způsoben",
+      "Answer_1": "proudem protékajícím postiženým tělem",
+      "Answer_2": "v důsledku jiných nežádoucích účinků elektrického proudu (např. popálením)",
+      "Answer_3": "působením elektrického či elektromagnetického pole",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 130,
+      "Question": "Proud protéká lidským tělem například při",
+      "Answer_1": "dotyku nebezpečných živých částí, které mají potenciál proti zemi",
+      "Answer_2": "současném dotyku nebezpečných živých částí různé polarity nebo různých potenciálů",
+      "Answer_3": "dotyku neživých částí, na kterých se při poruše mohou objevit nebezpečná napětí 30",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 131,
+      "Question": "Lidé a hospodářská zvířata musí být chráněni před nebezpečím, které může nastat při dotyku nebezpečných živých částí, alespoň jedním z těchto způsobů",
+      "Answer_1": "zabráněním vzniku možnosti průtoku proudu tělem (např. izolací živých částí)",
+      "Answer_2": "upozorněním na hrozící nebezpečí úrazu elektrickým proudem",
+      "Answer_3": "omezením proudu, který by mohl téci tělem na úroveň nižší, než je proud způsobující úraz",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 132,
+      "Question": "Obecně jsou dovolena tato ochranná opatření:",
+      "Answer_1": "automatické odpojení od zdroje",
+      "Answer_2": "dvojitá nebo zesílená izolace",
+      "Answer_3": "elektrické oddělení pro napájení jednoho spotřebiče",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 133,
+      "Question": "Ochrana před přímý dotykem neboli před dotykem živých částí se nazývá",
+      "Answer_1": "ochrana živých částí",
+      "Answer_2": "základní ochrana",
+      "Answer_3": "ochrana neživých částí",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 134,
+      "Question": "Ochrana před nebezpečným dotykem neživých částí se nazývá",
+      "Answer_1": "ochrana živých částí",
+      "Answer_2": "ochrana neživých částí",
+      "Answer_3": "ochrana při poruše",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 135,
+      "Question": "Neživé části, které jsou současně přístupné dotyku,",
+      "Answer_1": "musí být spojeny se stejnou uzemňovací soustavou",
+      "Answer_2": "nesmí být spojeny se stejnou uzemňovací soustavou",
+      "Answer_3": "nesmí být vzájemně vodivě spojeny",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 136,
+      "Question": "Ochrana malým napětím je ochranné opatření, které se používá v obvodech",
+      "Answer_1": "SELV",
+      "Answer_2": "PELV",
+      "Answer_3": "FELV 31",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 137,
+      "Question": "Funkční malé napětí (FELV)",
+      "Answer_1": "nesmí být vyšší než AC 50 V",
+      "Answer_2": "nesmí být vyšší než AC 12 V",
+      "Answer_3": "nesmí být vyšší než DC 120 V",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 138,
+      "Question": "Opatření na ochranu při poruše (ochranu před nepřímým dotykem) mohou být vynechána",
+      "Answer_1": "u neživých částí, které mají omezené rozměry (přibližně 50 mm x 50 mm)",
+      "Answer_2": "u krytů elektromotorů",
+      "Answer_3": "u kovových konzol pro upevnění izolátorů venkovního vedení, které jsou připevněny k budově a jsou chráněny polohou",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 139,
+      "Question": "Zábrany se mohou použít, pokud jsou instalace přístupné",
+      "Answer_1": "osobám seznámeným",
+      "Answer_2": "osobám znalým nebo poučeným",
+      "Answer_3": "osobám pracujícím pod dozorem nebo dohledem osob znalých",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 140,
+      "Question": "Ochrana polohou se může použít, pokud jsou instalace přístupné",
+      "Answer_1": "osobám znalým nebo poučeným",
+      "Answer_2": "osobám seznámeným",
+      "Answer_3": "osobám pracujícím pod dozorem nebo dohledem osob znalých",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 141,
+      "Question": "V každé budově se musí s hlavní uzemňovací svorkou spojit",
+      "Answer_1": "vstupující kovová potrubí (voda, plyn, ...)",
+      "Answer_2": "všechny vodivé části do vzdálenosti 50 m",
+      "Answer_3": "přístupná konstrukční výztuž betonu",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 142,
+      "Question": "S hlavní uzemňovací svorkou se nemusí spojovat",
+      "Answer_1": "vstupující potrubí která nejsou kovová",
+      "Answer_2": "vstupující kovová potrubí, která mají na svém vstupu izolační vložku",
+      "Answer_3": "přístupná konstrukční výztuž betonu 32",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 143,
+      "Question": "Živé částí obvodů SELV musí splňovat také tyto podmínky",
+      "Answer_1": "musí být odděleny ochranným oddělením od živých částí jiných obvodů, které nejsou SELV nebo PELV",
+      "Answer_2": "neživé části musí být spojeny se zemí",
+      "Answer_3": "neživé části nesmějí být spojeny se zemí",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 144,
+      "Question": "Z označení obvodů zkratkou SELV vyplývá, že se jedná o",
+      "Answer_1": "neuzemněné obvody",
+      "Answer_2": "uzemněné obvody",
+      "Answer_3": "obvody s omezením ustáleného proudu",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 145,
+      "Question": "Z označení obvodů zkratkou PELV vyplývá, že se jedná o",
+      "Answer_1": "neuzemněné obvody",
+      "Answer_2": "obvody, které mohou být uzemněné",
+      "Answer_3": "obvody s omezením ustáleného proudu",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 146,
+      "Question": "Zdrojem napětí pro obvod SELV může být",
+      "Answer_1": "bezpečnostní ochranný transformátor (podle ČSN EN 61558-2-6 ed. 2)",
+      "Answer_2": "autotransformátor se vstupem na vyšší napětí než je výstup SELV",
+      "Answer_3": "elektrochemický zdroj (např. baterie)",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 147,
+      "Question": "Vodiče obvodů SELV se mají prostorově oddělovat od vodičů jiných obvodů. Využít žíly ve vícežilovém kabelu pro vedení vodičů SELV společně s vodiči jiných obvodů s napětím vyšším, než je napětí napěťového pásma I",
+      "Answer_1": "nelze",
+      "Answer_2": "lze, ale vodiče SELV musejí být izolovány na nejvyšší použité napětí",
+      "Answer_3": "lze pouze tehdy, pokud jsou obvody SELV napájeny střídavým napětím o hodnotě menší než 6 V",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 148,
+      "Question": "Vidlice a zásuvky v sítích SELV musejí být s jinými obvody nezáměnné a",
+      "Answer_1": "nesmějí mít kontakt pro ochranný vodič",
+      "Answer_2": "musejí mít kontakt pro ochranný vodič",
+      "Answer_3": "mohou mít kontakt pro ochranný vodič 33",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 149,
+      "Question": "Přesahuje-li napětí obvodu SELV 25 V střídavého nebo 60 V stejnosměrného napětí, musí být základní ochrana zajištěna",
+      "Answer_1": "doplňkovou izolací",
+      "Answer_2": "přepážkami a kryty",
+      "Answer_3": "základní izolací, která vyhovuje požadavkům příslušných norem",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 152,
+      "Question": "Zásuvky a vidlice v sítích SELV a PELV musí splňovat tyto požadavky",
+      "Answer_1": "vidlice nesmí být možné zasunout do zásuvek sítí o jiném napětí",
+      "Answer_2": "zásuvky musí umožnit použití běžných vidlic pro sítě nízkého napětí (230 V)",
+      "Answer_3": "zásuvky musí vylučovat použití vidlice pro jiné napětí",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 155,
+      "Question": "Použití ochrany malým napětím SELV a PELV je považováno za ochranné opatření, které",
+      "Answer_1": "zajišťuje pouze základní ochranu",
+      "Answer_2": "je účinné za jakýchkoliv okolností",
+      "Answer_3": "zajišťuje pouze ochranu při poruše",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 156,
+      "Question": "Obvody FELV jsou takové obvody,",
+      "Answer_1": "které užívají napětí maximálně AC 50 V nebo DC 120 V, avšak nesplňují všechny požadavky pro obvody SELV nebo PELV",
+      "Answer_2": "jejichž střídavé napětí není nižší než 200 V",
+      "Answer_3": "jejichž stejnosměrné napětí překračuje hodnotu 250 V",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 157,
+      "Question": "Neživé části zařízení obvodu FELV",
+      "Answer_1": "musí být spojeny s ochranným vodičem vstupního (primárního) obvodu zdroje. Předpokládá se, že vstupní obvod je chráněn automatickým odpojením od zdroje.",
+      "Answer_2": "nesmí být spojeny s ochranným vodičem",
+      "Answer_3": "musí být spojeny s krajním vodičem soustavy",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 158,
+      "Question": "Vidlice a zásuvky pro obvody FELV musí vyhovovat těmto požadavkům",
+      "Answer_1": "vidlice nelze zasunout do zásuvek sítí o jiných napětích",
+      "Answer_2": "zásuvky nesmí mít ochranný kontakt",
+      "Answer_3": "zásuvky musí mít ochranný kontakt",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 159,
+      "Question": "Základní ochranu (živých částí) lze zajistit také",
+      "Answer_1": "nulováním",
+      "Answer_2": "zábranou",
+      "Answer_3": "polohou (umístění mimo dosah)",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 160,
+      "Question": "Základní ochranu (živých částí) lze zajistit také",
+      "Answer_1": "izolací",
+      "Answer_2": "kryty nebo přepážkami",
+      "Answer_3": "automatickým odpojením od zdroje 35",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 161,
+      "Question": "Ochrana izolací živých částí musí být provedena tak, že živé části musí být úplně pokryty izolací,",
+      "Answer_1": "kterou lze sejmout a opět nasadit pouze s použitím nástrojů",
+      "Answer_2": "kterou je možno odstranit pouze jejím zničením",
+      "Answer_3": "kterou lze sejmout a opět nasadit bez použití nástrojů",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 162,
+      "Question": "Při ochraně izolací živých částí se za přiměřenou izolaci před nebezpečím úrazu elektrickým proudem při normálním provozu nepovažují",
+      "Answer_1": "izolace zhotovené z PVC",
+      "Answer_2": "nátěry a barvy",
+      "Answer_3": "laky a podobné prostředky (smalt)",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 163,
+      "Question": "Dvojitá izolace se skládá",
+      "Answer_1": "ze základní izolace a přídavné izolace",
+      "Answer_2": "ze základní izolace a doplňkové izolace",
+      "Answer_3": "z přídavné izolace a doplňkové izolace",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 164,
+      "Question": "Pokud se tím zajistí ochrana před úrazem elektrickým proudem ve stejné míře, jako zajišťuje dvojitá izolace, lze místo dvojité izolace použít",
+      "Answer_1": "pracovní izolace",
+      "Answer_2": "zesílené izolace",
+      "Answer_3": "základní izolace",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 165,
+      "Question": "Elektrická zařízení, která mají dvojitou nebo zesílenou izolaci se z hlediska ochrany nazývají",
+      "Answer_1": "zařízení třídy ochrany I",
+      "Answer_2": "zařízení třídy ochrany II",
+      "Answer_3": "zařízení třídy ochrany III 36",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 167,
+      "Question": "Základní izolace musí být navržena",
+      "Answer_1": "pro jmenovité izolační napětí, které je pro obvod stanoveno, s ohledem na možné přepětí",
+      "Answer_2": "pro dvojnásobek jmenovitého izolačního napětí",
+      "Answer_3": "pro pětinásobek jmenovitého izolačního napětí",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 168,
+      "Question": "Přídavná izolace musí být konstruována",
+      "Answer_1": "alespoň pro střídavé napětí 65 V",
+      "Answer_2": "alespoň pro stejná elektrická namáhání, jaká jsou stanovena pro základní izolaci",
+      "Answer_3": "alespoň pro střídavé napětí 200 V",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 169,
+      "Question": "Při použití ochrany kryty nebo přepážkami musí být živé části uvnitř krytů nebo za přepážkami, které zajišťují krytí",
+      "Answer_1": "alespoň IP XXB nebo IP 2X",
+      "Answer_2": "alespoň IP XXC nebo IP 3X",
+      "Answer_3": "alespoň IP XXD nebo IP 4X",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 170,
+      "Question": "Při použití ochrany kryty nebo přepážkami musí vodorovný horní povrch krytů nebo přepážek, které jsou snadno přístupné, zajišťovat stupeň krytí alespoň",
+      "Answer_1": "IP XXB nebo IP 2X",
+      "Answer_2": "IP XXC nebo IP 3X",
+      "Answer_3": "IP XXD nebo IP 4X 37",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 171,
+      "Question": "Zábrany jsou určeny k tomu, aby zabránily",
+      "Answer_1": "jakémukoliv dotyku živých částí",
+      "Answer_2": "nahodilému dotyku živých částí",
+      "Answer_3": "úmyslnému dotyku (záměrným obejitím přepážky)",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 172,
+      "Question": "Zábrany musí bránit",
+      "Answer_1": "úmyslnému přiblížení osoby k živých částem",
+      "Answer_2": "neúmyslnému přiblížení těla k živým částem",
+      "Answer_3": "nahodilému dotyku živých částí během činnosti zařízeních pod napětím v běžném provozu",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 173,
+      "Question": "Ochranu zábranou lze jako základní ochranu použít pouze v instalacích přístupných",
+      "Answer_1": "osobám znalým nebo poučeným",
+      "Answer_2": "osobám seznámeným pracujícím podle pokynů osob znalých",
+      "Answer_3": "osobám pracujícím pod dozorem nebo dohledem osob znalých nebo poučených",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 174,
+      "Question": "Zábrany musí být zhotoveny",
+      "Answer_1": "jako pevné, nebo i tak, že mohou být odstraněny bez použití klíče nebo nástroje",
+      "Answer_2": "tak, aby bylo zabráněno jejich neúmyslnému odstranění",
+      "Answer_3": "pouze z nevodivého materiálu",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 175,
+      "Question": "Opatření na ochranu při poruše (ochranu před nepřímým dotykem neboli před dotykem neživých částí) mohou být vynechána u těchto zařízení",
+      "Answer_1": "u všech zařízení umístěných pod přístřeškem",
+      "Answer_2": "u kovových konzol pro upevnění izolátorů venkovního vedení, které jsou připevněny k budově a jsou chráněny polohou (jsou umístěny mimo dosah)",
+      "Answer_3": "u neživých částí které jsou malé (do 50 mm x 50 mm), nebo umístěné tak, že nemohou být uchopeny nebo se dotýkat lidského těla na velké ploše, přičemž",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 176,
+      "Question": "Ochrana polohou je umístění nebezpečných živých částí mimo dosah a je určená",
+      "Answer_1": "k zabránění nahodilému i úmyslnému dotyku živých částí",
+      "Answer_2": "pouze k zabránění nahodilému dotyku živých částí",
+      "Answer_3": "pouze k zabránění úmyslnému dotyku živých částí",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 177,
+      "Question": "Při ochraně polohou (umístěním mimo dosah) platí, že",
+      "Answer_1": "části současně přístupné dotyku, které mají rozdílný potenciál, nesmí být v dosahu rukou",
+      "Answer_2": "na místech, kde se běžně manipuluje s objemnými nebo dlouhými vodivými předměty, se musí vzdálenosti zvětšit s ohledem na velikost těchto předmětů",
+      "Answer_3": "živá část nesmí být nikdy umístěna níže než 7,5 m nad stanovištěm obsluhy",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 178,
+      "Question": "Opatření na ochranu při poruše (ochranu před nepřímým dotykem neboli před dotykem neživých částí) mohou být vynechána u těchto zařízení",
+      "Answer_1": "u ručního elektrického nářadí",
+      "Answer_2": "u zdravotnických zařízení",
+      "Answer_3": "u ocelí vyztužených betonových sloupů pro venkovní vedení, jejichž ocelová výztuž není přístupná",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 179,
+      "Question": "Při ochraně polohou (umístěním mimo dosah) platí, že",
+      "Answer_1": "tato ochrana je určena k tomu, aby zabránila úmyslnému dotyku",
+      "Answer_2": "o dvou částech se předpokládá, že jsou současně přístupné dotyku, jestliže od sebe nejsou dále než 2,5 m",
+      "Answer_3": "hodnoty dosahu ruky se vztahují na přímý dotyk holýma rukama bez pomůcek 39",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 180,
+      "Question": "Zóna dosahu ruky je v normě definována takto: b c",
+      "Answer_1": "a = 2,2 m, b = 1,25 m, c = 0,75 m",
+      "Answer_2": "a = 2,5 m, b = 1,25 m, c = 0,75 m",
+      "Answer_3": "a = 2,5 m, b = 1,10 m, c = 0,75 m",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 181,
+      "Question": "Pokud se použijí proudové chrániče jako doplňková ochrana pro případ selhání základní ochrany nebo selhání ochrany při poruše, jejich jmenovitý vybavovací reziduální proud nesmí překročit hodnotu",
+      "Answer_1": "100 mA",
+      "Answer_2": "30 mA",
+      "Answer_3": "10 mA",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 182,
+      "Question": "Pokud je pro ochranu použita doplňková ochrana proudovým chráničem se jmenovitým vybavovacím rozdílovým proudem nepřesahujícím 30 mA",
+      "Answer_1": "je nutno použít ještě další ochranné opatření",
+      "Answer_2": "není nutno použít žádná další ochranná opatření",
+      "Answer_3": "je zakázáno použít ještě další ochranná opatření 40",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 183,
+      "Question": "Základní ochrana je zajištěna",
+      "Answer_1": "použitím doplňkové izolace",
+      "Answer_2": "použitím zařízení s dvojitou izolací",
+      "Answer_3": "použitím krytů nebo přepážek",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 184,
+      "Question": "Stejnosměrné napětí se považuje za napětí bez zvlnění, pokud efektivní hodnota zvlnění nepřesahuje",
+      "Answer_1": "10 % jeho stejnosměrné složky",
+      "Answer_2": "15 % jeho stejnosměrné složky",
+      "Answer_3": "20 % jeho stejnosměrné složky",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 185,
+      "Question": "Automatické odpojení od zdroje je ochrana, při které je",
+      "Answer_1": "ochrana při poruše zajištěna elektrickým oddělením",
+      "Answer_2": "základní ochrana zajištěna izolací živých částí nebo kryty a přepážkami",
+      "Answer_3": "ochrana při poruše zajištěna ochranným pospojováním a automatickým odpojením v případě poruchy",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 186,
+      "Question": "V instalaci, kde je použita ochrana automatickým odpojením od zdroje,",
+      "Answer_1": "mohou být také použita zařízení třídy ochrany II",
+      "Answer_2": "nesmí být použita žádná zařízení třídy ochrany II",
+      "Answer_3": "musí být použita pouze zařízení třídy ochrany II",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 187,
+      "Question": "U dvojité nebo zesílené izolace je ochrana zajištěna některým z těchto způsobů",
+      "Answer_1": "základní ochrana i ochrana při poruše jsou zajištěny doplňkovou izolací",
+      "Answer_2": "základní ochrana je zajištěna základní izolací a ochrana při poruše přídavnou izolací",
+      "Answer_3": "základní ochrana i ochrana při poruše jsou zajištěny zesílenou izolací",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 189,
+      "Question": "Obloukové ochrany (AFDD) jsou schopny detekovat a přerušit",
+      "Answer_1": "oblouky při sériové poruše (uvolněné spoje)",
+      "Answer_2": "nedovolené přetížení elektromotorů",
+      "Answer_3": "paralelní oblouky (při poškození izolace mezi fází a nulovým vodičem)",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 190,
+      "Question": "Obloukové ochrany (AFDD) je doporučeno instalovat v koncových obvodech",
+      "Answer_1": "v objektech s ložnicemi",
+      "Answer_2": "v místech se zvýšeným výskytem vody",
+      "Answer_3": "v místech s hořlavými stavebními materiály",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 191,
+      "Question": "Obloukové ochrany (AFDD) je doporučeno instalovat v koncových obvodech",
+      "Answer_1": "v místech s nebezpečím požáru skladovaných materiálů (např. stodoly)",
+      "Answer_2": "v místech s ohrožením nenahraditelného bohatství",
+      "Answer_3": "v bazénech",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 192,
+      "Question": "Obloukové ochrany (AFDD) se instalují",
+      "Answer_1": "na začátku koncového obvodu, který má být chráněn",
+      "Answer_2": "ve stejnosměrných sítích",
+      "Answer_3": "ve střídavých sítích",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 193,
+      "Question": "Pokud jsou v obvodu instalovány obloukové ochrany",
+      "Answer_1": "není tím nahrazeno používání jiných předepsaných ochranných prvků",
+      "Answer_2": "není již nutno použít proudové chrániče",
+      "Answer_3": "mohou již mít v sobě integrován i proudový chránič a jistič 42",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 194,
+      "Question": "Hodnota dovoleného dotykového napětí U v instalacích nad AC 1 kV závisí Tp",
+      "Answer_1": "na době trvání průtoku proudu",
+      "Answer_2": "na jmenovitém napětí sítě",
+      "Answer_3": "na nadmořské výšce",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 195,
+      "Question": "V instalacích nad AC 1 kV lze pro dovolené dotykové napětí U pro dobu Tp trvání průchodu proudu značně delší než 10 s použít hodnotu",
+      "Answer_1": "80 V",
+      "Answer_2": "125 V",
+      "Answer_3": "250 V",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 196,
+      "Question": "Pro účely stanovení krokového napětí se za délku kroku člověka považuje",
+      "Answer_1": "0,8 m",
+      "Answer_2": "1 m",
+      "Answer_3": "1,1 m",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 197,
+      "Question": "Zemniče, které jsou v přímém kontaktu s půdou,",
+      "Answer_1": "musí být zhotoveny z mědi",
+      "Answer_2": "smí být zhotoveny pouze z páskových vodičů",
+      "Answer_3": "mají být z materiálu odolného proti korozi",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 198,
+      "Question": "Pro zásobování elektrických stanic vodou z vnějšku stanice je zapotřebí",
+      "Answer_1": "použít pouze kovové potrubí",
+      "Answer_2": "zamezit užití kovových potrubí (použijí se místo nich nekovové materiály)",
+      "Answer_3": "použít vždy kovové potrubí o průměru minimálně 100 mm 43",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 199,
+      "Question": "Minimální průřez uzemňovacího přívodu v instalacích nad AC 1 kV s ohledem na mechanickou a korozivní odolnost je pro měď (Neplatí pro uzemnění sekundárních obvodů přístrojových transformátorů)",
+      "Answer_1": "16 mm2",
+      "Answer_2": "35 mm2",
+      "Answer_3": "50 mm2",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 200,
+      "Question": "Minimální průřez uzemňovacího přívodu v instalacích nad AC 1 kV s ohledem na mechanickou a korozivní odolnost je pro hliník",
+      "Answer_1": "10 mm2",
+      "Answer_2": "16 mm2",
+      "Answer_3": "35 mm2",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 201,
+      "Question": "Minimální průřez uzemňovacího přívodu v instalacích nad AC 1 kV s ohledem na mechanickou a korozivní odolnost je pro ocel",
+      "Answer_1": "16 mm2",
+      "Answer_2": "35 mm2",
+      "Answer_3": "50 mm2",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 202,
+      "Question": "Normalizovaná jmenovitá doba trvání zkratu je v instalacích nad AC 1 kV",
+      "Answer_1": "0,4 s",
+      "Answer_2": "1,0 s",
+      "Answer_3": "2,0 s",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 203,
+      "Question": "Uzemňovací soustava musí být provedena tak, aby bylo možné kontrolovat stav uzemňovací soustavy.",
+      "Answer_1": "Vhodnými prostředky jsou výkopy na vybraných místech a vizuální kontrola.",
+      "Answer_2": "Provádět kontrolu pomocí výkopů na vybraných místech je nepřípustné.",
+      "Answer_3": "Kontrola se nesmí provádět jinak než měřením elektrických veličin. 44",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 204,
+      "Question": "U přístrojových transformátorů proudu musí být provedena taková opatření,",
+      "Answer_1": "která usnadní zkratování jejich sekundárních vinutí",
+      "Answer_2": "která zabrání jakémukoliv zkratování jejich sekundárních vinutí",
+      "Answer_3": "která zajistí odpojení jejich sekundárních vinutí v případě přehřátí transformátoru",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 205,
+      "Question": "Uvnitř uzavřených elektrických provozoven jsou povoleny tyto ochrany",
+      "Answer_1": "krytem, ochrannou bariérou, ochrannou zábranou a umístěním mimo dosah",
+      "Answer_2": "krytem, přepážkou, zábranou a doplňková ochrana proudovým chráničem",
+      "Answer_3": "krytem, přepážkou a doplňková ochrana proudovým chráničem",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 206,
+      "Question": "Mimo uzavřené elektrické provozovny jsou povoleny pouze tyto ochrany",
+      "Answer_1": "krytem, přepážkou, zábranou a polohou",
+      "Answer_2": "krytem a umístěním mimo dosah",
+      "Answer_3": "krytem, přepážkou a zábranou",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 207,
+      "Question": "Všechny přístupové dveře do uzavřených elektrických provozoven a všechny strany obvodového oplocení musí být vybaveny",
+      "Answer_1": "trojúhelníkovou výstražnou značkou",
+      "Answer_2": "kulatou zákazovou značkou",
+      "Answer_3": "kulatou příkazovou značkou",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 208,
+      "Question": "Tam, kde je k dispozici dálkové ovládání, musí být zajištěna volba mezi místním a dálkovým ovládáním, která je umístěna",
+      "Answer_1": "pouze na vzdáleném řídicím pracovišti",
+      "Answer_2": "na místním ovládacím místě (to je u spínače nebo v jeho blízkém okolí)",
+      "Answer_3": "minimálně 15 m od místa provozu (od spínače) 45",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 209,
+      "Question": "Při zřizování uzemňovacích soustav v instalacích nad AC 1 kV mají být vodorovné zemniče uloženy v hloubce",
+      "Answer_1": "0,5 m až 1 m pod úrovní země",
+      "Answer_2": "0,7 m až 1 m pod úrovní země",
+      "Answer_3": "0,8 m až 1 m pod úrovní země",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 210,
+      "Question": "Holé kovové oplocení kolem elektrických stanic",
+      "Answer_1": "nesmí být uzemněno",
+      "Answer_2": "nemusí být uzemněno",
+      "Answer_3": "musí být uzemněno",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 211,
+      "Question": "Při zřizování uzemňovacích soustav v instalacích nad AC 1 kV mají být svislé nebo šikmé zemniče rozmístěny",
+      "Answer_1": "co nejblíže k sobě",
+      "Answer_2": "maximálně 1,0 m od sebe",
+      "Answer_3": "alespoň na takovou vzdálenost od sebe, jako je délka tyče",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 212,
+      "Question": "Při zřizování uzemňovacích soustav v instalacích nad AC 1 kV musí mít spojky používané pro připojení tyčových zemničů",
+      "Answer_1": "podstatně vyšší mechanickou pevnost než zemniče",
+      "Answer_2": "vyšší mechanickou pevnost než zemniče",
+      "Answer_3": "stejnou mechanickou pevnost jako zemniče",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 213,
+      "Question": "Elektrické instalace nad AC 1 kV musí být schopné odolat",
+      "Answer_1": "pouze dynamickým namáháním vyplývajícím ze zkratového proudu",
+      "Answer_2": "pouze tepelným namáháním vyplývajícím ze zkratového proudu",
+      "Answer_3": "tepelnému a dynamickému namáhání způsobenému zkratovým proudem 46",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 214,
+      "Question": "Při ochraně automatickým odpojením od zdroje musí ochranný prvek automaticky vypnout přívod vodiče vedení do obvodu nebo zařízení",
+      "Answer_1": "v případě poruchy mezi vodičem vedení a neživou částí",
+      "Answer_2": "v případě poruchy mezi neživou částí a ochranným vodičem",
+      "Answer_3": "v případě poruchy mezi vodičem vedení a ochranným vodičem",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 215,
+      "Question": "Při ochraně automatickým odpojením od zdroje musejí být neživé části (při splnění podmínek stanovených pro každý způsob uzemnění sítě)",
+      "Answer_1": "připojeny k nulovému vodiči v síti TN-S",
+      "Answer_2": "připojeny k nulovému vodiči v síti TT",
+      "Answer_3": "připojeny k ochrannému vodiči",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 216,
+      "Question": "Při ochraně automatickým odpojením od zdroje musejí být neživé části současně přístupné dotyku spojeny se stejnou uzemňovací soustavou",
+      "Answer_1": "pouze po skupinách",
+      "Answer_2": "jednotlivě, po skupinách nebo společně",
+      "Answer_3": "výhradně jednotlivě",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 217,
+      "Question": "Označte, které vodivé části musejí být v každé budově navzájem spojeny do tzv. ochranného pospojování (dříve „hlavní pospojování“)",
+      "Answer_1": "ochranný vodič",
+      "Answer_2": "uzemňovací přívod",
+      "Answer_3": "kovová potrubí uvnitř budovy (např. plynu, vody), kovové konstrukční části, kovové ústřední topení a klimatizace",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 218,
+      "Question": "Při ochraně automatickým odpojením od zdroje u sítí TN musí být všechny neživé části instalace spojeny s uzemněným bodem sítě prostřednictvím",
+      "Answer_1": "ochranných vodičů",
+      "Answer_2": "pomocného zemniče",
+      "Answer_3": "neuzemněného pospojování 47",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 219,
+      "Question": "Při ochraně automatickým odpojením od zdroje u sítí TN musí být pro změřenou impedanci poruchové smyčky vedení (Z ) splněn tento vztah: s",
+      "Answer_1": "Z s x I jm ≤ U 0",
+      "Answer_2": "Z s x I a ≤ U 0 (ČSN 33 2000-6 ed. 2 upřesňuje: Z s(m) ≤ 2/3 x U 0 /I a )",
+      "Answer_3": "Z s x I jm ≤ U 0 x √ 3 I je proud zajišťující odpojení ve stanoveném čase",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 220,
+      "Question": "Při ochraně automatickým odpojením od zdroje pro koncové obvody do 32 A jsou u sítí TN v normě stanoveny tyto maximální doby odpojení",
+      "Answer_1": "0,2 s při jmenovitém střídavém napětí proti zemi 230 V",
+      "Answer_2": "0,4 s při jmenovitém střídavém napětí proti zemi 230 V",
+      "Answer_3": "0,2 s při jmenovitém střídavém napětí proti zemi 400 V",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 221,
+      "Question": "Ověřte, které z hodnot naměřených impedancí poruchové smyčky Z s(m) vyhovují u jednofázové zásuvky při ochraně automatickým odpojením od zdroje v síti TN. Před zásuvkou je zařazen jistič I = 10 A s charakteristikou C. Napětí U = 230 V. jm 0 Ω",
+      "Answer_1": "0,8 Ω",
+      "Answer_2": "1,4 Ω",
+      "Answer_3": "2,2",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 222,
+      "Question": "Při ochraně automatickým odpojením od zdroje se u sítí TN pro distribuční obvody a dále pro koncové obvody, které překračují 32 A a napájejí pouze pevně připojené spotřebiče, dovoluje doba odpojení",
+      "Answer_1": "nepřesahující 5 s",
+      "Answer_2": "nepřesahující 10 s",
+      "Answer_3": "nepřesahující 20 s",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 223,
+      "Question": "Při ochraně automatickým odpojením od zdroje se u sítí TT pro distribuční obvody a dále pro koncové obvody, které překračují 32 A a napájejí pouze pevně připojené spotřebiče, dovoluje doba odpojení",
+      "Answer_1": "nepřesahující 0,1 s",
+      "Answer_2": "nepřesahující 1 s",
+      "Answer_3": "nepřesahující 20 s 48",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 224,
+      "Question": "Jestliže je v koncovém obvodu jedna nebo více zásuvek, je maximální doba vypnutí do 0,4 s předepsána (při U = 230 V) 0",
+      "Answer_1": "pro všechny obvody, jejichž jmenovitý proud nepřekračuje 120 A",
+      "Answer_2": "pro obvody, jejichž jmenovitý proud nepřekračuje 63 A",
+      "Answer_3": "pro obvody, ve kterých není použit proudový chránič",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 225,
+      "Question": "Jestliže není možno dosáhnout automatického odpojení s dodržením předepsané doby odpojení,",
+      "Answer_1": "musí být provedeno doplňující ochranné pospojování",
+      "Answer_2": "může být zařízení provozováno bez dalších opatření, ale pouze do příští revize",
+      "Answer_3": "není nutno provádět žádná další opatření",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 226,
+      "Question": "V sítích TN mohou být použity následující ochranné prvky",
+      "Answer_1": "nadproudové jisticí prvky (pojistky a jističe)",
+      "Answer_2": "proudové chrániče v sítích TN-C",
+      "Answer_3": "proudové chrániče v sítích TN-S",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 227,
+      "Question": "V prostorech určených pro bydlení se u světelných obvodů musí použít",
+      "Answer_1": "jistič s vypínací charakteristikou typu B",
+      "Answer_2": "proudový chránič 300 mA",
+      "Answer_3": "doplňková ochrana pomocí proudového chrániče (max. 30 mA)",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 228,
+      "Question": "Při ochraně automatickým odpojením od zdroje v síti TN se hodnota impedance poruchové smyčky skládá z impedance obvodu, který zahrnuje také",
+      "Answer_1": "zdroj",
+      "Answer_2": "vodič vedení až k místu poruchy",
+      "Answer_3": "ochranný vodič mezi místem poruchy a zdrojem 49",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 229,
+      "Question": "Odpor uzemnění nulového bodu (uzlu) zdroje v sítích TN nemá být větší než (Poznámka: nyní uvedeno v Podnikové normě energetiky PNE 33 0000-1) Ω Ω",
+      "Answer_1": "5 , ve ztížených půdních podmínkách 15 Ω",
+      "Answer_2": "15 Ω",
+      "Answer_3": "20",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 230,
+      "Question": "Celkový odpor uzemnění vodičů PEN odcházejících vedení z transformovny včetně uzemněného středu (uzlu) zdroje nesmí být pro sítě o jmenovitém napětí U = 230 V větší než (Poznámka: nyní uvedeno v PNE 33 0000-1) 0 Ω Ω",
+      "Answer_1": "2 , ve ztížených půdních podmínkách 3 Ω",
+      "Answer_2": "2 Ω",
+      "Answer_3": "5",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 231,
+      "Question": "Vodič PEN v síti TN-C nebo vodič PE v síti TN-S se musí ve venkovním rozvodu kromě uzlu zdroje uzemnit ještě v těchto místech (Poznámka: nyní uvedeno v PNE 33 0000-1)",
+      "Answer_1": "u venkovního vedení každých 500 m a na jeho konci",
+      "Answer_2": "na konci odboček delších než 30 m",
+      "Answer_3": "na konci odboček delších než 200 m",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 232,
+      "Question": "Doplňková ochrana proudovým chráničem (max. 30 mA) je předepsána pro",
+      "Answer_1": "AC zásuvky do 32 A, které mohou používat laici",
+      "Answer_2": "AC mobilní zařízení pro venkovní použití do 32 A",
+      "Answer_3": "světelné obvody v prostorech pro samostatnou domácnost",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 233,
+      "Question": "Vodiče PEN se",
+      "Answer_1": "musí jistit",
+      "Answer_2": "nesmějí jistit",
+      "Answer_3": "nesmějí jistit, vodiče PE se však jistit mohou",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 234,
+      "Question": "Vodiče PE se",
+      "Answer_1": "musí jistit",
+      "Answer_2": "nesmějí jistit",
+      "Answer_3": "mohou jistit 50",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 235,
+      "Question": "Jaký musí být při ochraně automatickým odpojením od zdroje minimální průřez ochranného měděného vodiče, který je sice chráněn před mechanickým poškozením, ale není součástí kabelu, ani není ve společném obložení s fázovými vodiči ? (Poznámka: nyní uvedeno v ČSN 33 2000-5-54 ed. 3)",
+      "Answer_1": "1,5 mm2 Cu",
+      "Answer_2": "2,5 mm2 Cu",
+      "Answer_3": "4 mm2 Cu",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 236,
+      "Question": "Jaký musí být při ochraně automatickým odpojením od zdroje minimální průřez ochranného měděného vodiče, který není chráněn před mechanickým poškozením, ani není součástí kabelu a ani není ve společném obložení s fázovými vodiči ? (Poznámka: nyní uvedeno v ČSN 33 2000-5-54 ed. 3)",
+      "Answer_1": "1,5 mm2 Cu",
+      "Answer_2": "2,5 mm2 Cu",
+      "Answer_3": "4 mm2 Cu",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 237,
+      "Question": "Jaký musí být při ochraně automatickým odpojením od zdroje minimální průřez ochranného hliníkového vodiče, který je sice chráněn před mechanickým poškozením, ale není součástí kabelu, ani není ve společném obložení s fázovými vodiči ? (Poznámka: nyní uvedeno v ČSN 33 2000-5-54 ed. 3)",
+      "Answer_1": "16 mm2 Al",
+      "Answer_2": "10 mm2 Al",
+      "Answer_3": "6 mm2 Al",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 238,
+      "Question": "Jaký musí být při ochraně automatickým odpojením od zdroje minimální průřez ochranného hliníkového vodiče, který není chráněn před mechanickým poškozením, ani není součástí kabelu a ani není ve společném obložení s fázovými vodiči ? (Poznámka: nyní uvedeno v ČSN 33 2000-5-54 ed. 3)",
+      "Answer_1": "35 mm2 Al",
+      "Answer_2": "25 mm2 Al",
+      "Answer_3": "16 mm2 Al",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 239,
+      "Question": "Všechny neživé části v sítích TT, které jsou společně chráněné stejným ochranným přístrojem, se musí spojit ochrannými vodiči",
+      "Answer_1": "se zemničem, který je pro všechny tyto neživé části společný",
+      "Answer_2": "k samostatným zemničům, které nesmí být propojeny",
+      "Answer_3": "k samostatným zemničům, které mohou být po dvojicích spojovány 51",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 240,
+      "Question": "Při ochraně automatickým odpojením od zdroje u sítí TT musí být uzemněn",
+      "Answer_1": "každý fázový vodič",
+      "Answer_2": "nulový nebo střední bod. Pokud není k dispozici, musí se uzemnit jeden vodič vedení",
+      "Answer_3": "výhradně střední bod (uzel)",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 241,
+      "Question": "Pokud je při ochraně automatickým odpojením od zdroje v síti TT použit nadproudový ochranný přístroj (pojistka, jistič), musí být splněna tato podmínka",
+      "Answer_1": "Z x I ≤ 50 V S jm",
+      "Answer_2": "Z x I ≤ U S a 0",
+      "Answer_3": "Z x I ≤ 50 V S a",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 242,
+      "Question": "Při ochraně automatickým odpojením od zdroje je pro koncové obvody do 32 A u sítí TT pro U = 230 V st v normě stanovena tato maximální doba odpojení 0",
+      "Answer_1": "0,1 s",
+      "Answer_2": "0,2 s",
+      "Answer_3": "0,4 s",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 243,
+      "Question": "Pokud je v síti TT dosaženo automatického odpojení od zdroje pomocí nadproudového ochranného přístroje a ochranné pospojování je spojeno se všemi cizími vodivými částmi, musí při U = 230 V st dojít k odpojení vadné části nejpozději do 0",
+      "Answer_1": "0,4 s (stejná hodnota jako pro síť TN)",
+      "Answer_2": "1 s",
+      "Answer_3": "5 s",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 244,
+      "Question": "V sítích TT se pro ochranu při poruše používají tyto ochranné prvky",
+      "Answer_1": "hlídače izolačního stavu",
+      "Answer_2": "proudové chrániče",
+      "Answer_3": "nadproudové ochranné přístroje 52",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 245,
+      "Question": "Pokud je při ochraně automatickým odpojením od zdroje v síti TT použit proudový chránič, musí být splněna tato podmínka",
+      "Answer_1": "R A x I Δn ≤ 50 V",
+      "Answer_2": "R A x I Δn ≤ U 0",
+      "Answer_3": "Z x I ≤ 50 V S a",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 246,
+      "Question": "Sítě IT musí být provedeny některým z těchto způsobů",
+      "Answer_1": "síť musí mít střední bod přímo spojen se zemí přes co nejmenší impedanci",
+      "Answer_2": "živé části musí být izolovány od země",
+      "Answer_3": "živé části musí být spojeny se zemí přes dostatečně vysokou impedanci",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 247,
+      "Question": "Neživé části sítí IT musí být uzemněny",
+      "Answer_1": "výhradně individuálně",
+      "Answer_2": "individuálně, po skupinách nebo společně",
+      "Answer_3": "výhradně po skupinách",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 248,
+      "Question": "Při ochraně automatickým odpojením od zdroje musí být ve střídavých sítích IT splněna tato podmínka",
+      "Answer_1": "R ≤ 2 Ω Poznámka: A R je odpor zemniče a ochraného vodiče",
+      "Answer_2": "R x I ≤ U A A d 0 I d je poruchový proud při první poruše",
+      "Answer_3": "R x I ≤ 50 V U jmenovité střídavé napětí proti zemi A d 0",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 249,
+      "Question": "Při ochraně automatickým odpojením od zdroje se u sítí IT doporučuje, aby první porucha byla odstraněna",
+      "Answer_1": "okamžitě po jejím výskytu",
+      "Answer_2": "co nejdříve",
+      "Answer_3": "ještě před koncem pracovní směny",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 250,
+      "Question": "V sítích IT lze pro monitorování, hlídání a ochranu používat tyto přístroje",
+      "Answer_1": "nadproudové ochranné přístroje",
+      "Answer_2": "proudové chrániče",
+      "Answer_3": "hlídače izolačního stavu 53",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 253,
+      "Question": "Pro obvody FELV platí",
+      "Answer_1": "neživé části nesmí být spojeny s žádným ochranným vodičem",
+      "Answer_2": "neživé části musí být spojeny s ochranným vodičem vstupního obvodu zdroje",
+      "Answer_3": "jako zdroj lze použít transformátor alespoň s jednoduchým oddělením vinutí",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 254,
+      "Question": "Vidlice a zásuvky obvodů FELV musí vyhovět těmto požadavkům",
+      "Answer_1": "zásuvky musí mít ochranný kontakt",
+      "Answer_2": "zásuvky nesmí mít ochranný kontakt",
+      "Answer_3": "do zásuvek FELV nesmí být možno zasunout vidlice sítí o jiných napětích 54",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 255,
+      "Question": "Doplňková ochrana proudovými chrániči (do 30 mA) musí být provedena ve střídavé síti u těch zásuvek, které jsou užívány laiky a jsou určeny pro všeobecné použití a jejichž jmenovitý proud nepřekračuje",
+      "Answer_1": "20 A",
+      "Answer_2": "32 A",
+      "Answer_3": "63 A",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 256,
+      "Question": "Doplňková ochrana proudovými chrániči musí být ve střídavé síti provedena také u mobilních zařízení určených pro venkovní použití, jejichž jmenovitý proud nepřekračuje",
+      "Answer_1": "32 A",
+      "Answer_2": "40 A",
+      "Answer_3": "63 A",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 257,
+      "Question": "Pokud se pro zajištění doplňkové ochrany použijí proudové chrániče, jejich jmenovitý vybavovací reziduální proud nesmí být vyšší než",
+      "Answer_1": "30 mA",
+      "Answer_2": "100 mA",
+      "Answer_3": "300 mA",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 258,
+      "Question": "Doplňková ochrana - doplňující ochranné pospojování",
+      "Answer_1": "se považuje za základní ochranu",
+      "Answer_2": "se považuje za ochranu při poruše",
+      "Answer_3": "se považuje za doplnění ochrany při poruše",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 259,
+      "Question": "Doplňující ochranné pospojování musí zahrnovat všechny neživé části upevněných zařízení současně přístupné dotyku a cizí vodivé části včetně hlavních kovových armatur železobetonu (pokud je to proveditelné). Systém ochranného pospojování musí být spojen",
+      "Answer_1": "pouze s ochrannými vodiči zásuvek",
+      "Answer_2": "s ochrannými vodiči všech zařízení včetně zásuvek",
+      "Answer_3": "s ochrannými vodiči všech zařízení s vyjímkou zásuvek 55",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 262,
+      "Question": "V prostorech s nevodivým okolím",
+      "Answer_1": "musí být jediný ochranný vodič",
+      "Answer_2": "musí být ochranný vodič veden izolovaně od vodiče středního",
+      "Answer_3": "nesmí být žádný ochranný vodič",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 263,
+      "Question": "Při ochraně neuzemněným místním pospojováním musí být navzájem spojeny",
+      "Answer_1": "všechny neživé části a uzemnění",
+      "Answer_2": "všechny neživé části a cizí vodivé části, které jsou současně přístupné dotyku",
+      "Answer_3": "všechny živé a neživé části",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 264,
+      "Question": "Při ochraně elektrickým oddělením musí být oddělené obvody napájené ze zdroje alespoň s jednoduchým oddělením. Napětí zdroje nesmí přesahovat",
+      "Answer_1": "220 V",
+      "Answer_2": "380 V",
+      "Answer_3": "500 V 56",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 265,
+      "Question": "Při ochraně elektrickým oddělením",
+      "Answer_1": "oddělený obvod nesmí být spojen se zemí",
+      "Answer_2": "oddělený obvod musí být spojen se zemí",
+      "Answer_3": "oddělený obvod může být spojen se zemí",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 266,
+      "Question": "Elektrické oddělení je opatření, u kterého",
+      "Answer_1": "základní ochrana je zajištěna základní izolací živých částí",
+      "Answer_2": "ochrana při poruše je zajištěna oddělením obvodu od ostatních obvodů a od země",
+      "Answer_3": "ochrana při poruše je zajištěna dvojitou izolací živých částí",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+     {
+      "Quest_ID": 267,
+      "Question": "Na obrázku je nakreslena síť",
+      "Question_Image": "images/schemas/267.png",
+      "Answer_1": "TN-C",
+      "Answer_1_Image": null,
+      "Answer_2": "TN-S",
+      "Answer_2_Image": null,
+      "Answer_3": "TT",
+      "Answer_3_Image": null,
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 271,
+      "Question": "Elektrická zařízení provedená a provozovaná podle dříve platných norem",
+      "Answer_1": "lze ponechat v provozu nejdéle 3 roky od vydání nové normy",
+      "Answer_2": "je nutno při nejbližší revizi upravit tak, aby vyhovovala současným předpisům",
+      "Answer_3": "lze ponechat v provozu beze změny, jestliže nemají ohrožující závady Nařízení vlády č. 190/2022 Sb.",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 272,
+      "Question": "Vyhrazená elektrická zařízení jsou:",
+      "Answer_1": "elektrická zařízení pro výrobu, přeměnu, přenos, rozvod, distribuci a odběr elektrické energie",
+      "Answer_2": "elektrické instalace staveb a technologií",
+      "Answer_3": "zařízení určená k ochraně před účinky atmosférické nebo statické elektřiny",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 273,
+      "Question": "Montáž a opravy vyhrazených elektrických zařízení mohou provádět:",
+      "Answer_1": "všechny osoby s kvalifikací „vedoucí elektrotechnik“",
+      "Answer_2": "podnikající fyzické osoby, které vlastní oprávnění vydané Technickou inspekcí České republiky (TIČR)",
+      "Answer_3": "právnické osoby, které vlastní oprávnění vydané Technickou inspekcí České republiky (TIČR)",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 274,
+      "Question": "Vodič PEN (který je zároveň jako vodič ochranný i střední) se může používat",
+      "Answer_1": "ve všech sítích TN",
+      "Answer_2": "pouze v pevných instalacích a z důvodu mechanické pevnosti nesmí mít průřez menší než 10 mm2 mědi nebo 16 mm2 hliníku",
+      "Answer_3": "pouze v pevných instalacích a z důvodu mechanické pevnosti nesmí mít průřez menší než 4 mm2 mědi nebo 6 mm2 hliníku",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 275,
+      "Question": "Pokud je pevná instalace připojena na síť TN prováděna vodiči o průřezu 1,5 až 4 mm2 Cu",
+      "Answer_1": "musí být použit společný vodič pro ochranný i střední vodič (PEN)",
+      "Answer_2": "nesmí být vodiče ochranný (PE) a střední (N) vedeny samostatně",
+      "Answer_3": "musí být vodič ochranný (PE) veden odděleně od vodiče středního (N)",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 276,
+      "Question": "Ocelové zemniče z oceli pozinkované v ohni musí mít tento minimální rozměr",
+      "Answer_1": "pásková ocel - průřez 100 mm2, tloušťka 3 mm",
+      "Answer_2": "ocelový drát - průměr 6 mm",
+      "Answer_3": "ocelový drát - průměr 8 mm",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 277,
+      "Question": "Ocelové zemniče z nepozinkované oceli musí mít tento minimální rozměr",
+      "Answer_1": "pásková ocel - průřez 150 mm2, tloušťka 4 mm",
+      "Answer_2": "ocelový drát - průměr 10 mm",
+      "Answer_3": "úhelníky a pod. - průřez 150 mm2, tloušťka stěny 4 mm",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 278,
+      "Question": "Strojené základové zemniče z páskové oceli nebo ocelového drátu patřičného průřezu se ukládají jako obvodový zemnič",
+      "Answer_1": "nad izolační vrstvy cca 5 cm nad dnem výkopu, aby vodič byl obklopen betonovou směsí",
+      "Answer_2": "pod izolační vrstvy cca 5 cm nad dnem výkopu, aby vodič byl obklopen betonovou směsí",
+      "Answer_3": "pod izolační vrstvy přímo na dno výkopu, aby vodič byl z jedné strany obklopen betonovou směsí",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 279,
+      "Question": "Jako materiál pro zhotovení základových zemničů mohou být použity:",
+      "Answer_1": "ocelová lana",
+      "Answer_2": "pozinkované ocelové pásky",
+      "Answer_3": "ocelové dráty bez povrchové úpravy",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 280,
+      "Question": "Jako zemniče se nesmí použít",
+      "Answer_1": "kovové potrubí pro hořlavé kapaliny nebo plyny",
+      "Answer_2": "zemnič ponořený v proudící vodě, řece, rybníku apod.",
+      "Answer_3": "kovová výztuž betonu uloženého v zemi 60",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 281,
+      "Question": "Pracovní a ochranné uzemnění různých rozvodných soustav do 1 000 V",
+      "Answer_1": "se smí spojovat navzájem ve všech případech",
+      "Answer_2": "se smí spojovat pouze u sítí TN",
+      "Answer_3": "se smí spojovat pouze u sítí TT",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 282,
+      "Question": "Uzemnění sdělovacích zařízení",
+      "Answer_1": "nesmí být nikdy spojována s uzemněním hromosvodů",
+      "Answer_2": "má být co nejdále od uzemnění hromosvodů",
+      "Answer_3": "musí být spojena s uzemněním hromosvodů pokud by jejich vzdálenost byla menší než 5 m",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 283,
+      "Question": "Ochranný vodič nesmí být",
+      "Answer_1": "vybaven žádným spínacím přístrojem",
+      "Answer_2": "jištěn proti přetížení",
+      "Answer_3": "chráněn před mechanickým poškozením",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 284,
+      "Question": "Nejmenší dovolená vzdálenost mezi měděnými a ocelovými zemniči je",
+      "Answer_1": "10 m",
+      "Answer_2": "5 m",
+      "Answer_3": "2 m",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 286,
+      "Question": "Vodič ochranného pospojování spojujícího dvě neživé části nesmí mít vodivost menší",
+      "Answer_1": "než je vodivost silnějšího z ochranných vodičů připojených k neživým částem",
+      "Answer_2": "než je vodivost tenčího z ochranných vodičů připojených k neživým částem",
+      "Answer_3": "75% vodivost tenčího z ochranných vodičů připojených k neživým částem",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 287,
+      "Question": "Pokud se vodovodní potrubí budovy používá jako uzemnění nebo jako ochranný vodič nebo vodič pospojování,",
+      "Answer_1": "nesmí být vodoměr přemostěn",
+      "Answer_2": "musí být vodoměr přemostěn",
+      "Answer_3": "může být vodoměr přemostěn 61",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 288,
+      "Question": "Jakou rychlostí má být prováděno umělé dýchání?",
+      "Answer_1": "5 vdechů za minutu",
+      "Answer_2": "10 až 12 vdechů za minutu",
+      "Answer_3": "60 až 80 vdechů za minutu",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 289,
+      "Question": "Umělé dýchání lze ukončit",
+      "Answer_1": "pokud postižený nezačne do 30 minut dýchat sám",
+      "Answer_2": "když postižený začne dýchat sám",
+      "Answer_3": "na pokyn lékaře",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 290,
+      "Question": "Jaká je frekvence stlačování hrudníku při nepřímé srdeční masáži?",
+      "Answer_1": "10 až 12 stlačení za minutu",
+      "Answer_2": "100 až 120 stlačení za minutu",
+      "Answer_3": "150 stlačení za minutu",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 291,
+      "Question": "Nepřímou srdeční masáž lze ukončit",
+      "Answer_1": "na pokyn lékaře",
+      "Answer_2": "pokud dojde k obnovení srdeční činnosti",
+      "Answer_3": "pokud ani po 5 minutách nedojde k obnovení srdeční činnosti",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 292,
+      "Question": "Označte správný postup při poskytování první pomoci při úrazech elektřinou",
+      "Answer_1": "1, 2, 4, 3, 5",
+      "Answer_2": "1, 4, 5, 3, 2",
+      "Answer_3": "1, 5, 4, 3, 2",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 294,
+      "Question": "Před zahájením nepřímé srdeční masáže",
+      "Answer_1": "musíme postiženého uložit rovně na záda na rovnou a měkkou podložku",
+      "Answer_2": "musíme dát postiženému napít",
+      "Answer_3": "musíme postiženého uložit rovně na záda na rovnou a pevnou podložku",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 295,
+      "Question": "Při provádění nepřímé srdeční masáže musí mít zachránce",
+      "Answer_1": "horní končetiny nataženy v loktech",
+      "Answer_2": "horní končetiny pokrčené v loktech",
+      "Answer_3": "jednu ruku vsunutou pod záda postiženého a druhou rukou provádí nepřímou srdeční masáž",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 296,
+      "Question": "Při provádění nepřímé srdeční masáže je nutno stlačovat hrudní kost",
+      "Answer_1": "do hloubky nejméně 5 cm",
+      "Answer_2": "maximálně do hloubky 2 cm, aby nedošlo k poškození hrudní kosti",
+      "Answer_3": "s frekvencí 100 až 120 stlačení za minutu",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 297,
+      "Question": "Pokud zůstane postižený po úrazu elektrickým proudem při vědomí, není viditelně zraněn, dýchá a má hmatný tep",
+      "Answer_1": "je nutno i přesto přivolat lékaře",
+      "Answer_2": "může pokračovat v práci, avšak nejpozději do 24 hod. musí navštívit lékaře",
+      "Answer_3": "musíme setrvat u postiženého do příchodu lékaře",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 298,
+      "Question": "Při úrazu na elektrickém zařízení nad 1 000 V (zejména při pádu vodiče vn nebo vvn) je nutno provádět záchranné práce se zvýšenou opatrností, neboť",
+      "Answer_1": "před prováděním záchranných prací je nutno vystavit příkaz „B“",
+      "Answer_2": "o úrazu je nutno nejprve uvědomit pracovníky nejbližší rozvodny",
+      "Answer_3": "je nebezpečí vzniku krokového napětí 63",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 299,
+      "Question": "Při úrazu elektrickým proudem můžeme postiženého vyprostit z dosahu proudu",
+      "Answer_1": "odtažením postiženého",
+      "Answer_2": "vypnutím přívodu elektrického proudu",
+      "Answer_3": "odsunutím zdroje úrazu (např. vodiče z dosahu postiženého)",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 300,
+      "Question": "Ověření znalostí poskytování první pomoci při úrazu elektrickým proudem",
+      "Answer_1": "postačí ověřit pouze při nástupu pracovníka do organizace",
+      "Answer_2": "musí být součástí zkoušky pracovníků s elektrotechnickou kvalifikací podle nařízení vlády č. 194/2022 Sb.",
+      "Answer_3": "může být součástí zkoušky pracovníků s elektrotechnickou kvalifikací podle nařízení vlády č. 194/2022 Sb.",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 302,
+      "Question": "Při hašení požáru el. zařízení pod napětím se z důvodu rizika úrazu elektrickým proudem nesmí používat",
+      "Answer_1": "vodní hasicí přístroj",
+      "Answer_2": "pěnový hasicí přístroj",
+      "Answer_3": "práškový hasicí přístroj ČSN 34 1090 ed. 2 - Předpisy pro prozatímní elektrická zařízení",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 303,
+      "Question": "Pro montáž prozatímního elektrického zařízení je třeba,",
+      "Answer_1": "aby montáž vždy provedl pouze revizní technik",
+      "Answer_2": "aby montáž provedla osoba s odpovídající kvalifikací",
+      "Answer_3": "aby montáž byla provedena podle platné dokumentace",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 304,
+      "Question": "Prozatímní elektrická zařízení jsou taková, která z důvodů předpokládané krátké doby trvání",
+      "Answer_1": "není ekonomicky nutné provádět tak důkladně, jako zařízení určená k trvalému užívání",
+      "Answer_2": "nemusí být zřizována pracovníky s předepsanou elektrotechnickou kvalifikací",
+      "Answer_3": "nemusí mít žádné krytí proti vniknutí vody 64",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 305,
+      "Question": "V domácnostech a zemědělských objektech se prozatímní elektrická zařízení zřizovat",
+      "Answer_1": "nesmějí",
+      "Answer_2": "mohou",
+      "Answer_3": "nedoporučuje",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 306,
+      "Question": "Prozatímní elektrická zařízení",
+      "Answer_1": "se doporučuje v době mimo provoz vypínat",
+      "Answer_2": "se musí v době mimo provoz vypínat (pokud se tím neohrozí bezpečnost osob nebo provozu)",
+      "Answer_3": "musí být opatřena hlavním vypínačem označeným tabulkou",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 307,
+      "Question": "Prozatímní elektrická zařízení",
+      "Answer_1": "je zakázáno zřizovat v prostředí s nebezpečím výbuchu a požáru snadno zápalných látek",
+      "Answer_2": "se musí v době mimo provoz vypínat (pokud se tím neohrozí bezpečnost osob nebo provozu)",
+      "Answer_3": "je zakázáno zřizovat v domácnostech",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 308,
+      "Question": "Pro prozatímní elektrická zařízení na stavbách a staveništích",
+      "Answer_1": "platí ustanovení platných el. norem a předpisů, především ČSN 33 2000-7-714 ed. 2",
+      "Answer_2": "platí pouze elektrotechnické normy vydané specielně pro tato zařízení",
+      "Answer_3": "není nutno brát ohled na elektrotechnické předpisy",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 309,
+      "Question": "Prozatímní elektrická zařízení na staveništích musí být pod pravidelným dohledem",
+      "Answer_1": "vedoucího staveniště",
+      "Answer_2": "pověřené osoby s příslušnou elektrotechnickou kvalifikací",
+      "Answer_3": "pověřeného pracovníka seznámeného",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 310,
+      "Question": "Prozatímní el. zařízení na staveništích musí pověřený pracovník kontrolovat v těchto lhůtách",
+      "Answer_1": "každý den",
+      "Answer_2": "minimálně jedenkrát za měsíc",
+      "Answer_3": "četnost kontrol stanoví prokazatelně provozovatel před uvedením prozatímního elektrického zařízení do provozu, s ohledem na místní podmínky",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 311,
+      "Question": "Před připojením prozatímního el. zařízení na veřejnou distribuční síť",
+      "Answer_1": "musí být provedena výchozí revize",
+      "Answer_2": "má být provedena výchozí revize",
+      "Answer_3": "musí být provedena výchozí revize pouze tehdy, pokud celkový příkon všech připojených el. zařízení přesahuje 10 kW",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 312,
+      "Question": "Pokud prozatímní el. zařízení na staveništi není z provozních nebo bezpečnostních důvodů zapotřebí",
+      "Answer_1": "doporučuje se vypínat",
+      "Answer_2": "musí se vypínat",
+      "Answer_3": "nesmí se vypínat dříve, než skončí pracovní doba",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 313,
+      "Question": "Elektrická zařízení v objektech se zvýšeným nebezpečím požáru",
+      "Answer_1": "nesmí být do příjezdu hasičů odpojována",
+      "Answer_2": "musí být odpojitelná spínačem umístěným uvnitř objektu",
+      "Answer_3": "musí být odpojitelná spínačem umístěným vně objektu",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 314,
+      "Question": "Pracující osoby na staveništi",
+      "Answer_1": "musí být seznámeny s riziky, která mohou vzniknout při neopatrném a nešetrném zacházení s prozatímním el. zařízením",
+      "Answer_2": "musí být prokazatelně seznámeny s riziky, která mohou vzniknout při neopatrném a nešetrném zacházení s prozatímním el. zařízením",
+      "Answer_3": "musí být vždy na začátku pracovní směny poučeny o nebezpečí, které by mohlo mohlo vzniknout při neopatrném a nešetrném zacházení s prozatímním el. zařízením",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 315,
+      "Question": "Při zřizování prozatímního el. zařízení se ke stupni kvalifikace osob, které mají přístup na pracoviště",
+      "Answer_1": "nemusí přihlížet",
+      "Answer_2": "může přihlížet",
+      "Answer_3": "musí přihlížet 66",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 316,
+      "Question": "Při zřizování prozatímního el. zařízení na staveništích se ke stupni mechanického namáhání zařízení",
+      "Answer_1": "nemusí přihlížet",
+      "Answer_2": "musí přihlížet",
+      "Answer_3": "může přihlížet",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 317,
+      "Question": "Poškozené nebo vadné prozatímní el. zařízení na staveništi",
+      "Answer_1": "nesmí být ponecháno v provozu",
+      "Answer_2": "může být ponecháno v provozu po dobu maximálně 8 hodin",
+      "Answer_3": "může být ponecháno v provozu maximálně do konce pracovní doby",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 318,
+      "Question": "Závady na prozatímním el. zařízení smí odstraňovat",
+      "Answer_1": "pouze revizní technik",
+      "Answer_2": "jakýkoliv pracovník, který prohlásí, že to umí",
+      "Answer_3": "pouze pověřená osoba s příslušnou elektrotechnickou kvalifikací",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 319,
+      "Question": "Spoje musí být zajištěny tak,",
+      "Answer_1": "aby nebyly rozebíratelné",
+      "Answer_2": "aby připojovací svorky byly odlehčeny od tahu vodičů",
+      "Answer_3": "aby vodiče byly zajištěny proti nežádoucímu rozpojení",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 320,
+      "Question": "Spínač, kterým lze vypnout dle potřeby (v případě nebezpečí) el. zařízení stavby",
+      "Answer_1": "musí být umístěn na vhodném přístupném místě",
+      "Answer_2": "musí být označen tabulkou s nápisem „Vypni v nebezpečí“",
+      "Answer_3": "musí být uzamykatelný v zapnutém stavu",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 321,
+      "Question": "Spínač, kterým lze vypnout dle potřeby (v případě nebezpečí) el. zařízení stavby",
+      "Answer_1": "nesmí být v době provozu na staveništi uzamčen",
+      "Answer_2": "nemá být v době provozu na staveništi uzamčen",
+      "Answer_3": "musí být v době noční práce osvětlen 67",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 322,
+      "Question": "Prozatímní el. zařízení v průmyslových objektech mohou být zřízena",
+      "Answer_1": "jen s písemným souhlasem hlavního energetika závodu",
+      "Answer_2": "jen s písemných souhlasem osoby odpovědné za elektrické zařízení",
+      "Answer_3": "na dobu co nejkratší, nejvýše na 1/2 roku",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 323,
+      "Question": "Prozatímní elektrická zařízení v průmyslových objektech musí být pod pravidelným dohledem",
+      "Answer_1": "OIP",
+      "Answer_2": "TIČR",
+      "Answer_3": "pověřené osoby s příslušnou elektrotechnickou kvalifikací",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 324,
+      "Question": "Prozatímní el. zařízení v průmyslových objektech musí mít hlavní vypínač,",
+      "Answer_1": "kterým lze celé zařízení spolehlivě vypnout",
+      "Answer_2": "kterým lze vypnout celé zařízení, mimo světelných okruhů",
+      "Answer_3": "který musí být výrazně označen červenou barvou s nápadně odlišeným barevným pozadím (například žlutým) a výstražnou tabulkou",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 325,
+      "Question": "Je-li jištění rozvodného vedení prozatímních elektrických zařízeních na výstavách a poutích na místě přístupném veřejnosti, musí být umístěno",
+      "Answer_1": "alespoň 2,5 m nad zemí (podlahou)",
+      "Answer_2": "do výklenku ve zdi",
+      "Answer_3": "na tepelně izolující desku tloušťky alespoň 60 mm",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 326,
+      "Question": "Pro ochranu před úrazem elektrickým proudem pro prozatímní elektrická zařízení platí",
+      "Answer_1": "všeobecně norma ČSN 33 2000-4-41 ed. 2",
+      "Answer_2": "pro zařízení VN norma ČSN 33 3201",
+      "Answer_3": "pro zařízení VN norma ČSN EN 61936-1 68",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 327,
+      "Question": "Obalovat svítidla a žárovky papíry nebo látkami",
+      "Answer_1": "se nedoporučuje",
+      "Answer_2": "je dovoleno nejvýše do příkonu 40 W",
+      "Answer_3": "je nepřípustné ČSN 34 1610 - El. silový rozvod v průmyslových provozovnách",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 328,
+      "Question": "Nejvyšší přípustné napětí rozvodné soustavy v průmyslových provozovnách na kterémkoliv místě",
+      "Answer_1": "nemá být dlouhodobě větší než 105 % jmenovitého napětí rozvodné soustavy",
+      "Answer_2": "nemá být dlouhodobě větší než 110 % jmenovitého napětí rozvodné soustavy",
+      "Answer_3": "nemá být krátkodobě (např. při chodu naprázdno) větší než 110 % jmenovitého napětí rozvodné soustavy",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 329,
+      "Question": "Elektrický silový rozvod musí být navržen, dimenzován a provozován tak, aby napětí na svorkách spotřebiče",
+      "Answer_1": "nepokleslo nebo se nezvýšilo více než je stanoveno",
+      "Answer_2": "nepokleslo více než je stanoveno, zvýšení není limitováno",
+      "Answer_3": "se nezvýšilo více než je stanoveno, pokles není limitován",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 330,
+      "Question": "Pokles napětí na svorkách motorického spotřebiče",
+      "Answer_1": "nemá být větší než 5 % jmenovitého napětí soustavy",
+      "Answer_2": "nemá být větší než 7 % jmenovitého napětí soustavy",
+      "Answer_3": "nemá poklesnout pod 95 % jmenovitého napětí motoru",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 331,
+      "Question": "Pokles napětí v místě světelného zdroje způsobený výpočtovým zatížením",
+      "Answer_1": "nemá být větší než 3 % jmenovitého napětí",
+      "Answer_2": "nemá být pro venkovní osvětlení komunikací větší než 8 % jmenovitého napětí sítě",
+      "Answer_3": "nemá být větší než 15 % jmenovitého napětí 69",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 332,
+      "Question": "Pro světelné zdroje umístěné na stroji, které jsou napájeny z přívodu pro motor stroje",
+      "Answer_1": "je nutno dodržet pokles napětí platící pro světelné zdroje",
+      "Answer_2": "je dovoleno stejné procento poklesu napětí jako pro motor stroje",
+      "Answer_3": "není stanoveno omezení pro pokles napětí",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 333,
+      "Question": "Pokles napětí v místě tepelného spotřebiče způsobený výpočtovým zatížením",
+      "Answer_1": "nemá být větší než 10 % jmenovitého napětí rozvodné soustavy",
+      "Answer_2": "nemá být větší než 5 % jmenovitého napětí rozvodné soustavy",
+      "Answer_3": "nemá klesnout pod 95 % jmenovitého napětí rozvodné soustavy",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 334,
+      "Question": "V průmyslových provozovnách, kde nelze vhodnou volbou a dimenzováním spotřebičů dosáhnout požadovaného účiníku",
+      "Answer_1": "musí se vždy provést kompenzace jalového proudu",
+      "Answer_2": "doporučuje se provést kompenzaci jalového proudu",
+      "Answer_3": "nelze připojit spotřebiče, které by dále zvyšovaly jalový proud",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 335,
+      "Question": "U motorů pro zvlášť důležitá zařízení, jejichž náhlé vypnutí v důsledku jištění by způsobilo velké hospodářské škody nebo přímo ohrožení lidských životů,",
+      "Answer_1": "musí se jištění vynechat. Zařízení se však musí opatřit signalizací poruchy a musí mít trvalou obsluhu.",
+      "Answer_2": "musí se jištění provádět o dva stupně silnějšími jistícími prvky",
+      "Answer_3": "musí se použít k jištění výhradně pomalé pojistky ČSN 33 3320 ed. 2 - Elektrické přípojky",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 336,
+      "Question": "Přípojková skříň kabelového vedení je součástí přípojky. Umisťuje se zpravidla na nemovitosti zákazníka, a to v oplocení, obvodovém zdivu budovy nebo na jiném vhodném a snadno přístupném místě. Spodní okraj skříně má být",
+      "Answer_1": "minimálně 0,6 m nad definitivně upraveným terénem (maximálně 1,5 m)",
+      "Answer_2": "minimálně 0,5 m nad definitivně upraveným terénem (maximálně 2,5 m)",
+      "Answer_3": "minimálně 0,2 m nad definitivně upraveným terénem (maximálně 3,0 m) 70",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 337,
+      "Question": "Vnější oplocení venkovních instalací musí splňovat tyto podmínky",
+      "Answer_1": "plot musí být zhotoven z plného materiálu bez otvorů",
+      "Answer_2": "plot musí být vysoký nejméně 1,8 m",
+      "Answer_3": "plot musí být vybaven trojúhelníkovou výstražnou značkou",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 338,
+      "Question": "Okna budov se zařízením vn musí být navržena tak, aby byl ztížen vstup. Která z následujících opatření to zajišťují?",
+      "Answer_1": "okno má rozměr maximálně 150 x 150 cm",
+      "Answer_2": "okno je z nerozbitného materiálu nebo je chráněno drátěným pletivem",
+      "Answer_3": "spodní okraj okna je nejméně 1,8 m nad zemí (nad přístupnou úrovní)",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 339,
+      "Question": "Pro vstupní dveře do prostor s elektrickým zařízením vn je předepsáno, že",
+      "Answer_1": "musí být vybaveny bezpečnostními zámky",
+      "Answer_2": "dveře se musí otevírat směrem dovnitř",
+      "Answer_3": "dveře se musí otevírat směrem ven",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 340,
+      "Question": "Pro nouzové dveře z prostor s elektrickým zařízením vn je předepsáno, že",
+      "Answer_1": "musí mít výšku alespoň 2000 mm",
+      "Answer_2": "šířka otevření musí být alespoň 900 mm",
+      "Answer_3": "šířka otevření musí být alespoň 750 mm",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 341,
+      "Question": "Uličky pro údržbu elektrických stanic musí být široké nejméně",
+      "Answer_1": "80 cm",
+      "Answer_2": "120 cm",
+      "Answer_3": "140 cm",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 342,
+      "Question": "V místech, kde otevřené dveře zasahují do únikových cest, musí zůstat prostor pro evakuaci široký nejméně",
+      "Answer_1": "90 cm",
+      "Answer_2": "70 cm",
+      "Answer_3": "50 cm 71",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 343,
+      "Question": "Dveře skříní rozváděčů nebo kobek rozvodny se mají",
+      "Answer_1": "otevírat ve směru úniku",
+      "Answer_2": "zavírat ve směru úniku",
+      "Answer_3": "otevírat pouze směrem nahoru ke stropu",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 344,
+      "Question": "Dveře mezi různými místnostmi uvnitř uzavřené elektrické provozovny",
+      "Answer_1": "nemusí být opatřeny zámky",
+      "Answer_2": "musí mít vždy zámky",
+      "Answer_3": "nesmí mít nikdy zámky",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 345,
+      "Question": "Tam, kde je pro zhotovení zábran vhodné použití řetězů nebo provazů, musí být umístěny",
+      "Answer_1": "v minimální výšce 1 200 mm",
+      "Answer_2": "v maximální výšce 1 400 mm",
+      "Answer_3": "v maximální výšce 1 950 mm",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 346,
+      "Question": "Venkovní stanoviště s olejovými transformátory musí být vybaveno záchytnou jímkou tehdy, jestliže",
+      "Answer_1": "objem oleje v jednom transformátoru je 1 000 litrů a více",
+      "Answer_2": "objem oleje v jednom transformátoru je 500 litrů a více",
+      "Answer_3": "je transformátor umístěn v ochranném pásmu vodního zdroje",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 347,
+      "Question": "Chodby a únikové cesty musí mít výšku",
+      "Answer_1": "minimálně 1900 mm",
+      "Answer_2": "minimálně 1950 mm",
+      "Answer_3": "minimálně 2000 mm",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 348,
+      "Question": "Sekundární obvody všech přístrojových transformátorů musí být uzemněny. Požaduje se minimální průřez uzemňovacího vodiče",
+      "Answer_1": "1,5 mm2 Cu, pokud je uzemňovací vodič mechanicky chráněn",
+      "Answer_2": "2,5 mm2 Cu, pokud je uzemňovací vodič mechanicky chráněn",
+      "Answer_3": "4 mm2 Cu, pokud uzemňovací vodič není mechanicky chráněn 72",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 349,
+      "Question": "Soustava, ve které středy transformátorů a generátorů nejsou úmyslně spojeny se zemí (s výjimkou vysokoimpedančních spojení pro účely signalizace, měření nebo ochrany) se označuje jako",
+      "Answer_1": "síť IT",
+      "Answer_2": "síť TT",
+      "Answer_3": "síť TN ČSN 33 2000-7-729 - Uličky pro obsluhu nebo údržbu",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 350,
+      "Question": "Vstupní dveře uliček v uzavřeném prostoru s omezeným přístupem",
+      "Answer_1": "se musí otevírat směrem ven z tohoto prostoru",
+      "Answer_2": "se musí otevírat směrem dovnitř do tohoto prostoru",
+      "Answer_3": "musí zůstat trvale otevřené",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 351,
+      "Question": "Vstupní dveře uliček v uzavřeném prostoru s omezeným přístupem musí mít minimální rozměry",
+      "Answer_1": "šířka ....... 600 mm výška .... 1 970 mm",
+      "Answer_2": "šířka ....... 700 mm výška .... 2 000 mm",
+      "Answer_3": "šířka ....... 800 mm výška .... 2 100 mm",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 356,
+      "Question": "U uliček, kde mohou osoby stát nebo procházet se požaduje výška živých částí nad podlahou",
+      "Answer_1": "minimálně 2,3 m",
+      "Answer_2": "minimálně 2,5 m",
+      "Answer_3": "maximálně 2,1 m",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 357,
+      "Question": "Uzavřený prostor s omezeným přístupem o délce vyšší než 20 m",
+      "Answer_1": "musí být uzamčen",
+      "Answer_2": "stačí zpřístupnit z jedné strany",
+      "Answer_3": "musí být přístupný dveřmi na obou koncích",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 358,
+      "Question": "Uličky musím umožnit otevření dveří nebo panelů",
+      "Answer_1": "minimálně v úhlu 60o",
+      "Answer_2": "minimálně v úhlu 90o",
+      "Answer_3": "minimálně v úhlu 120o ČSN 33 2130 ed. 4 - Vnitřní elektrické rozvody",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 359,
+      "Question": "Pokud je osvětlení společných komunikací objektu ovládáno samočinnými schodišťovými spínači,",
+      "Answer_1": "musí být na každém patře ještě dva další nezávislé světelné okruhy",
+      "Answer_2": "musí být na každém patře alespoň čtyři spínače",
+      "Answer_3": "musí být možnost zapnout osvětlení trvale",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 360,
+      "Question": "Zásuvky a spínače",
+      "Answer_1": "mohou být v umývacím prostoru, ale musí být ve výšce alespoň 1,2 m nad podlahou",
+      "Answer_2": "nesmějí být umístěny v umývacím prostoru",
+      "Answer_3": "mohou být vyjímečně v umývacím prostoru tehdy, jsou-li součástí zařízení určeného výrobcem i do umývacího prostoru (v návodu to musí být výslovně uvedeno!)",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 361,
+      "Question": "Kolik svítidel se smí připojit na jeden světelný obvod?",
+      "Answer_1": "5",
+      "Answer_2": "10",
+      "Answer_3": "tolik, aby součet jejich jmenovitých proudů nepřekročil jmenovitý proud jistícího přístroje obvodu",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 362,
+      "Question": "Kolébkové spínače a ovládače se doporučuje osadit tak, aby do polohy „zapnuto“ bylo nutno stlačit kolébku",
+      "Answer_1": "nahoře (neplatí u střídavých a křížových přepínačů)",
+      "Answer_2": "nahoře. Nutno dodržet i u střídavých a křížových přepínačů.",
+      "Answer_3": "dole. Netýká se střídavých a křížových přepínačů.",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 363,
+      "Question": "Ve světelných obvodech bytové a občanské výstavby",
+      "Answer_1": "nemusí být použita doplňková ochrana proudovým chráničem (do 30 mA)",
+      "Answer_2": "nesmí být použita doplňková ochrana proudovým chráničem (do 30 mA)",
+      "Answer_3": "musí být použita doplňková ochrana proudovým chráničem (do 30 mA)",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 364,
+      "Question": "Kolik zásuvek lze nejvýše připojit na jeden zásuvkový obvod? (dvojzásuvka se považuje za jeden zásuvkový vývod)",
+      "Answer_1": "4",
+      "Answer_2": "10",
+      "Answer_3": "15",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 365,
+      "Question": "Jaký je maximální celkový příkon jednoúčelových spotřebičů pro krátkodobé použití, které lze pevně připojit na zásuvkové obvody?",
+      "Answer_1": "60 VA",
+      "Answer_2": "500 VA",
+      "Answer_3": "2 000 VA",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 366,
+      "Question": "Zásuvkové obvody se musí jistit pojistkou nebo jističem",
+      "Answer_1": "odpovídající nejvýše jmenovitému proudu použitých zásuvek",
+      "Answer_2": "odpovídající nejvýše trojnásobku jmenovitého proudu použitých zásuvek",
+      "Answer_3": "o hodnotě max. 25 A 77",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 367,
+      "Question": "Zásuvkové obvody jejich jmenovitý proud nepřekračuje 32 A",
+      "Answer_1": "nemusí mít doplňkovou ochranu proudovým chráničem",
+      "Answer_2": "musí mít doplňkovou ochranu proudovým chráničem do 30 mA",
+      "Answer_3": "nesmí mít doplňkovou ochranu proudovým chráničem",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 369,
+      "Question": "Jaký typ proudových chráničů se nesmí používat u světelných obvodů?",
+      "Answer_1": "Proudové chrániče typu A",
+      "Answer_2": "Proudové chrániče typu B",
+      "Answer_3": "Proudové chrániče typu AC",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 370,
+      "Question": "V bytové jednotce je obvod pro automatickou pračku napájen z jističe 16 A kabelem Cu uloženým pod omítkou. Jaký je předepsaný minimální průřez vodičů?",
+      "Answer_1": "6 mm2",
+      "Answer_2": "1,5 mm2",
+      "Answer_3": "2,5 mm2",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 371,
+      "Question": "V budovách, kde je do bytu (bytů) zaveden plyn, nesmí být instalovány",
+      "Answer_1": "jiskřící zvonky (tj. zvonky s přerušovačem)",
+      "Answer_2": "elektronické zvonky - nejiskřící",
+      "Answer_3": "bzučákové zvonky - nejiskřící",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 372,
+      "Question": "Pro zásuvky u umyvadel ve školních učebnách platí, že",
+      "Answer_1": "se nesmějí umísťovat blíže než 1,5 m od hranice umývacího prostoru.",
+      "Answer_2": "mohou být již ve vzdálenosti 60 cm od hranice umývacího prostoru.",
+      "Answer_3": "u umyvadel musí být vždy instalovány alespoň 2 zásuvky. 78",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 373,
+      "Question": "Co lze instalovat do univerzální instalační krabice bez prostorového oddělení?",
+      "Answer_1": "Zásuvky připojené na různé obvody",
+      "Answer_2": "Pouze zásuvky a spínače, které jsou připojeny na stejný obvod.",
+      "Answer_3": "Nelze instalovat nic jiného, než zásuvky pro obvody SELV nebo PELV. ČSN 33 1500 - Revize elektrických zařízení",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 374,
+      "Question": "Co je účelem revize elektrických zařízení?",
+      "Answer_1": "Ověřování stavu zařízení z hlediska možných úspor elektrické energie",
+      "Answer_2": "Ověřování stavu zařízení z hlediska bezpečnosti",
+      "Answer_3": "Ověřování stavu zařízení z hlediska životnosti",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 375,
+      "Question": "U nových elektrických zařízení musí být výchozí revize provedena",
+      "Answer_1": "nejpozději do 6 měsíců po uvedení do provozu",
+      "Answer_2": "před jejich uvedením do provozu",
+      "Answer_3": "pouze tehdy, když se jedná o zařízení v prostorách s nebezpečím výbuchu",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 376,
+      "Question": "Elektrické zařízení je možno po opravě provozovat jen tehdy, jestliže",
+      "Answer_1": "pracovník provádějící opravu oznámí ústně dokončení opravy provozovateli",
+      "Answer_2": "stav zařízení byl prověřen kontrolou a o kontrole byl vyhotoven záznam s podpisem pověřeného pracovníka",
+      "Answer_3": "stav zařízení byl prověřen kontrolou. Výsledek kontroly není nutno zapisovat.",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 377,
+      "Question": "Pro pravidelné revize ve zděných kancelářských budovách byla stanovena lhůta mezi revizemi",
+      "Answer_1": "2 roky",
+      "Answer_2": "5 roků",
+      "Answer_3": "není nikde stanoveno",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 378,
+      "Question": "Součástí podkladů k provádění revizí je také",
+      "Answer_1": "dokumentace elektrického zařízení odpovídající skutečnému provedení",
+      "Answer_2": "protokol o určení druhu prostředí, pokud není součástí dokumentace",
+      "Answer_3": "záznamy o kontrolách a měřeních provedených na elektrickém zařízení před jeho uvedením do provozu",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 379,
+      "Question": "Součástí prohlídky při provádění výchozí revize je také ověření",
+      "Answer_1": "přístupnosti zařízení z hlediska jeho ovládání a údržby",
+      "Answer_2": "označení nulových a ochranných vodičů",
+      "Answer_3": "označení obvodů, nadproudových ochranných přístrojů, spínačů a svorek",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 380,
+      "Question": "Minimální hodnoty izolačního odporu jsou Ω",
+      "Answer_1": "pro obvody SELV a PELV: 0,5 M (při zkušebním napětí DC 250 V) Ω",
+      "Answer_2": "pro obvody do 500 V: 1,0 M (při zkušebním napětí DC 500 V) Ω",
+      "Answer_3": "pro obvody do 500 V: 0,5 M (při zkušebním napětí DC 500 V)",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 381,
+      "Question": "Podle ČSN 33 2000-6 ed. 2 se provádějí u elektrických instalací tyto revize",
+      "Answer_1": "výchozí revize",
+      "Answer_2": "opakovaná revize",
+      "Answer_3": "pravidelná revize",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 382,
+      "Question": "U elektrických instalací jsou doporučeny tyto lhůty mezi pravidelnými revizemi",
+      "Answer_1": "plavecké bazény a fontány 1 rok",
+      "Answer_2": "zemědělská a zahradnická zařízení 3 roky",
+      "Answer_3": "venkovní osvětlení 4 roky",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 383,
+      "Question": "Pokud není při pravidelné revizi k dispozici předchozí revizní zpráva",
+      "Answer_1": "pravidelnou revizi již není nutno provádět",
+      "Answer_2": "pravidelnou revizi není možno provést",
+      "Answer_3": "pravidelná revize se provede v rozsahu výchozí revize",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 384,
+      "Question": "Před tím, než se provede měření impedance poruchové smyčky, je třeba",
+      "Answer_1": "odpojit celou instalaci od zdroje napájení",
+      "Answer_2": "vodivě spojit ochranný vodič s nulovým vodičem",
+      "Answer_3": "provést zkoušku spojitosti ochranných vodičů 80",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 385,
+      "Question": "Elektrické ruční nářadí se v rámci normy ČSN 33 1600 ed. 2 považuje za",
+      "Answer_1": "nepřipevněný elektrický spotřebič držený v ruce",
+      "Answer_2": "strojní zařízení",
+      "Answer_3": "připevněný elektrický spotřebič",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 386,
+      "Question": "Pro často používané elektrické ruční nářadí je vhodné stanovit místním provozním a bezpečnostním předpisem kratší lhůty mezi opakovanými zkouškami a opakovanými revizemi než uvádí norma.",
+      "Answer_1": "týká se to však pouze nářadí z půjčoven",
+      "Answer_2": "týká se to nářadí s využitím více než 250 provozních hodin za rok",
+      "Answer_3": "týká se to však pouze nářadí, které se drží oběma rukama",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 387,
+      "Question": "U spotřebičů třídy ochrany II a u elektrického ručního nářadí třídy ochrany II se izolační odpor měří",
+      "Answer_1": "mezi živými částmi a přístupnými vodivými částmi (bez rozebírání)",
+      "Answer_2": "tak, že se změří nejprve základní izolace a pak přídavná izolace (nutno rozebrat)",
+      "Answer_3": "izolační odpor není nutno měřit",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 388,
+      "Question": "Opakované revize elektrických spotřebičů zajišťuje",
+      "Answer_1": "jejich provozovatel",
+      "Answer_2": "vždy jejich uživatel",
+      "Answer_3": "v případě dlouhodobého pronájmu jejich uživatel",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 389,
+      "Question": "Norma ČSN 33 1600 ed. 2 se nevztahuje na",
+      "Answer_1": "zdravotnické elektrické spotřebiče, strojní zařízení, svářečky",
+      "Answer_2": "prodlužovací a odpojitelné přívody",
+      "Answer_3": "elektrické spotřebiče na napětí SELV a PELV, které se nepřipojují k síti nn 81",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 390,
+      "Question": "Opakované revize nepřipevněných spotřebičů skupiny C držených v ruce",
+      "Answer_1": "musí být prováděny u třídy ochrany I nejméně jednou za 24 měsíců",
+      "Answer_2": "musí být prováděny u třídy ochrany I a II nejméně jednou za 60 měsíců",
+      "Answer_3": "musí být prováděny u třídy ochrany II a III nejméně jednou za 48 měsíců",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 391,
+      "Question": "Ochranný vodič musí být spolehlivě připojen. Odpor ochranného vodiče, měřený mezi ochrannou zdířkou vidlice a přístupnými vodivými neživými částmi spojenými s ochranným vodičem, může být maximálně Ω",
+      "Answer_1": "0,1 při délce pohyblivého přívodu do 3 m Ω",
+      "Answer_2": "0,2 při délce pohyblivého přívodu do 3 m Ω",
+      "Answer_3": "0,4 při délce pohyblivého přívodu do 5 m",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 392,
+      "Question": "Je-li délka pohyblivého přívodu spotřebiče větší než 3 m Ω",
+      "Answer_1": "připočte se k dovolené hodnotě odporu ochranného vodiče 0,1 na každé další 3 m délky Ω. (V žádném případě ale nesmí být překročena hodnota 1 ) Ω",
+      "Answer_2": "připočte se k dovolené hodnotě odporu ochranného vodiče 0,2 na každých dalších 5 m délky Ω",
+      "Answer_3": "nesmí být překročena hodnota odporu ochranného vodiče 0,2",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 393,
+      "Question": "Izolační odpor spotřebičů třídy ochrany I držených za provozu v ruce musí být Ω",
+      "Answer_1": "nejméně 2 M Ω",
+      "Answer_2": "nejméně 5 M Ω",
+      "Answer_3": "nejméně 7 M",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 394,
+      "Question": "Izolační odpor spotřebičů třídy ochrany II držených za provozu v ruce musí být Ω",
+      "Answer_1": "nejméně 2 M Ω",
+      "Answer_2": "nejméně 5 M Ω",
+      "Answer_3": "nejméně 7 M",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 395,
+      "Question": "Při měření proudu protékajícího ochranným vodičem u spotřebičů třídy ochrany I nesmí být (kromě v normě uvedených vyjímek) překročena hodnota",
+      "Answer_1": "0,5 mA",
+      "Answer_2": "3,5 mA",
+      "Answer_3": "10 mA 82",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 396,
+      "Question": "Při měření dotykového proudu u spotřebičů třídy ochrany II nesmí dotykový proud na vodivých částech přístupných dotyku překročit hodnotu",
+      "Answer_1": "3,5 mA",
+      "Answer_2": "1,5 mA",
+      "Answer_3": "0,5 mA Nařízení vlády č. 390/2021 Sb. - Ochranné pracovní prostředky",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 397,
+      "Question": "Tytéž ochranné prostředky smí používat více různých zaměstnanců. Mohou si je tedy vzájemně půjčovat. Je to však možné pouze v případě, že",
+      "Answer_1": "tytéž ochranné prostředky nepoužívá více než 5 pracovníků",
+      "Answer_2": "jsou učiněna taková opatření, která zamezí ohrožení infekčními onemocněními",
+      "Answer_3": "všichni pracovníci jsou pracovníci znalí ČSN 34 3278 - Provoz přístrojových transformátorů",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 398,
+      "Question": "Pokud nejsou k transformátoru proudu připojeny přístroje, musí být sekundární svorky",
+      "Answer_1": "ponechány nezapojeny",
+      "Answer_2": "označeny výstražnou tabulkou",
+      "Answer_3": "zkratovány ČSN 33 2000-7-708 ed. 4 - Parkovací místa v kempincích",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 399,
+      "Question": "Pro zásuvky na parkovacích místech pro karavany v kempincích platí, že:",
+      "Answer_1": "na jeden proudový chránič smí být zapojeno nejvýše 6 zásuvek",
+      "Answer_2": "zásuvky musí mít krytí alespoň IP 44 a mít jmenovitý proud minimálně 16 A",
+      "Answer_3": "každý zásuvkový vývod musí být chráněn samostatně proudovým chráničem, jehož vybavovací reziduální proud nepřesahuje 30 mA",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 400,
+      "Question": "Jak vysoko nad podlahou mají být umístěny zásuvky v obytných místnostech?",
+      "Answer_1": "alespoň 40 cm (měřeno od středu zásuvky)",
+      "Answer_2": "alespoň 20 cm (měřeno od spodního okraje zásuvky)",
+      "Answer_3": "alespoň 20 cm (měřeno od středu zásuvky)",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 401,
+      "Question": "V jaké výši nad podlahou mají být umístěny instalační spínače?",
+      "Answer_1": "0,6 m až 1,0 m",
+      "Answer_2": "0,9 m až 1,2 m",
+      "Answer_3": "0,9 m až 1,4 m",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 402,
+      "Question": "Jednopólové spínací přístroje nesmí být montovány",
+      "Answer_1": "do ochranného vodiče",
+      "Answer_2": "do fázového vodiče",
+      "Answer_3": "do středního vodiče",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 403,
+      "Question": "Kdy je povoleno jednopólové vypínání silových obvodů spínači?",
+      "Answer_1": "ve všech světelných obvodech",
+      "Answer_2": "jen ve světelných obvodech do 250 V a do 1 000 W a to pouze v obvodech, jejichž jeden pól je spojen se zemí",
+      "Answer_3": "pouze v obvodech s ochranou proudovým chráničem",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 404,
+      "Question": "Kdy mohou být použity spínače nn, které volně visí (např. šňůrové spínače)?",
+      "Answer_1": "při proudu do 10 A. Části vedoucí proud musí být v pevném izolačním pouzdru",
+      "Answer_2": "při proudu do 10 A. Části vedoucí proud musí být v kovovém uzemněném pouzdru",
+      "Answer_3": "při proudu do 6 A. Části vedoucí proud musí být v pevném izolačním pouzdru 84",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 406,
+      "Question": "Izolační odpor elektrických vedení má být Ω",
+      "Answer_1": "40 na 1 V provozního napětí v novostavbách Ω",
+      "Answer_2": "50 na 1 V provozního napětí u zařízení v mokrých a prosáklých prostorách Ω",
+      "Answer_3": "1 000 na 1 V provozního napětí ČSN EN 60034-8 ed. 2 - Točivé stroje - Značení svorek",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 409,
+      "Question": "El. zařízení v koupelnách a sprchách musí mít stupeň ochrany krytem minimálně",
+      "Answer_1": "v zóně 2 ............IPX4. Pokud se očekává použití tryskající vody, tak IPX5.",
+      "Answer_2": "v zóně 1 ........... IPX4. Pokud se očekává použití tryskající vody, tak IPX5.",
+      "Answer_3": "v zóně 0 ........... IPX6",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 410,
+      "Question": "V místnostech s vanou nebo sprchou musí být všechny elektrické obvody vybaveny proudovými chrániči se jmenovitým vybavovacím rozdílovým proudem nepřesahujícím 30 mA. Proudový chránič se nevyžaduje pouze pro tyto obvody:",
+      "Answer_1": "pro obvody, kde je ochrana zajištěna zábranou nebo polohou",
+      "Answer_2": "pro obvody SELV a PELV",
+      "Answer_3": "pro obvody s ochranou elektrickým oddělením",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 411,
+      "Question": "V zóně 1 mohou být umístěna pouze elektrická zařízení, která jsou upevněná, jsou trvale připojená a jsou podle výrobce do zóny 1 vhodná. Mohou to být:",
+      "Answer_1": "ohřívače vody, ventilační zařízení, vířivé vany a sprchová čerpadla",
+      "Answer_2": "zásuvky a vypínače nízkého napětí",
+      "Answer_3": "svítidla a sušiče ručníků",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 412,
+      "Question": "Vedení napájející elektrické zařízení v zóně 1 musí být uloženo ve stěně tímto způsobem:",
+      "Answer_1": "svisle shora nebo vodorovně k zadní straně spotřebiče upevněného nad vanou",
+      "Answer_2": "svisle zdola nebo vodorovně k zadní straně spotřebiče upevněného pod vanou",
+      "Answer_3": "nejkratší cestou šikmo z rohu místnosti od podlahy k zadní straně spotřebiče",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 413,
+      "Question": "V zóně 2 se smí umístit například:",
+      "Answer_1": "libovolná zásuvka 230 V, pokud má krytí alespoň IPX4",
+      "Answer_2": "jedna zásuvka 230 V určená pouze pro připojení pračky",
+      "Answer_3": "infrazářič s krytím alespoň IPX4 86",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 414,
+      "Question": "Místnost s elektrickým zařízením, které při zkratu, přetížení, přepětí nebo provozní poruše stroje může způsobit požár, musí být vybaveny",
+      "Answer_1": "alespoň jedním vodním hasicím přístrojem",
+      "Answer_2": "vhodnými hasicími přístroji v dostatečném počtu",
+      "Answer_3": "výhradně stabilním hasicím zařízením pro hašení požáru",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 415,
+      "Question": "Po odpojení napájení v místě požáru se musí prověřit, zda nedošlo k odpojení",
+      "Answer_1": "požárních čerpadel a čerpadel k plnění vodních zásobníků",
+      "Answer_2": "nouzového osvětlení",
+      "Answer_3": "zařízení, které je nutné k evakuaci lidí, zvířat nebo majetku (požární výtahy apod.) ČSN 33 2312 ed. 2 - El. zařízení v hořlavých látkách a na nich",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 419,
+      "Question": "Elektrické přístroje je možno montovat na hořlavé látky pokud jsou od těchto látek odděleny alespoň",
+      "Answer_1": "pozinkovaným plechem síly minimálně 0,6 mm",
+      "Answer_2": "nehořlavou tepelně izolační podložkou síly alespoň 5 mm",
+      "Answer_3": "vzduchovou mezerou širokou alespoň 30 mm ČSN EN 62305-3 ed. 2 - Ochrana před bleskem - Hmotné škody",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 420,
+      "Question": "V závislosti na vlastnostech chráněné stavby a uvažované úrovni ochrany před bleskem (LPL) se ochrana dělí do tříd (LPS). Tyto třídy LPS jsou celkem",
+      "Answer_1": "čtyři",
+      "Answer_2": "tři",
+      "Answer_3": "dvě",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 421,
+      "Question": "Pro stanovení umístění jímací soustavy jsou přípustné tyto metody:",
+      "Answer_1": "metoda použití aktivního jímače",
+      "Answer_2": "pouze metoda mřížové soustavy",
+      "Answer_3": "metoda ochranného úhlu, metoda valící se koule a metoda mřížové soustavy 88",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 422,
+      "Question": "Při použití mřížové soustavy pro ochranu před bleskem",
+      "Answer_1": "smí být maximální rozměr ok 5 x 5 m pro třídu LPS I",
+      "Answer_2": "smí být maximální rozměr ok 20 x 60 m pro všechny třídy LPS",
+      "Answer_3": "smí být maximální rozměr ok 10 x 10 m pro třídu LPS II",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 423,
+      "Question": "Při použití mřížové soustavy pro ochranu před bleskem",
+      "Answer_1": "smí být maximální rozměr ok 20 x 60 m pro všechny třídy LPS",
+      "Answer_2": "smí být maximální rozměr ok 15 x 15 m pro třídu LPS III",
+      "Answer_3": "smí být maximální rozměr ok 20 x 20 m pro třídu LPS IV",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 426,
+      "Question": "Přednostně by měl být při ochraně před bleskem použit tento zemnič:",
+      "Answer_1": "zemnící tyč",
+      "Answer_2": "deskový zemnič",
+      "Answer_3": "vzájemně spojené ocelové armování v základovém betonu",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 427,
+      "Question": "Pro vodiče svodů mají být použity tyto minimální rozměry:",
+      "Answer_1": "pozinkovaný ocelový drát průměr 8 mm, minimální průřez 50 mm2",
+      "Answer_2": "drát z nerezové oceli průměr 6 mm, postačuje průřez 35 mm2",
+      "Answer_3": "pozinkovaný ocelový pásek, minimální průřez 50 mm2 89",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 428,
+      "Question": "Pokud se při ochraně před bleskem zhotovuje zemnící vodič z pozinkovaného ocelového drátu, měl by mít průměr minimálně",
+      "Answer_1": "10 mm (78 mm2)",
+      "Answer_2": "14 mm (150 mm2)",
+      "Answer_3": "16 mm (200 mm2)",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 429,
+      "Question": "Vzdálenosti mezi svody závisí na třídě LPS a jsou v normě stanoveny takto:",
+      "Answer_1": "15 m pro LPS I 15 m pro LPS II 30 m pro LPS III 30 m pro LPS IV",
+      "Answer_2": "10 m pro LPS I 10 m pro LPS II 15 m pro LPS III 20 m pro LPS IV",
+      "Answer_3": "20 m pro LPS I 20 m pro LPS II 30 m pro LPS III 40 m pro LPS IV",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 431,
+      "Question": "Uzemňovací soustavu typu A tvoří",
+      "Answer_1": "ocelová síť uložená pod celým chráněným objektem",
+      "Answer_2": "vodorovné nebo svislé zemniče, ke kterým jsou připojeny svody",
+      "Answer_3": "obvodový zemnič, který je spojen se základovým zemničem ČSN EN 60038 - Jmenovitá napětí",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 432,
+      "Question": "Jmenovité střídavé napětí veřejných napájecích sítí je",
+      "Answer_1": "220/380 V",
+      "Answer_2": "230/380 V",
+      "Answer_3": "230/400 V 90",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 433,
+      "Question": "Při označování stupně krytí pomocí IP kódu označuje",
+      "Answer_1": "první číslice stupeň ochrany před vniknutím pevných těles",
+      "Answer_2": "první číslice stupeň ochrany proti vniknutí vody",
+      "Answer_3": "druhá číslice stupeň ochrany proti vniknutí vody",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 434,
+      "Question": "Který z následujících stupňů ochrany krytím zajišťuje ochranu proti tryskající vysokotlaké horké vodě?",
+      "Answer_1": "IP44",
+      "Answer_2": "IP68",
+      "Answer_3": "IP69 ČSN 34 2600 ed. 2 - Železniční zabezpečovací zařízení",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 435,
+      "Question": "Způsob ochrany u zabezpečovacích zařízení a jeho částí se volí podle normy ČSN 33 2000-4-41 ed. 2 se zřetelem na",
+      "Answer_1": "hlavní funkci zabezpečovacího zařízení",
+      "Answer_2": "vlivy elektrické trakce",
+      "Answer_3": "vlivy elektrických zařízení vn, vvn a zvn",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 436,
+      "Question": "Elektrické obvody zabezpečovacích zařízení musí být",
+      "Answer_1": "připojeny na silové obvody",
+      "Answer_2": "elektricky odděleny od silových obvodů",
+      "Answer_3": "napájeny výhradně z akumulátorů ČSN EN IEC 62485-2 - Staniční akumulátorové baterie",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 437,
+      "Question": "Olověné, nikl-kadmiové a nikl-metalhydridové akumulátorové baterie",
+      "Answer_1": "musí být pokud možno umístěny v oddělených prostorech",
+      "Answer_2": "musí být umístěny společně v jedné místnosti",
+      "Answer_3": "mají být umístěny společně v jedné místnosti 91",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 438,
+      "Question": "Ve stavu, kdy bateriemi protéká proud,",
+      "Answer_1": "nesmí být na článcích měřeno napětí",
+      "Answer_2": "nesmí být baterie spojovány",
+      "Answer_3": "nesmí být baterie rozpojovány ČSN EN 62485-3 - Trakční baterie",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 439,
+      "Question": "Izolační odpor mezi vývodem baterie (do 120 V) a kostrou vozidla Ω",
+      "Answer_1": "musí být pro novou akumulátorovou baterii alespoň 1 M Ω",
+      "Answer_2": "při provozu nesmí klesnout pod 200 na 1 V jmenovitého napětí Ω Ω",
+      "Answer_3": "při provozu nesmí klesnout pod 50 na 1 V jmenovitého napětí (min. však 1 k ) ČSN 33 0165 ed. 2 - Značení vodičů barvami nebo číslicemi",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 440,
+      "Question": "Holé vodiče třífázové soustavy se značí těmito barvami",
+      "Answer_1": "fázový vodič ................... oranžová",
+      "Answer_2": "fázový vodič ................... červená",
+      "Answer_3": "nulový vodič .................... světle modrá",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 441,
+      "Question": "Holé vodiče elektrických trakčních zařízení provozovaných střídavým jednofázovým proudem jsou označeny těmito barvami:",
+      "Answer_1": "vodič připojený k trolejovému vedení (napájecí vedení) ................ hnědá",
+      "Answer_2": "vodič připojený k trolejovému vedení (napájecí vedení) ................ fialová",
+      "Answer_3": "vodič připojený ke kolejovému vedení (odváděcí vedení) .............. žlutá",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 442,
+      "Question": "Izolované vodiče a kabely se označují těmito barvami",
+      "Answer_1": "fázový nebo krajní vodič ............................... černá, hnědá, šedá",
+      "Answer_2": "nulový/střední vodič ................................. světlemodrá",
+      "Answer_3": "nulový/střední vodič ................................. tmavěmodrá 92",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 443,
+      "Question": "Kabel s barevným kódováním 4B se skládá z jednoho vodiče označeného barvou zelená/žlutá, jednoho vodiče označeného hnědou barvou a",
+      "Answer_1": "jednoho vodiče barvy černé a jednoho vodiče barvy šedé",
+      "Answer_2": "jednoho vodiče barvy modré a jednoho vodiče barvy černé",
+      "Answer_3": "jednoho vodiče barvy černé a jednoho vodiče barvy červené",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 445,
+      "Question": "Bezpečnostní značky v provedení červeném (červený kruh na bílém pozadí s červeným úhlopříčným přeškrtnutím a černým symbolem nebo textem) jsou",
+      "Answer_1": "značky příkazu",
+      "Answer_2": "značky zákazu",
+      "Answer_3": "informační značky",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 446,
+      "Question": "Bezpečnostní značky v provedení modrém (modrý kruh s bílým textem nebo symbolem) jsou",
+      "Answer_1": "značky příkazu",
+      "Answer_2": "značky zákazu",
+      "Answer_3": "značky výstrahy",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 447,
+      "Question": "Bezpečnostní značky v provedení žlutém (žlutý trojúhelník, černě orámovaný s černým textem nebo symbolem) jsou",
+      "Answer_1": "značky zákazu",
+      "Answer_2": "značky výstrahy",
+      "Answer_3": "informační značky",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 448,
+      "Question": "Bezpečnostní značky v provedení zeleném (zelený čtverec, bílý text nebo symbol) jsou",
+      "Answer_1": "značky zákazu",
+      "Answer_2": "značky výstrahy",
+      "Answer_3": "informační značky týkající se bezpečného stavu 93",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 449,
+      "Question": "Do jaké třídy ochrany patří el. zařízení, které má pouze ochranu základní izolací a nemá žádné prostředky pro připojení ochranného vodiče?",
+      "Answer_1": "0 (použití zařízení třídy 0 je v ČR vyloučeno)",
+      "Answer_2": "I",
+      "Answer_3": "III",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 454,
+      "Question": "Ex zařízení jsou určena pro použití",
+      "Answer_1": "při vysokých teplotách",
+      "Answer_2": "pro elektrická zařízení jeřábů",
+      "Answer_3": "ve výbušných atmosférách",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 455,
+      "Question": "Elektrické zařízení musí mít uvnitř připojovacího prostoru svorku",
+      "Answer_1": "pro připojení telekomunikačního kabelu",
+      "Answer_2": "pro připojení uzemňovacího vodiče",
+      "Answer_3": "pro připojení proudového chrániče",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 456,
+      "Question": "Svorka pro vzájemné pospojování na venkovní straně el. zařízení musí zajistit",
+      "Answer_1": "připojení vodiče o průřezu alespoň 4 mm2",
+      "Answer_2": "připojení vodiče o průřezu alespoň 6 mm2",
+      "Answer_3": "připojení nejméně dvou vodičů o průřezu alespoň 4 mm2",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 457,
+      "Question": "Elektrická zařízení pro výbušné atmosféry se dělí do těchto skupin",
+      "Answer_1": "skupina I : Elektrické zařízení pro doly s výskytem metanu",
+      "Answer_2": "skupina II : Elektrické zařízení pro výbušnou plynnou atmosféru jinou, než doly s výskytem metanu",
+      "Answer_3": "skupina III :Elektrické zařízení pro akumulátorové nabíjecí stanice",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 458,
+      "Question": "Které plyny mohou ve směsi se vzduchem vytvořit výbušnou atmosféru?",
+      "Answer_1": "metan",
+      "Answer_2": "vodík",
+      "Answer_3": "acetylén 95",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 459,
+      "Question": "Prostor, ve kterém je vznik výbušné plynné atmosféry pravděpodobný za normálního provozu, je",
+      "Answer_1": "zóna SNV 1",
+      "Answer_2": "zóna 1",
+      "Answer_3": "zóna 2",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 460,
+      "Question": "Prostor, ve kterém je výbušná plynná atmosféra přítomna trvale nebo po dlouhá časová období nebo často, je",
+      "Answer_1": "zóna 0",
+      "Answer_2": "zóna 1",
+      "Answer_3": "zóna 2",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 461,
+      "Question": "Prostor, ve kterém vznik výbušné plynné atmosféry není za normálního provozu pravděpodobný, nebo může vzniknout pouze na krátké období, je",
+      "Answer_1": "zóna 1",
+      "Answer_2": "zóna SNV 2",
+      "Answer_3": "zóna 2",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 462,
+      "Question": "Prostor, ve kterém je, nebo může být přítomna výbušná plynná atmosféra v takovém množství, že jsou nutná speciální opatření pro konstrukci, instalaci a používání zařízení, je",
+      "Answer_1": "zóna 0",
+      "Answer_2": "nebezpečný prostor",
+      "Answer_3": "zóna 1",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 463,
+      "Question": "Prostor, v němž se neočekává přítomnost výbušné plynné atmosféry v takovém množství, aby bylo nutné speciální opatření pro konstrukci, instalaci a používání zařízení, je",
+      "Answer_1": "prostor bez nebezpečí (s ohledem na výbušnou plynnou atmosféru)",
+      "Answer_2": "ochranný prostor",
+      "Answer_3": "SNV 1 96",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 464,
+      "Question": "Existují tyto stupně úniku hořlavých plynů, par, mlhy nebo kapaliny",
+      "Answer_1": "trvalý stupeň úniku",
+      "Answer_2": "primární stupeň úniku",
+      "Answer_3": "sekundární stupeň úniku",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 465,
+      "Question": "Únik, který je trvalý nebo jehož vznik se očekává často nebo po dlouhá časová období, se nazývá",
+      "Answer_1": "sekundární stupeň úniku",
+      "Answer_2": "koncentrovaný únik",
+      "Answer_3": "trvalý stupeň úniku",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 466,
+      "Question": "V situacích, kdy může být přítomna výbušná atmosféra, mají být provedeny tyto kroky",
+      "Answer_1": "okamžitě uzavřít okna",
+      "Answer_2": "vyloučit iniciační zdroje",
+      "Answer_3": "vyloučit pravděpodobnost, že v okolí iniciačního zdroje vznikne výbušná plynná atmosféra",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 467,
+      "Question": "Látka, která je sama o sobě hořlavá nebo je schopna vytvářet hořlavé páry, plyny nebo mlhu je",
+      "Answer_1": "hořlavá látka",
+      "Answer_2": "výbušnina",
+      "Answer_3": "katalyzátor",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 468,
+      "Question": "Zdrojem vytvářejícím sekundární stupeň úniku mohou být",
+      "Answer_1": "těsnění čerpadel, kompresorů nebo ventilů",
+      "Answer_2": "příruby, spoje a armatury na potrubí",
+      "Answer_3": "pojistné ventily 97",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 469,
+      "Question": "Nejnižší teplota kapaliny, při které tato kapalina uvolňuje páry v takovém množství, že jsou schopny vytvořit zápalnou směs par se vzduchem, se nazývá",
+      "Answer_1": "bod vzplanutí",
+      "Answer_2": "bod zážehu",
+      "Answer_3": "bod varu ČSN EN 60079-14 ed. 4 - Výbušné atmosféry",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 470,
+      "Question": "Za účelem usnadnění výběru vhodného elektrického zařízení se prostory s nebezpečím výbuchu dělí na",
+      "Answer_1": "zóny 0, 1, a 2 pro plyny, páry a mlhy",
+      "Answer_2": "zóny 3, 4 a 5 pro hořlavé prachy",
+      "Answer_3": "zóny 20, 21 a 22 pro hořlavé prachy",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 471,
+      "Question": "Pokud je na elektrickém zařízení vyznačen symbol teplotní třídy, označení T1 odpovídá maximální povrchová teplota elektrického zařízení",
+      "Answer_1": "85o C",
+      "Answer_2": "200o C",
+      "Answer_3": "450o C",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 472,
+      "Question": "Je-li při ochraně před nebezpečným (zápalným) jiskřením použita napájecí síť TN, musí být v nebezpečném prostoru použita síť typu",
+      "Answer_1": "TN - S",
+      "Answer_2": "TN - C",
+      "Answer_3": "TN - C s hlídáním unikajících proudů",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 473,
+      "Question": "Je-li při ochraně před nebezpečným (zápalným) jiskřením použita napájecí síť TT musí být chráněna",
+      "Answer_1": "proudovým chráničem",
+      "Answer_2": "jističem",
+      "Answer_3": "pojistkou 98",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 474,
+      "Question": "Je-li při ochraně před nebezpečným (zápalným) jiskřením použita napájecí síť IT, musí být použito",
+      "Answer_1": "dokonalé uzemnění středu napájecí sítě",
+      "Answer_2": "zařízení pro hlídání izolace, které signalizuje druhé zemní spojení",
+      "Answer_3": "zařízení pro hlídání izolace, které signalizuje první zemní spojení",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 475,
+      "Question": "Je-li při ochraně před nebezpečným (zápalným) jiskřením použita síť s malým bezpečným napětím SELV, živé části",
+      "Answer_1": "mohou být spojeny se zemí",
+      "Answer_2": "musí být spojeny s ochrannými vodiči jiných obvodů",
+      "Answer_3": "nesmí být spojeny se zemí ani s ochrannými vodiči jiných obvodů",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 476,
+      "Question": "V instalacích v nebezpečném prostoru v sítích TN, TT a IT pospojování být",
+      "Answer_1": "musí",
+      "Answer_2": "nesmí",
+      "Answer_3": "nemusí ČSN EN 60079-0 ed. 5 - Výbušné atmosféry",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 477,
+      "Question": "Závěr, u kterého není vnikání prachu zcela zabráněno, avšak prach nevniká v takovém množství, aby bránil bezpečnému provozu zařízení je",
+      "Answer_1": "závěr s ochranou proti prachu",
+      "Answer_2": "prachotěsný závěr",
+      "Answer_3": "vodotěsný závěr 99",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 478,
+      "Question": "Závěr (kryt) schopný zabránit vnikání všem viditelným částicím prachu je",
+      "Answer_1": "závěr s ochranou proti prachu",
+      "Answer_2": "prachotěsný závěr",
+      "Answer_3": "vodotěsný závěr",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 479,
+      "Question": "Elektrické zařízení s úrovní ochrany Da je vhodné pro výbušné atmosféry s prachem. Má „velmi vysokou“ úroveň ochrany a není zdrojem iniciace",
+      "Answer_1": "v normálním provozu",
+      "Answer_2": "v normálním provozu ani při očekávaných poruchách",
+      "Answer_3": "v normálním provozu, při očekávaných poruchách ani při vzniku vyjímečných poruch",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 480,
+      "Question": "Elektrické zařízení s úrovní ochrany Db je vhodné pro výbušné atmosféry s prachem. Má „vysokou“ úroveň ochrany a není zdrojem iniciace",
+      "Answer_1": "v normálním provozu, ani při očekávaných poruchách",
+      "Answer_2": "v normálním provozu",
+      "Answer_3": "při vzniku vyjímečných poruch",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 481,
+      "Question": "Elektrické zařízení s úrovní ochrany Dc je vhodné pro výbušné atmosféry s prachem. Má „zvýšenou“ úroveň ochrany a není zdrojem iniciace",
+      "Answer_1": "v normálním provozu, ani při očekávaných poruchách",
+      "Answer_2": "v normálním provozu",
+      "Answer_3": "při vzniku vyjímečných poruch",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 482,
+      "Question": "Baterie zabudované do nevýbušného zařízení musí být tvořeny",
+      "Answer_1": "pouze z článků, které jsou zapojeny pouze paralelně",
+      "Answer_2": "z článků, které jsou zapojeny v sérii nebo paralelně",
+      "Answer_3": "pouze z článků, které jsou zapojeny pouze v sérii 100",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 483,
+      "Question": "Prostor, ve kterém je výbušná atmosféra tvořena oblakem rozvířeného hořlavého prachu ve vzduchu přítomna trvale nebo po dlouhou dobu nebo často, je",
+      "Answer_1": "zóna 22",
+      "Answer_2": "zóna 1",
+      "Answer_3": "zóna 20",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 484,
+      "Question": "Prostor, ve kterém může výbušná atmosféra tvořena oblakem rozvířeného hořlavého prachu ve vzduchu vznikat příležitostně v normálním provozu, je",
+      "Answer_1": "zóna 4",
+      "Answer_2": "zóna 20",
+      "Answer_3": "zóna 21",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 485,
+      "Question": "Pro výběr elektrických zařízení pro prostory s nebezpečím výbuchu jsou nutné i tyto údaje",
+      "Answer_1": "klasifikace nebezpečného prostoru",
+      "Answer_2": "teplota vznícení vyskytujícího se plynu",
+      "Answer_3": "minimální teplota vznícení hořlavého prachu ve vrstvě",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 486,
+      "Question": "Prostor, ve kterém není pravděpodobný vznik výbušné atmosféry tvořené oblakem rozvířeného hořlavého prachu ve vzduchu za normálního provozu je",
+      "Answer_1": "SNV 2",
+      "Answer_2": "zóna 22",
+      "Answer_3": "zóna 1",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 487,
+      "Question": "Jsou-li pro prostory s hořlavým prachem použity pro uložení kabelu žlaby, potrubí, trubky nebo kanály, opatření pro zabránění pronikání nebo hromadění hořlavého prachu v těchto prostorech",
+      "Answer_1": "nemusí být provedena",
+      "Answer_2": "nesmí být provedena",
+      "Answer_3": "musí být provedena 101",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 488,
+      "Question": "V prostoru s hořlavým prachem nejsou vidlice a zásuvky povoleny",
+      "Answer_1": "v zóně 22",
+      "Answer_2": "v zóně 21",
+      "Answer_3": "v zóně 20 ČSN 33 2340 ed. 2 - Prostředí s nebezpečím výbuchu výbušnin",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 489,
+      "Question": "Prostředí s nebezpečím požáru nebo výbuchu výbušnin se třídí takto",
+      "Answer_1": "zóna 1, zóna 2, zóna 3",
+      "Answer_2": "zóna V1, zóna V2, zóna V3",
+      "Answer_3": "A, B, C1, C2, C3",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 490,
+      "Question": "V prostředí s nebezpečím požáru nebo výbuchu výbušin vidlice a zásuvky nejsou povoleny",
+      "Answer_1": "v zóně V3",
+      "Answer_2": "v zóně V2",
+      "Answer_3": "v žádné zóně",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 491,
+      "Question": "Každý obvod musí být vybaven vhodnými odpojovacími prostředky, které",
+      "Answer_1": "odpojí všechny vodiče obvodů, kromě středního vodiče",
+      "Answer_2": "odpojí pouze střední vodič",
+      "Answer_3": "odpojí všechny vodiče obvodů, včetně středního vodiče ČSN EN 60417-1 / IEC 60417-DB - Grafické značky",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 492,
+      "Question": "Na obrázku je značka pro",
+      "Answer_1": "transformátor odolný proti zkratu",
+      "Answer_2": "oddělovací ochranný transformátor",
+      "Answer_3": "bezpečnostní ochranný transformátor 102",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 493,
+      "Question": "Na obrázku je značka pro",
+      "Answer_1": "transformátor odolný proti zkratu",
+      "Answer_2": "oddělovací ochranný transformátor",
+      "Answer_3": "bezpečnostní ochranný transformátor",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 494,
+      "Question": "Na obrázku je značka pro",
+      "Answer_1": "transformátor odolný proti zkratu",
+      "Answer_2": "oddělovací ochranný transformátor",
+      "Answer_3": "bezpečnostní ochranný transformátor",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 495,
+      "Question": "Na obrázku je značka pro",
+      "Answer_1": "bezpečnostní ochranný transformátor pro hračky",
+      "Answer_2": "transformátor pro kolejová vozidla",
+      "Answer_3": "mobilní autotransformátor ČSN EN 61558-2-8 ed. 2 - Zvonkové transformátory",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 496,
+      "Question": "Pro zvonkové transformátory platí",
+      "Answer_1": "jmenovité výstupní napětí nesmí překročit 24 V AC nebo 33 V DC bez zvlnění",
+      "Answer_2": "jmenovitý výkon transformátoru nesmí být vyšší než 100 VA",
+      "Answer_3": "jmenovitý výkon transformátoru může být maximálně 200 VA ČSN EN 61558-2-7 ed. 2 - Transformátory pro hračky",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 497,
+      "Question": "Pro transformátory pro hračky platí",
+      "Answer_1": "jmenovité výstupní napětí nesmí překročit 24 V AC nebo 33 V DC bez zvlnění",
+      "Answer_2": "jmenovitý výkon transformátoru nesmí být vyšší než 200 VA",
+      "Answer_3": "jmenovitý výstupní proud transformátoru nesmí být vyšší než 10 A 103",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 500,
+      "Question": "Jako ochranné vodiče u strojních zařízení nesmí být nikdy použity tyto části",
+      "Answer_1": "nosná konstrukce stroje",
+      "Answer_2": "kovové instalační kanály",
+      "Answer_3": "kovové kabelové pláště",
+      "CorrectA": [
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 501,
+      "Question": "Určete, které z následujících úkonů jsou z hlediska bezpečnostních předpisů definovány jako práce na el. zařízení",
+      "Answer_1": "výměna pevně připojeného síťového přívodu",
+      "Answer_2": "výměna závitových pojistek",
+      "Answer_3": "orientační měření přenosnými měřicími přístroji",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 502,
+      "Question": "Určete, které z následujících úkonů jsou z hlediska bezpečnostních předpisů definovány jako obsluha el. zařízení",
+      "Answer_1": "výměna žárovek v běžných svítidlech",
+      "Answer_2": "měření pomocí trvale namontovaných měřicích přístrojů",
+      "Answer_3": "výměna nožových pojistek ČSN 33 2000-5-51 ed. 3+Z1+Z2",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 503,
+      "Question": "Vnější vlivy jsou podle normy ČSN 33 2000-5-51 ed. 3+Z1+Z2 označovány tak, že každý stupeň vnějšího vlivu je kódován",
+      "Answer_1": "jedním písmenem velké abecedy a dvěma číslicemi (např. A12)",
+      "Answer_2": "dvěma písmeny velké abecedy a číslicí (např. AD4)",
+      "Answer_3": "třemi číslicemi (např. 311)",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 504,
+      "Question": "Protokol o určení vnějších vlivů je součástí dokumentace a musí být",
+      "Answer_1": "archivován po dobu 5 roků",
+      "Answer_2": "archivován po dobu 10 roků",
+      "Answer_3": "archivován po celou dobu životnosti zařízení nebo objektu",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 505,
+      "Question": "Při stanovení vnějších vlivů u objektů či prostorů se výskyt vody označuje",
+      "Answer_1": "kódy AD1 až AD8",
+      "Answer_2": "kódy AF1 až AF5",
+      "Answer_3": "kódy AQ1 až AQ3 105",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 506,
+      "Question": "Jestliže je v sítích IT vyveden nulový vodič, musí být zařízení připojené mezi fázovým a nulovým vodičem izolováno",
+      "Answer_1": "jako pro napětí fázové",
+      "Answer_2": "jako pro napětí sdružené",
+      "Answer_3": "jako pro napětí, které se rovná součtu fázového a sdruženého napětí",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 507,
+      "Question": "Užití modrého vodiče k jiným účelům než jako vodiče nulového nebo středního",
+      "Answer_1": "je dovoleno pouze tam, kde nehrozí záměna",
+      "Answer_2": "není v ČR dovoleno",
+      "Answer_3": "je dovoleno, ale je nutno provést jeho přeznačení návlečkou na obou koncích ČSN 33 2000-7-702 ed. 3 - Plavecké bazény a jiné nádrže",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 508,
+      "Question": "U plaveckých bazénů a fontán se klasifikují zóny",
+      "Answer_1": "0, 1, 2 a 3",
+      "Answer_2": "0, 1 a 2",
+      "Answer_3": "1, 2 a 3",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 509,
+      "Question": "K zajištění ochrany před úrazem elektrickým proudem před nebezpečným dotykem živých částí u bazénů není dovolena ochrana",
+      "Answer_1": "zábranou",
+      "Answer_2": "umístěním mimo dosah (polohou)",
+      "Answer_3": "pomocí SELV ČSN 33 2000-7-703 ed. 2 - Místnosti a kabiny se saunovými kamny",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 510,
+      "Question": "Veškerá elektrická zařízení v místnosti se saunovými kamny musí mít krytí alespoň",
+      "Answer_1": "IP 14",
+      "Answer_2": "IP 21",
+      "Answer_3": "IP 24",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 511,
+      "Question": "V prostoru, který obsahuje saunová kamna, se zásuvky",
+      "Answer_1": "nesmí instalovat",
+      "Answer_2": "mohou instalovat pouze v zóně 3",
+      "Answer_3": "mohou instalovat pouze v zóně 4 106",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 515,
+      "Question": "V zemědělských a zahradnických zařízeních musí mít elektrické zařízení pro normální provoz stupeň ochrany krytem minimálně",
+      "Answer_1": "IP21",
+      "Answer_2": "IP44",
+      "Answer_3": "IP68",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 516,
+      "Question": "Elektrická topidla určená pro chov hospodářských zvířat musí být upevněna na vhodném místě, aby se zabránilo",
+      "Answer_1": "jakémukoliv ohrožení spálením hospodářských zvířat",
+      "Answer_2": "jakékoliv iniciaci požáru hořlavých hmot",
+      "Answer_3": "jakémukoliv přístupu pracovníků k těmto topidlům 107",
+      "CorrectA": [
+        1,
+        2
+      ]
+    },
+    {
+      "Quest_ID": 517,
+      "Question": "Omezený vodivý prostor je",
+      "Answer_1": "prostor sestávající převážně z kovových nebo vodivých okolních částí, uvnitř kterého je pravděpodobné, že osoba se částí svého těla dotkne vodivých okolních částí, přičemž možnost přerušení tohoto kontaktu je omezená",
+      "Answer_2": "prostor sestávající z kovových nebo vodivých okolních částí, u kterého je nutné tyto části spojit s nejbližším vodičem N",
+      "Answer_3": "prostor sestávající z nevodivých okolních částí, uvnitř kterého je pravděpodobné, že osoba se částí svého těla dotkne doplňujícího místního pospojování",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 518,
+      "Question": "Pro napájení ručního nářadí a přenosných zařízení v omezených vodivých prostorech je povoleno napájení z těchto zdrojů:",
+      "Answer_1": "PELV nebo elektrickým oddělením",
+      "Answer_2": "SELV nebo elektrickým oddělením",
+      "Answer_3": "SELV nebo PELV 108",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 519,
+      "Question": "V závislosti použití příložných částí a na přípustnou dobu přerušení napájení se všechny zdravotnické prostory zařazují do jedné z těchto skupin",
+      "Answer_1": "skupina 0, skupina 1 a skupina 2",
+      "Answer_2": "skupina 1, skupina 2 a skupina 3",
+      "Answer_3": "skupina A, skupina B a skupina C",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 520,
+      "Question": "V lékařských prostorech skupiny 1 a 2, kde jsou požadované proudové chrániče, je možno použít",
+      "Answer_1": "pouze proudové chrániče typu AC",
+      "Answer_2": "pouze proudové chrániče typu A, nebo B",
+      "Answer_3": "libovolné typy proudových chráničů",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 521,
+      "Question": "Ve zdravotnických prostorech není dovoleno používat obvody s napětím",
+      "Answer_1": "FELV",
+      "Answer_2": "SELV",
+      "Answer_3": "PELV 109",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 522,
+      "Question": "Zásuvky v kempincích určené k připojení obytných vozidel",
+      "Answer_1": "musí být chráněny proudovým chráničem s vybavovacím proudem do 30 mA",
+      "Answer_2": "musí být chráněny proudovým chráničem s vybavovacím proudem do 100 mA",
+      "Answer_3": "musí být chráněny proudovým chráničem s vybavovacím proudem do 300 mA",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 523,
+      "Question": "Na jeden proudový chránič se jmenovitým vybavovacím proudem do 30 mA se smí v kempinku připojit maximálně",
+      "Answer_1": "2 zásuvky",
+      "Answer_2": "1 zásuvka",
+      "Answer_3": "6 zásuvek ČSN 33 2000-7-721 ed. 2 - Elektrická instalace v karavanech",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 524,
+      "Question": "Elektroinstalace v karavanech musí být vybavena hlavním odpojovacím přístrojem. Tento přístroj musí být umístěn",
+      "Answer_1": "na vnější části karavanu, na dobře přístupném místě",
+      "Answer_2": "uvnitř karavanu, na vhodném, snadno přístupném místě",
+      "Answer_3": "zvenčí, na spodní části karavanu",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 525,
+      "Question": "Měděné vodiče použité v instalaci karavanu musí odpovídat proudové zátěži instalovaných zařízení a jejich průřez nesmí být menší než",
+      "Answer_1": "4,0 mm2",
+      "Answer_2": "1,5 mm2",
+      "Answer_3": "2,5 mm2",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 526,
+      "Question": "Kabely v karavanu, které nejsou umístěny v pevných instalačních trubkách, kanálech nebo ohebných elektroinstalačních trubkách musí být připevněny ve vzdálenostech nejvýše",
+      "Answer_1": "0,6 m ve svislém směru a 0,4 m ve vodorovném směru",
+      "Answer_2": "0,8 m ve svislém i vodorovném směru",
+      "Answer_3": "0,4 m ve svislém směru a 0,25 m ve vodorovném směru 110",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 527,
+      "Question": "Osvětlení v telefonních budkách, zastávkách autobusů, městských plánech apod. musí být vybavena doplňkovou ochranou",
+      "Answer_1": "proudovým chráničem se jmenovitým vybavovacím proudem do 30 mA",
+      "Answer_2": "neuzemněným místním pospojováním",
+      "Answer_3": "umístěním mimo dosah",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 528,
+      "Question": "Elektrické zařízení venkovní světelné instalace musí mít stupeň ochrany krytem",
+      "Answer_1": "nejméně IP 21",
+      "Answer_2": "nejméně IP 33",
+      "Answer_3": "nejméně IP 3X ČSN 33 2000-7-711 ed. 2 - Výstavy, přehlídky a stánky",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 529,
+      "Question": "Provizorní instalace na výstavách, přehlídkách a ve stáncích musí splňovat tyto požadavky:",
+      "Answer_1": "všechny zásuvkové obvody do 32 A a všechny koncové obvody pro osvětlení (kromě nouzového osvětlení) musí být chráněny proudovým chráničem se jmenovitým vybavovacím poruchovým proudem maximálně 30 mA",
+      "Answer_2": "v síti TN musí být instalace provedena jako TN-C",
+      "Answer_3": "v síti TN musí být instalace provedena jako TN-S (nesmí se použít vodič PEN) ČSN 33 2000-7-753 ed. 2 - Podlahové a stropní vytápění",
+      "CorrectA": [
+        1,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 530,
+      "Question": "Podrobná dokumentace topné soustavy, včetně rozložení a umístění topných jednotek, musí být stále upevněna nebo uložena:",
+      "Answer_1": "v rozváděči topné soustavy",
+      "Answer_2": "v hlavním rozváděči",
+      "Answer_3": "jako povinná příloha revizní zprávy topného systému 111",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 531,
+      "Question": "Během používání elektrických spotřebičů se v pravidelných intervalech provádí",
+      "Answer_1": "pouze opakované zkoušky",
+      "Answer_2": "opakované zkoušky a opakované revize",
+      "Answer_3": "pouze opakované revize",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 532,
+      "Question": "El. spotřebiče jsou podle užívání rozděleny do skupin. Do skupiny C patří:",
+      "Answer_1": "spotřebiče používané při průmyslové a řemeslné činnosti ve vnitřních prostorách",
+      "Answer_2": "spotřebiče používané ve veřejně přístupných prostorách",
+      "Answer_3": "spotřebiče používané při administrativní činnosti",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 533,
+      "Question": "Pokud při opakované revizi není známo do které skupiny je spotřebič zařazen",
+      "Answer_1": "nebrání to v řádném provedení opakované revize",
+      "Answer_2": "není možno opakovanou revizi provést",
+      "Answer_3": "musí se opakovaná revize přerušit a pokračovat lze až po zjištění skupiny",
+      "CorrectA": [
+        1
+      ]
+    },
+    {
+      "Quest_ID": 534,
+      "Question": "Opakované revize spotřebičů skupiny E, které nejsou držené v ruce",
+      "Answer_1": "musí být prováděny nejméně jednou za 24 měsíců",
+      "Answer_2": "musí být prováděny nejméně jednou za 96 měsíců",
+      "Answer_3": "musí být prováděny nejméně jednou za 120 měsíců",
+      "CorrectA": [
+        2
+      ]
+    },
+    {
+      "Quest_ID": 535,
+      "Question": "Pokud je ve spotřebiči generováno bezpečné malé napětí a je ze spotřebiče vyvedeno, při revizi se ověřuje, zda není překročena mezní dovolená hodnota tohoto bezpečného malého napětí.",
+      "Answer_1": "Napětí u SELV a PELV nesmí mezi vodiči překročit 25 V AC nebo 60 V DC.",
+      "Answer_2": "Napětí u SELV a PELV nesmí mezi vodiči překročit 24 V AC nebo 100 V DC.",
+      "Answer_3": "Napětí u SELV a PELV nesmí mezi vodiči překročit 50 V AC nebo 120 V DC. 112",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 536,
+      "Question": "U prodlužovacích a odpojitelných přívodů se izolační stav měří mezi ochranným vodičem a vzájemně propojenými ostatními vodiči. Ω",
+      "Answer_1": "Změřený izolační odpor nesmí být menší než 2 M Ω",
+      "Answer_2": "Změřený izolační odpor nesmí být menší než 5 M Ω",
+      "Answer_3": "Změřený izolační odpor nesmí být menší než 7 M",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 537,
+      "Question": "Pro odpojitelné přívody se stanovuje lhůta mezi opakovanými revizemi",
+      "Answer_1": "nejméně jednou za 6 měsíců",
+      "Answer_2": "stejná, jako lhůta uvedená pro spotřebič držený v ruce",
+      "Answer_3": "stejná, jako lhůta uvedená pro spotřebič, se kterým se používají",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 538,
+      "Question": "U nově zakoupených spotřebičů třídy ochrany I a u prodlužovacích a odpojitelných přívodů se před uvedením do provozu",
+      "Answer_1": "musí změřit izolační stav",
+      "Answer_2": "musí udělat kompletní revize",
+      "Answer_3": "doporučuje ověřit spojitost ochranného vodiče",
+      "CorrectA": [
+        3
+      ]
+    },
+    {
+      "Quest_ID": 539,
+      "Question": "Součástí opakované revize podle normy ČSN 33 1600 ed. 2 - Revize a kontroly elektrických spotřebičů během používání je také",
+      "Answer_1": "vypracování dokladu o provedení opakované revize",
+      "Answer_2": "kontrola označení revidovaného elektrického spotřebiče",
+      "Answer_3": "prohlídka, měření, zkouška chodu",
+      "CorrectA": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "Quest_ID": 540,
+      "Question": "Osoba, která provedla opakovanou revizi, se na protokolu o opakované revizi prokáže alespoň jedním z těchto způsobů:",
+      "Answer_1": "razítkem (podpis není nutný)",
+      "Answer_2": "vlastnoručním podpisem",
+      "Answer_3": "elektronickým podpisem 113",
+      "CorrectA": [
+        2,
+        3
+      ]
+    }
+  ]
+}
