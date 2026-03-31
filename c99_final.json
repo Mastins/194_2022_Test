@@ -3658,6 +3658,7 @@
     {
       "Quest_ID": 352,
       "Question": "V prostoru s omezeným přístupem musí být nechráněné součásti elektrického zařízení pod napětím umístěny tak, aby šíře uličky mezi zdí a součástmi pod napětím byla minimálně ?",
+      "Question_Image": "images/schemas/352.png",
       "Answer_1": "900 mm",
       "Answer_2": "1 000 mm",
       "Answer_3": "1 200 mm",
@@ -3666,6 +3667,7 @@
     {
       "Quest_ID": 353,
       "Question": "V prostoru s omezeným přístupem musí být zařízení uspořádáno tak, aby volný prostor mezi zdí a ovládacími prvky byl minimálně ?",
+      "Question_Image": "images/schemas/353.png",
       "Answer_1": "500 mm",
       "Answer_2": "700 mm",
       "Answer_3": "950 mm 74",
@@ -3674,6 +3676,7 @@
     {
       "Quest_ID": 354,
       "Question": "V prostoru s omezeným přístupem musí být zařízení uspořádáno tak, aby šíře uličky mezi součástmi pod napětím byla minimálně ?",
+      "Question_Image": "images/schemas/354.png",
       "Answer_1": "1 300 mm",
       "Answer_2": "1 200 mm",
       "Answer_3": "1 000 mm",
@@ -3682,6 +3685,7 @@
     {
       "Quest_ID": 355,
       "Question": "V prostoru s omezeným přístupem musí být zařízení uspořádáno tak, aby volný prostor mezi ovládacími prvky (rukojeťmi) byl minimálně ?",
+      "Question_Image": "images/schemas/355.png",
       "Answer_1": "900 mm",
       "Answer_2": "1 800 mm",
       "Answer_3": "2 300 mm 75",
