@@ -2684,17 +2684,23 @@
     {
       "Quest_ID": 260,
       "Question": "Zařízení s dvojitou nebo zesílenou izolací (zařízení třídy ochrany II) se označují značkou",
-      "Answer_1": "",
-      "Answer_2": "",
-      "Answer_3": "",
+       "Answer_1": "a",
+      "Answer_1_Image": "images/schemas/260_a.png",
+      "Answer_2": "b",
+      "Answer_2_Image": "images/schemas/260_b.png",
+      "Answer_3": "c",
+      "Answer_3_Image": "images/schemas/260_c.png",
       "CorrectA": 3
     },
     {
       "Quest_ID": 261,
       "Question": "Zařízení, u něhož byla v průběhu výstavby (montáže) doplněna přídavná izolace, nebo zesílená izolace, musí mít na povrchu a vnitřku krytu umístěnu značku",
-      "Answer_1": "",
-      "Answer_2": "",
-      "Answer_3": "",
+      "Answer_1": "a",
+      "Answer_1_Image": "images/schemas/261_a.png",
+      "Answer_2": "b",
+      "Answer_2_Image": "images/schemas/261_b.png",
+      "Answer_3": "c",
+      "Answer_3_Image": "images/schemas/261_c.png",
       "CorrectA": 1
     },
     {
