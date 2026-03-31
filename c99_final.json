@@ -3797,7 +3797,7 @@
       "Question": "Zásuvkové obvody se musí jistit pojistkou nebo jističem",
       "Answer_1": "odpovídající nejvýše jmenovitému proudu použitých zásuvek",
       "Answer_2": "odpovídající nejvýše trojnásobku jmenovitého proudu použitých zásuvek",
-      "Answer_3": "o hodnotě max. 25 A",
+      "Answer_3": "o hodnotě max. 25A",
       "CorrectA": [
         1
       ]
@@ -3835,7 +3835,7 @@
     },
     {
       "Quest_ID": 370,
-      "Question": "V bytové jednotce je obvod pro automatickou pračku napájen z jističe 16 A kabelem Cu uloženým pod omítkou. Jaký je předepsaný minimální průřez vodičů?",
+      "Question": "V bytové jednotce je obvod pro automatickou pračku napájen z jističe 16A kabelem Cu uloženým pod omítkou. Jaký je předepsaný minimální průřez vodičů?",
       "Answer_1": "6 mm2",
       "Answer_2": "1,5 mm2",
       "Answer_3": "2,5 mm2",
@@ -4057,19 +4057,19 @@
     {
       "Quest_ID": 391,
       "Question": "Ochranný vodič musí být spolehlivě připojen. Odpor ochranného vodiče, měřený mezi ochrannou zdířkou vidlice a přístupnými vodivými neživými částmi spojenými s ochranným vodičem, může být maximálně",
-      "Answer_1": "0,1 při délce pohyblivého přívodu do 3 m Ω",
-      "Answer_2": "0,2 při délce pohyblivého přívodu do 3 m Ω",
-      "Answer_3": "0,4 při délce pohyblivého přívodu do 5 m Ω",
+      "Answer_1": "0,1Ω při délce pohyblivého přívodu do 3m",
+      "Answer_2": "0,2Ω při délce pohyblivého přívodu do 3m",
+      "Answer_3": "0,4Ω při délce pohyblivého přívodu do 5m",
       "CorrectA": [
         2
       ]
     },
     {
       "Quest_ID": 392,
-      "Question": "Je-li délka pohyblivého přívodu spotřebiče větší než 3 m",
-      "Answer_1": "připočte se k dovolené hodnotě odporu ochranného vodiče 0,1 Ω na každé další 3 m délky. (V žádném případě ale nesmí být překročena hodnota 1 )",
-      "Answer_2": "připočte se k dovolené hodnotě odporu ochranného vodiče 0,2 Ω na každých dalších 5 m délky",
-      "Answer_3": "nesmí být překročena hodnota odporu ochranného vodiče 0,2 Ω",
+      "Question": "Je-li délka pohyblivého přívodu spotřebiče větší než 3m",
+      "Answer_1": "připočte se k dovolené hodnotě odporu ochranného vodiče 0,1Ω na každé další 3m délky. (V žádném případě ale nesmí být překročena hodnota 1 )",
+      "Answer_2": "připočte se k dovolené hodnotě odporu ochranného vodiče 0,2Ω na každých dalších 5m délky",
+      "Answer_3": "nesmí být překročena hodnota odporu ochranného vodiče 0,2Ω",
       "CorrectA": [
         1
       ]
@@ -4077,9 +4077,9 @@
     {
       "Quest_ID": 393,
       "Question": "Izolační odpor spotřebičů třídy ochrany I držených za provozu v ruce musí být",
-      "Answer_1": "nejméně 2 M Ω",
-      "Answer_2": "nejméně 5 M Ω",
-      "Answer_3": "nejméně 7 M Ω",
+      "Answer_1": "nejméně 2 MΩ",
+      "Answer_2": "nejméně 5 MΩ",
+      "Answer_3": "nejméně 7 MΩ",
       "CorrectA": [
         1
       ]
@@ -4087,9 +4087,9 @@
     {
       "Quest_ID": 394,
       "Question": "Izolační odpor spotřebičů třídy ochrany II držených za provozu v ruce musí být ",
-      "Answer_1": "nejméně 2 M Ω",
-      "Answer_2": "nejméně 5 M Ω",
-      "Answer_3": "nejméně 7 M Ω",
+      "Answer_1": "nejméně 2 MΩ",
+      "Answer_2": "nejméně 5 MΩ",
+      "Answer_3": "nejméně 7 MΩ",
       "CorrectA": [
         3
       ]
@@ -4148,9 +4148,9 @@
     {
       "Quest_ID": 400,
       "Question": "Jak vysoko nad podlahou mají být umístěny zásuvky v obytných místnostech?",
-      "Answer_1": "alespoň 40 cm (měřeno od středu zásuvky)",
-      "Answer_2": "alespoň 20 cm (měřeno od spodního okraje zásuvky)",
-      "Answer_3": "alespoň 20 cm (měřeno od středu zásuvky)",
+      "Answer_1": "alespoň 40cm (měřeno od středu zásuvky)",
+      "Answer_2": "alespoň 20cm (měřeno od spodního okraje zásuvky)",
+      "Answer_3": "alespoň 20cm (měřeno od středu zásuvky)",
       "CorrectA": [
         3
       ]
@@ -4158,9 +4158,9 @@
     {
       "Quest_ID": 401,
       "Question": "V jaké výši nad podlahou mají být umístěny instalační spínače?",
-      "Answer_1": "0,6 m až 1,0 m",
-      "Answer_2": "0,9 m až 1,2 m",
-      "Answer_3": "0,9 m až 1,4 m",
+      "Answer_1": "0,6m až 1,0m",
+      "Answer_2": "0,9m až 1,2m",
+      "Answer_3": "0,9m až 1,4m",
       "CorrectA": [
         2
       ]
@@ -4180,7 +4180,7 @@
       "Quest_ID": 403,
       "Question": "Kdy je povoleno jednopólové vypínání silových obvodů spínači?",
       "Answer_1": "ve všech světelných obvodech",
-      "Answer_2": "jen ve světelných obvodech do 250 V a do 1 000 W a to pouze v obvodech, jejichž jeden pól je spojen se zemí",
+      "Answer_2": "jen ve světelných obvodech do 250V a do 1 000W a to pouze v obvodech, jejichž jeden pól je spojen se zemí",
       "Answer_3": "pouze v obvodech s ochranou proudovým chráničem",
       "CorrectA": [
         2
@@ -4189,9 +4189,9 @@
     {
       "Quest_ID": 404,
       "Question": "Kdy mohou být použity spínače nn, které volně visí (např. šňůrové spínače)?",
-      "Answer_1": "při proudu do 10 A. Části vedoucí proud musí být v pevném izolačním pouzdru",
-      "Answer_2": "při proudu do 10 A. Části vedoucí proud musí být v kovovém uzemněném pouzdru",
-      "Answer_3": "při proudu do 6 A. Části vedoucí proud musí být v pevném izolačním pouzdru",
+      "Answer_1": "při proudu do 10A. Části vedoucí proud musí být v pevném izolačním pouzdru",
+      "Answer_2": "při proudu do 10A. Části vedoucí proud musí být v kovovém uzemněném pouzdru",
+      "Answer_3": "při proudu do 6A. Části vedoucí proud musí být v pevném izolačním pouzdru",
       "CorrectA": [
         3
       ]
@@ -4199,17 +4199,17 @@
     {
       "Quest_ID": 405,
       "Question": "Do jakého proudu se smí užívat šňůrových spínačů?",
-      "Answer_1": "6 A",
-      "Answer_2": "10 A",
-      "Answer_3": "16 A",
+      "Answer_1": "6A",
+      "Answer_2": "10A",
+      "Answer_3": "16A",
       "CorrectA": 1
     },
     {
       "Quest_ID": 406,
-      "Question": "Izolační odpor elektrických vedení má být Ω",
-      "Answer_1": "40 na 1 V provozního napětí v novostavbách Ω",
-      "Answer_2": "50 na 1 V provozního napětí u zařízení v mokrých a prosáklých prostorách Ω",
-      "Answer_3": "1 000 na 1 V provozního napětí ČSN EN 60034-8 ed. 2 - Točivé stroje - Značení svorek",
+      "Question": "Izolační odpor elektrických vedení má být",
+      "Answer_1": "40Ω na 1V provozního napětí v novostavbách",
+      "Answer_2": "50Ω na 1V provozního napětí u zařízení v mokrých a prosáklých prostorách ",
+      "Answer_3": "1 000Ω na 1V provozního napětí ČSN EN 60034-8 ed. 2 - Točivé stroje - Značení svorek",
       "CorrectA": [
         2,
         3
@@ -4218,17 +4218,23 @@
     {
       "Quest_ID": 407,
       "Question": "Označte správné připojení svorek asynchronního motoru při zapojení do trojúhelníku",
-      "Answer_1": "",
-      "Answer_2": "",
-      "Answer_3": "W2 U2 V2 W2 U2 V2 W2 U2 V2 U1 V1 W1 U1 V1 W1 U1 V1 W1 L1 L2 L3 L1 L2 L3 L1 L2 L3",
+      "Answer_1": "a",
+      "Answer_1_Image": "images/schemas/407_a.png",
+      "Answer_2": "b",
+      "Answer_2_Image": "images/schemas/407_b.png",
+      "Answer_3": "c",
+      "Answer_3_Image": "images/schemas/407_c.png",
       "CorrectA": 2
     },
     {
       "Quest_ID": 408,
       "Question": "Označte správné připojení svorek asynchronního motoru při zapojení do hvězdy",
-      "Answer_1": "",
-      "Answer_2": "",
-      "Answer_3": "W2 U2 V2 W2 U2 V2 W2 U2 V2 U1 V1 W1 U1 V1 W1 U1 V1 W1 L1 L2 L3 L1 L2 L3 L1 L2 L3 85",
+      "Answer_1": "a",
+      "Answer_1_Image": "images/schemas/408_a.png",
+      "Answer_2": "b",
+      "Answer_2_Image": "images/schemas/408_b.png",
+      "Answer_3": "c",
+      "Answer_3_Image": "images/schemas/408_c.png",
       "CorrectA": 3
     },
     {
@@ -4310,25 +4316,34 @@
     {
       "Quest_ID": 416,
       "Question": "Elektrické předměty, které je možno montovat přímo na hořlavé látky, mají označení",
-      "Answer_1": "",
-      "Answer_2": "",
-      "Answer_3": "",
+      "Answer_1": "a",
+      "Answer_1_Image": "images/schemas/416_a.png",
+      "Answer_2": "b",
+      "Answer_2_Image": "images/schemas/416_b.png",
+      "Answer_3": "c",
+      "Answer_3_Image": "images/schemas/416_c.png",
       "CorrectA": 3
     },
     {
       "Quest_ID": 417,
       "Question": "Elektrické předměty, které je možno montovat přímo do hořlavých látek, mají označení",
-      "Answer_1": "",
-      "Answer_2": "",
-      "Answer_3": "87",
+      "Answer_1": "a",
+      "Answer_1_Image": "images/schemas/417_a.png",
+      "Answer_2": "b",
+      "Answer_2_Image": "images/schemas/417_b.png",
+      "Answer_3": "c",
+      "Answer_3_Image": "images/schemas/417_c.png",
       "CorrectA": 2
     },
     {
       "Quest_ID": 418,
       "Question": "Elektrická svítidla, která se nesmí montovat přímo na hořlavé látky, mají označení",
-      "Answer_1": "",
-      "Answer_2": "",
-      "Answer_3": "",
+      "Answer_1": "a",
+      "Answer_1_Image": "images/schemas/418_a.png",
+      "Answer_2": "b",
+      "Answer_2_Image": "images/schemas/418_b.png",
+      "Answer_3": "c",
+      "Answer_3_Image": "images/schemas/418_c.png",
       "CorrectA": 2
     },
     {
@@ -4434,9 +4449,9 @@
     {
       "Quest_ID": 429,
       "Question": "Vzdálenosti mezi svody závisí na třídě LPS a jsou v normě stanoveny takto:",
-      "Answer_1": "15 m pro LPS I 15 m pro LPS II 30 m pro LPS III 30 m pro LPS IV",
-      "Answer_2": "10 m pro LPS I 10 m pro LPS II 15 m pro LPS III 20 m pro LPS IV",
-      "Answer_3": "20 m pro LPS I 20 m pro LPS II 30 m pro LPS III 40 m pro LPS IV",
+      "Answer_1": "15m pro LPS I 15m pro LPS II 30m pro LPS III 30m pro LPS IV",
+      "Answer_2": "10m pro LPS I 10m pro LPS II 15m pro LPS III 20m pro LPS IV",
+      "Answer_3": "20m pro LPS I 20m pro LPS II 30m pro LPS III 40m pro LPS IV",
       "CorrectA": [
         2
       ]
@@ -4535,10 +4550,10 @@
     },
     {
       "Quest_ID": 439,
-      "Question": "Izolační odpor mezi vývodem baterie (do 120 V) a kostrou vozidla Ω",
-      "Answer_1": "musí být pro novou akumulátorovou baterii alespoň 1 M Ω",
-      "Answer_2": "při provozu nesmí klesnout pod 200 na 1 V jmenovitého napětí Ω Ω",
-      "Answer_3": "při provozu nesmí klesnout pod 50 na 1 V jmenovitého napětí (min. však 1 k ) ČSN 33 0165 ed. 2 - Značení vodičů barvami nebo číslicemi",
+      "Question": "Izolační odpor mezi vývodem baterie (do 120 V) a kostrou vozidla",
+      "Answer_1": "musí být pro novou akumulátorovou baterii alespoň 1 MΩ",
+      "Answer_2": "při provozu nesmí klesnout pod 200 Ω na 1 V jmenovitého napětí",
+      "Answer_3": "při provozu nesmí klesnout pod 50 Ω na 1 V jmenovitého napětí (min. však 1 kΩ) ČSN 33 0165 ed. 2 - Značení vodičů barvami nebo číslicemi",
       "CorrectA": [
         1,
         3
@@ -4549,7 +4564,7 @@
       "Question": "Holé vodiče třífázové soustavy se značí těmito barvami",
       "Answer_1": "fázový vodič ................... oranžová",
       "Answer_2": "fázový vodič ................... červená",
-      "Answer_3": "nulový vodič .................... světle modrá",
+      "Answer_3": "nulový vodič ................... světle modrá",
       "CorrectA": [
         1,
         3
@@ -4560,7 +4575,7 @@
       "Question": "Holé vodiče elektrických trakčních zařízení provozovaných střídavým jednofázovým proudem jsou označeny těmito barvami:",
       "Answer_1": "vodič připojený k trolejovému vedení (napájecí vedení) ................ hnědá",
       "Answer_2": "vodič připojený k trolejovému vedení (napájecí vedení) ................ fialová",
-      "Answer_3": "vodič připojený ke kolejovému vedení (odváděcí vedení) .............. žlutá",
+      "Answer_3": "vodič připojený ke kolejovému vedení (odváděcí vedení) ................ žlutá",
       "CorrectA": [
         2,
         3
@@ -4569,7 +4584,7 @@
     {
       "Quest_ID": 442,
       "Question": "Izolované vodiče a kabely se označují těmito barvami",
-      "Answer_1": "fázový nebo krajní vodič ............................... černá, hnědá, šedá",
+      "Answer_1": "fázový nebo krajní vodič ............................. černá, hnědá, šedá",
       "Answer_2": "nulový/střední vodič ................................. světlemodrá",
       "Answer_3": "nulový/střední vodič ................................. tmavěmodrá",
       "CorrectA": [
@@ -4593,7 +4608,9 @@
       "Answer_1": "4C",
       "Answer_2": "5C",
       "Answer_3": "5D",
-      "CorrectA": 2
+      "CorrectA": [
+        2
+      ]
     },
     {
       "Quest_ID": 445,
@@ -4651,7 +4668,9 @@
       "Answer_1": "0",
       "Answer_2": "I",
       "Answer_3": "II",
-      "CorrectA": 2
+      "CorrectA": [
+        2
+      ]
     },
     {
       "Quest_ID": 451,
@@ -4659,7 +4678,9 @@
       "Answer_1": "I",
       "Answer_2": "II",
       "Answer_3": "III",
-      "CorrectA": 2
+      "CorrectA": [
+        2
+      ]
     },
     {
       "Quest_ID": 452,
@@ -4667,14 +4688,19 @@
       "Answer_1": "I",
       "Answer_2": "II",
       "Answer_3": "III",
-      "CorrectA": 3
+      "CorrectA": [
+        3
+      ]
     },
     {
       "Quest_ID": 453,
       "Question": "Které z uvedených připojení elektrických spotřebičů není správné?",
-      "Answer_1": "",
-      "Answer_2": "",
-      "Answer_3": "94 Část 0: Zařízení - Obecné požadavky",
+      "Answer_1": "a",
+      "Answer_1_Image": "images/schemas/453_a.png",
+      "Answer_2": "b",
+      "Answer_2_Image": "images/schemas/453_b.png",
+      "Answer_3": "c",
+      "Answer_3_Image": "images/schemas/453_c.png",
       "CorrectA": [
         1,
         2
@@ -4862,9 +4888,9 @@
     {
       "Quest_ID": 471,
       "Question": "Pokud je na elektrickém zařízení vyznačen symbol teplotní třídy, označení T1 odpovídá maximální povrchová teplota elektrického zařízení",
-      "Answer_1": "85o C",
-      "Answer_2": "200o C",
-      "Answer_3": "450o C",
+      "Answer_1": "85 °C",
+      "Answer_2": "200 °C",
+      "Answer_3": "450 °C",
       "CorrectA": [
         3
       ]
@@ -5074,6 +5100,7 @@
     {
       "Quest_ID": 492,
       "Question": "Na obrázku je značka pro",
+      "Question_Image": "images/schemas/492.png",
       "Answer_1": "transformátor odolný proti zkratu",
       "Answer_2": "oddělovací ochranný transformátor",
       "Answer_3": "bezpečnostní ochranný transformátor",
@@ -5084,6 +5111,7 @@
     {
       "Quest_ID": 493,
       "Question": "Na obrázku je značka pro",
+      "Question_Image": "images/schemas/493.png",
       "Answer_1": "transformátor odolný proti zkratu",
       "Answer_2": "oddělovací ochranný transformátor",
       "Answer_3": "bezpečnostní ochranný transformátor",
@@ -5094,6 +5122,7 @@
     {
       "Quest_ID": 494,
       "Question": "Na obrázku je značka pro",
+      "Question_Image": "images/schemas/494.png",
       "Answer_1": "transformátor odolný proti zkratu",
       "Answer_2": "oddělovací ochranný transformátor",
       "Answer_3": "bezpečnostní ochranný transformátor",
@@ -5104,6 +5133,7 @@
     {
       "Quest_ID": 495,
       "Question": "Na obrázku je značka pro",
+      "Question_Image": "images/schemas/495.png",
       "Answer_1": "bezpečnostní ochranný transformátor pro hračky",
       "Answer_2": "transformátor pro kolejová vozidla",
       "Answer_3": "mobilní autotransformátor ČSN EN 61558-2-8 ed. 2 - Zvonkové transformátory",
@@ -5137,18 +5167,28 @@
     {
       "Quest_ID": 498,
       "Question": "Síťový napájecí zdroj k notebooku je obvykle v provedení s dvojitou izolací. Pokud je u něj v přívodní šňůře použit třetí vodič, neplní funkci ochranného vodiče, ale jedná se o vodič pracovního uzemnění. Takový síťový napájecí zdroj se pak označuje značkou:",
-      "Answer_1": "",
-      "Answer_2": "",
-      "Answer_3": "",
-      "CorrectA": 1
+      "Answer_1": "a",
+      "Answer_1_Image": "images/schemas/498_a.png",
+      "Answer_2": "b",
+      "Answer_2_Image": "images/schemas/498_b.png",
+      "Answer_3": "c",
+      "Answer_3_Image": "images/schemas/498_c.png",
+      "CorrectA": [
+        1
+      ]
     },
     {
       "Quest_ID": 499,
       "Question": "Určete, které ze zapojení řídicích obvodů strojních zařízení je správné",
-      "Answer_1": "",
-      "Answer_2": "",
-      "Answer_3": "104",
-      "CorrectA": 2
+      "Answer_1": "a",
+      "Answer_1_Image": "images/schemas/499_a.png",
+      "Answer_2": "b",
+      "Answer_2_Image": "images/schemas/499_b.png",
+      "Answer_3": "c",
+      "Answer_3_Image": "images/schemas/499_c.png",
+      "CorrectA": [
+        2
+      ]
     },
     {
       "Quest_ID": 500,
@@ -5177,7 +5217,7 @@
       "Question": "Určete, které z následujících úkonů jsou z hlediska bezpečnostních předpisů definovány jako obsluha el. zařízení",
       "Answer_1": "výměna žárovek v běžných svítidlech",
       "Answer_2": "měření pomocí trvale namontovaných měřicích přístrojů",
-      "Answer_3": "výměna nožových pojistek ČSN 33 2000-5-51 ed. 3+Z1+Z2",
+      "Answer_3": "výměna nožových pojistek",
       "CorrectA": [
         1,
         2
@@ -5228,7 +5268,7 @@
       "Question": "Užití modrého vodiče k jiným účelům než jako vodiče nulového nebo středního",
       "Answer_1": "je dovoleno pouze tam, kde nehrozí záměna",
       "Answer_2": "není v ČR dovoleno",
-      "Answer_3": "je dovoleno, ale je nutno provést jeho přeznačení návlečkou na obou koncích ČSN 33 2000-7-702 ed. 3 - Plavecké bazény a jiné nádrže",
+      "Answer_3": "je dovoleno, ale je nutno provést jeho přeznačení návlečkou na obou koncích",
       "CorrectA": [
         2
       ]
@@ -5248,7 +5288,7 @@
       "Question": "K zajištění ochrany před úrazem elektrickým proudem před nebezpečným dotykem živých částí u bazénů není dovolena ochrana",
       "Answer_1": "zábranou",
       "Answer_2": "umístěním mimo dosah (polohou)",
-      "Answer_3": "pomocí SELV ČSN 33 2000-7-703 ed. 2 - Místnosti a kabiny se saunovými kamny",
+      "Answer_3": "pomocí SELV",
       "CorrectA": [
         1,
         2
@@ -5291,7 +5331,9 @@
       "Answer_1": "50 mA",
       "Answer_2": "30 mA",
       "Answer_3": "100 mA",
-      "CorrectA": 2
+      "CorrectA": [
+        2
+      ]
     },
     {
       "Quest_ID": 514,
@@ -5299,7 +5341,9 @@
       "Answer_1": "800 mA",
       "Answer_2": "500 mA",
       "Answer_3": "300 mA",
-      "CorrectA": 3
+      "CorrectA": [
+        3
+      ]
     },
     {
       "Quest_ID": 515,
@@ -5387,7 +5431,7 @@
       "Question": "Na jeden proudový chránič se jmenovitým vybavovacím proudem do 30 mA se smí v kempinku připojit maximálně",
       "Answer_1": "2 zásuvky",
       "Answer_2": "1 zásuvka",
-      "Answer_3": "6 zásuvek ČSN 33 2000-7-721 ed. 2 - Elektrická instalace v karavanech",
+      "Answer_3": "6 zásuvek",
       "CorrectA": [
         2
       ]
@@ -5417,7 +5461,7 @@
       "Question": "Kabely v karavanu, které nejsou umístěny v pevných instalačních trubkách, kanálech nebo ohebných elektroinstalačních trubkách musí být připevněny ve vzdálenostech nejvýše",
       "Answer_1": "0,6 m ve svislém směru a 0,4 m ve vodorovném směru",
       "Answer_2": "0,8 m ve svislém i vodorovném směru",
-      "Answer_3": "0,4 m ve svislém směru a 0,25 m ve vodorovném směru 110",
+      "Answer_3": "0,4 m ve svislém směru a 0,25 m ve vodorovném směru",
       "CorrectA": [
         3
       ]
@@ -5437,7 +5481,7 @@
       "Question": "Elektrické zařízení venkovní světelné instalace musí mít stupeň ochrany krytem",
       "Answer_1": "nejméně IP 21",
       "Answer_2": "nejméně IP 33",
-      "Answer_3": "nejméně IP 3X ČSN 33 2000-7-711 ed. 2 - Výstavy, přehlídky a stánky",
+      "Answer_3": "nejméně IP 3X",
       "CorrectA": [
         2
       ]
@@ -5447,7 +5491,7 @@
       "Question": "Provizorní instalace na výstavách, přehlídkách a ve stáncích musí splňovat tyto požadavky:",
       "Answer_1": "všechny zásuvkové obvody do 32 A a všechny koncové obvody pro osvětlení (kromě nouzového osvětlení) musí být chráněny proudovým chráničem se jmenovitým vybavovacím poruchovým proudem maximálně 30 mA",
       "Answer_2": "v síti TN musí být instalace provedena jako TN-C",
-      "Answer_3": "v síti TN musí být instalace provedena jako TN-S (nesmí se použít vodič PEN) ČSN 33 2000-7-753 ed. 2 - Podlahové a stropní vytápění",
+      "Answer_3": "v síti TN musí být instalace provedena jako TN-S (nesmí se použít vodič PEN)",
       "CorrectA": [
         1,
         3
@@ -5458,7 +5502,7 @@
       "Question": "Podrobná dokumentace topné soustavy, včetně rozložení a umístění topných jednotek, musí být stále upevněna nebo uložena:",
       "Answer_1": "v rozváděči topné soustavy",
       "Answer_2": "v hlavním rozváděči",
-      "Answer_3": "jako povinná příloha revizní zprávy topného systému 111",
+      "Answer_3": "jako povinná příloha revizní zprávy topného systému",
       "CorrectA": [
         1
       ]
@@ -5508,17 +5552,17 @@
       "Question": "Pokud je ve spotřebiči generováno bezpečné malé napětí a je ze spotřebiče vyvedeno, při revizi se ověřuje, zda není překročena mezní dovolená hodnota tohoto bezpečného malého napětí.",
       "Answer_1": "Napětí u SELV a PELV nesmí mezi vodiči překročit 25 V AC nebo 60 V DC.",
       "Answer_2": "Napětí u SELV a PELV nesmí mezi vodiči překročit 24 V AC nebo 100 V DC.",
-      "Answer_3": "Napětí u SELV a PELV nesmí mezi vodiči překročit 50 V AC nebo 120 V DC. 112",
+      "Answer_3": "Napětí u SELV a PELV nesmí mezi vodiči překročit 50 V AC nebo 120 V DC.",
       "CorrectA": [
         3
       ]
     },
     {
       "Quest_ID": 536,
-      "Question": "U prodlužovacích a odpojitelných přívodů se izolační stav měří mezi ochranným vodičem a vzájemně propojenými ostatními vodiči. Ω",
-      "Answer_1": "Změřený izolační odpor nesmí být menší než 2 M Ω",
-      "Answer_2": "Změřený izolační odpor nesmí být menší než 5 M Ω",
-      "Answer_3": "Změřený izolační odpor nesmí být menší než 7 M",
+      "Question": "U prodlužovacích a odpojitelných přívodů se izolační stav měří mezi ochranným vodičem a vzájemně propojenými ostatními vodiči.",
+      "Answer_1": "Změřený izolační odpor nesmí být menší než 2 MΩ",
+      "Answer_2": "Změřený izolační odpor nesmí být menší než 5 MΩ",
+      "Answer_3": "Změřený izolační odpor nesmí být menší než 7 MΩ",
       "CorrectA": [
         3
       ]
@@ -5560,7 +5604,7 @@
       "Question": "Osoba, která provedla opakovanou revizi, se na protokolu o opakované revizi prokáže alespoň jedním z těchto způsobů:",
       "Answer_1": "razítkem (podpis není nutný)",
       "Answer_2": "vlastnoručním podpisem",
-      "Answer_3": "elektronickým podpisem 113",
+      "Answer_3": "elektronickým podpisem",
       "CorrectA": [
         2,
         3
