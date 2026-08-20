@@ -2,6 +2,9 @@
 
 Interaktivní testovací aplikace pro přípravu na zkoušky revizního technika podle nařízení vlády č. 194/2022 Sb.
 
+## Odkaz pro spuštění
+https://mastins.github.io/194_2022_Test/
+
 ## ✨ Funkce
 
 - 📚 **5 typů testů**: E2/A-1 až E2/A-5 plus C99 (540 otázek)
